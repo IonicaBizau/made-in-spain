@@ -66,7 +66,8 @@
           "[R](#r)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[Swift](#swift)"
         ]
       },
       {
@@ -7387,6 +7388,27 @@
               "2",
               "[@jorgemoralespou](https://github.com/jorgemoralespou)/[**docker-jboss-modclus…**](https://github.com/jorgemoralespou/docker-jboss-modcluster)",
               "Dcoker image for JBoss modcluster",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Swift #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "19",
+              "[@robertofrontado](https://github.com/robertofrontado)/[**RxSocialConnect-iOS**](https://github.com/robertofrontado/RxSocialConnect-iOS)",
+              "OAuth RxSwift extension for iOS.",
               ""
             ]
           ]
