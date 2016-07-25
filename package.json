@@ -56,7 +56,8 @@
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -3598,6 +3599,225 @@
               "[@pepeiborra](https://github.com/pepeiborra)/[**fetchrules**](https://github.com/pepeiborra/fetchrules)",
               "Utilities for automatic parsing and conversion of TRSs in several formats",
               "[:arrow_upper_right:](http://safe-tools.dsic.upv.es/mediawiki/index.php/Jose_Iborra)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "702",
+              "[@kikito](https://github.com/kikito)/[**middleclass**](https://github.com/kikito/middleclass)",
+              "Object-orientation for Lua",
+              "[:arrow_upper_right:](https://github.com/kikito/middleclass)"
+            ],
+            [
+              "305",
+              "[@kikito](https://github.com/kikito)/[**inspect.lua**](https://github.com/kikito/inspect.lua)",
+              "Human-readable representation of Lua tables",
+              "[:arrow_upper_right:](https://github.com/kikito/inspect.lua)"
+            ],
+            [
+              "233",
+              "[@kikito](https://github.com/kikito)/[**bump.lua**](https://github.com/kikito/bump.lua)",
+              "A collision detection library for Lua",
+              ""
+            ],
+            [
+              "205",
+              "[@kikito](https://github.com/kikito)/[**tween.lua**](https://github.com/kikito/tween.lua)",
+              "Tweening/Easing/Interpolating functions for lua. Inspired on jQuery's animate method.",
+              ""
+            ],
+            [
+              "200",
+              "[@kikito](https://github.com/kikito)/[**lua_missions**](https://github.com/kikito/lua_missions)",
+              "Lua Koans, minus the Zen stuff",
+              "[:arrow_upper_right:](https://github.com/kikito/lua_missions)"
+            ],
+            [
+              "162",
+              "[@kikito](https://github.com/kikito)/[**love-tile-tutorial**](https://github.com/kikito/love-tile-tutorial)",
+              "A tutorial for making tile-based games with LÖVE",
+              "[:arrow_upper_right:](https://github.com/kikito/love-tile-tutorial/wiki)"
+            ],
+            [
+              "161",
+              "[@kikito](https://github.com/kikito)/[**anim8**](https://github.com/kikito/anim8)",
+              "An animation library for LÖVE",
+              ""
+            ],
+            [
+              "87",
+              "[@kikito](https://github.com/kikito)/[**stateful.lua**](https://github.com/kikito/stateful.lua)",
+              "Stateful classes for Lua",
+              ""
+            ],
+            [
+              "76",
+              "[@kikito](https://github.com/kikito)/[**md5.lua**](https://github.com/kikito/md5.lua)",
+              "MD5 sum in pure Lua, with no C and no external dependencies",
+              ""
+            ],
+            [
+              "73",
+              "[@kikito](https://github.com/kikito)/[**cron.lua**](https://github.com/kikito/cron.lua)",
+              "Time-related functions for Lua, inspired in javascript's setTimeout and setInterval",
+              ""
+            ],
+            [
+              "69",
+              "[@kikito](https://github.com/kikito)/[**gamera**](https://github.com/kikito/gamera)",
+              "A camera system for LÖVE",
+              ""
+            ],
+            [
+              "63",
+              "[@kikito](https://github.com/kikito)/[**love-loader**](https://github.com/kikito/love-loader)",
+              "Threaded resource loading for LÖVE",
+              "[:arrow_upper_right:](http://love2d.org)"
+            ],
+            [
+              "60",
+              "[@Josepdal](https://github.com/Josepdal)/[**DBTeam**](https://github.com/Josepdal/DBTeam)",
+              "An administration and multi-language bot based on yagop/telegram-bot -->",
+              "[:arrow_upper_right:](https://github.com/yagop/telegram-bot)"
+            ],
+            [
+              "59",
+              "[@javieryanez](https://github.com/javieryanez)/[**nodemcu-modules**](https://github.com/javieryanez/nodemcu-modules)",
+              "Modules for nodeMcu (LUA intepreter for ESP8266)",
+              ""
+            ],
+            [
+              "51",
+              "[@kikito](https://github.com/kikito)/[**i18n.lua**](https://github.com/kikito/i18n.lua)",
+              "A very complete i18n lib for Lua",
+              ""
+            ],
+            [
+              "40",
+              "[@kikito](https://github.com/kikito)/[**beholder.lua**](https://github.com/kikito/beholder.lua)",
+              "Minimal observer pattern for Lua, with a couple twists",
+              ""
+            ],
+            [
+              "37",
+              "[@kikito](https://github.com/kikito)/[**sha1.lua**](https://github.com/kikito/sha1.lua)",
+              "SHA-1 secure hash computation, and HMAC-SHA1 signature computation in Lua (5.1)",
+              ""
+            ],
+            [
+              "30",
+              "[@kikito](https://github.com/kikito)/[**passion**](https://github.com/kikito/passion)",
+              "An object-oriented LÖVE game engine",
+              ""
+            ],
+            [
+              "29",
+              "[@kikito](https://github.com/kikito)/[**memoize.lua**](https://github.com/kikito/memoize.lua)",
+              "memoized functions in lua",
+              "[:arrow_upper_right:](https://github.com/kikito/memoize.lua)"
+            ],
+            [
+              "27",
+              "[@kikito](https://github.com/kikito)/[**middleclass-extras**](https://github.com/kikito/middleclass-extras)",
+              "A set of middleclass add-ons that make it easier to use in some cases",
+              ""
+            ],
+            [
+              "23",
+              "[@kikito](https://github.com/kikito)/[**semver.lua**](https://github.com/kikito/semver.lua)",
+              "Semantic versioning for Lua",
+              "[:arrow_upper_right:](http://semver.org/)"
+            ],
+            [
+              "17",
+              "[@kikito](https://github.com/kikito)/[**bresenham.lua**](https://github.com/kikito/bresenham.lua)",
+              "",
+              ""
+            ],
+            [
+              "13",
+              "[@kikito](https://github.com/kikito)/[**battle-cry**](https://github.com/kikito/battle-cry)",
+              "",
+              ""
+            ],
+            [
+              "12",
+              "[@kikito](https://github.com/kikito)/[**pulsar.lua**](https://github.com/kikito/pulsar.lua)",
+              "A-star algorithm implementation in Lua",
+              ""
+            ],
+            [
+              "8",
+              "[@kikito](https://github.com/kikito)/[**middleclass-commons**](https://github.com/kikito/middleclass-commons)",
+              "Interface between middleclass and Class-Commons",
+              ""
+            ],
+            [
+              "5",
+              "[@kikito](https://github.com/kikito)/[**pew-pew-boom**](https://github.com/kikito/pew-pew-boom)",
+              "Explosions in 2D space. Ussing PÄSSION and LÖVE",
+              ""
+            ],
+            [
+              "5",
+              "[@kikito](https://github.com/kikito)/[**ekrixion**](https://github.com/kikito/ekrixion)",
+              "simple game in LÖVE",
+              ""
+            ],
+            [
+              "4",
+              "[@kikito](https://github.com/kikito)/[**fay**](https://github.com/kikito/fay)",
+              "A small game for LÖVE, made for Ludum Dare #25",
+              ""
+            ],
+            [
+              "4",
+              "[@kikito](https://github.com/kikito)/[**middleclass-specs**](https://github.com/kikito/middleclass-specs)",
+              "Specs for testing middleclass",
+              ""
+            ],
+            [
+              "3",
+              "[@kikito](https://github.com/kikito)/[**passion-demos**](https://github.com/kikito/passion-demos)",
+              "several demos of the PÄSSION game engine",
+              ""
+            ],
+            [
+              "3",
+              "[@kikito](https://github.com/kikito)/[**ld-30**](https://github.com/kikito/ld-30)",
+              "LD 30 - Earth, Hell & Space",
+              "[:arrow_upper_right:](http://www.ludumdare.com/compo/ludum-dare-30/?action=preview&uid=4031)"
+            ],
+            [
+              "3",
+              "[@eipporko](https://github.com/eipporko)/[**ShootEmAll**](https://github.com/eipporko/ShootEmAll)",
+              "Prototype for löve 2d 0.10.0",
+              "[:arrow_upper_right:](http://eipporko.github.io/ShootEmAll)"
+            ],
+            [
+              "2",
+              "[@Diarandor](https://github.com/Diarandor)/[**repository**](https://github.com/Diarandor/repository)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@kikito](https://github.com/kikito)/[**modis.lua**](https://github.com/kikito/modis.lua)",
+              "Lua implementation of MongoDB query language over redis.",
+              ""
             ]
           ]
         }
