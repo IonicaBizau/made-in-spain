@@ -50,7 +50,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -2973,6 +2974,345 @@
               "2",
               "[@waninkoko](https://github.com/waninkoko)/[**hero-kernel-2.6.35**](https://github.com/waninkoko/hero-kernel-2.6.35)",
               "Linux kernel for the HTC Wildfire",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "378",
+              "[@raulmur](https://github.com/raulmur)/[**ORB_SLAM2**](https://github.com/raulmur/ORB_SLAM2)",
+              "Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities",
+              ""
+            ],
+            [
+              "334",
+              "[@iryoku](https://github.com/iryoku)/[**smaa**](https://github.com/iryoku/smaa)",
+              "SMAA is a very efficient GPU-based MLAA implementation (DX9, DX10, DX11 and OpenGL), capable of handling subpixel features seamlessly, and featuring an improved and advanced pattern detection & handling mechanism.",
+              "[:arrow_upper_right:](http://www.iryoku.com/smaa/)"
+            ],
+            [
+              "329",
+              "[@raulmur](https://github.com/raulmur)/[**ORB_SLAM**](https://github.com/raulmur/ORB_SLAM)",
+              "A Versatile and Accurate Monocular SLAM",
+              "[:arrow_upper_right:](http://webdiis.unizar.es/~raulmur/orbslam/)"
+            ],
+            [
+              "214",
+              "[@iryoku](https://github.com/iryoku)/[**separable-sss**](https://github.com/iryoku/separable-sss)",
+              "Separable Subsurface Scattering is a technique that allows to efficiently perform subsurface scattering calculations in screen space in just two passes.",
+              "[:arrow_upper_right:](http://www.iryoku.com/)"
+            ],
+            [
+              "196",
+              "[@jlblancoc](https://github.com/jlblancoc)/[**nanoflann**](https://github.com/jlblancoc/nanoflann)",
+              "nanoflann: a C++ header-only library for Nearest Neighbor (NN) search wih KD-trees",
+              ""
+            ],
+            [
+              "93",
+              "[@jesusgollonet](https://github.com/jesusgollonet)/[**ofpennereasing**](https://github.com/jesusgollonet/ofpennereasing)",
+              "a port of penner's easing equations to c++, with an openframeworks usage example",
+              ""
+            ],
+            [
+              "83",
+              "[@jesusgollonet](https://github.com/jesusgollonet)/[**ofxGifEncoder**](https://github.com/jesusgollonet/ofxGifEncoder)",
+              "openframeworks addon to export animated gifs",
+              ""
+            ],
+            [
+              "21",
+              "[@pauek](https://github.com/pauek)/[**norvig-sudoku**](https://github.com/pauek/norvig-sudoku)",
+              "Norvig's Sudoku solver in C++",
+              ""
+            ],
+            [
+              "20",
+              "[@fincs](https://github.com/fincs)/[**picasso**](https://github.com/fincs/picasso)",
+              "Homebrew PICA200 shader assembler",
+              ""
+            ],
+            [
+              "20",
+              "[@jesusgollonet](https://github.com/jesusgollonet)/[**ofxGifDecoder**](https://github.com/jesusgollonet/ofxGifDecoder)",
+              "openframeworks addon to import animated gifs",
+              ""
+            ],
+            [
+              "13",
+              "[@skyrpex](https://github.com/skyrpex)/[**RichText**](https://github.com/skyrpex/RichText)",
+              "Rich text class for SFML2. Allows the user to draw lines of text with different styles and colors.",
+              ""
+            ],
+            [
+              "11",
+              "[@raulmur](https://github.com/raulmur)/[**BagFromImages**](https://github.com/raulmur/BagFromImages)",
+              "Create a rosbag from a collection of images",
+              ""
+            ],
+            [
+              "11",
+              "[@pauek](https://github.com/pauek)/[**MiniWin**](https://github.com/pauek/MiniWin)",
+              "Mini-conjunto de funciones GUI",
+              ""
+            ],
+            [
+              "10",
+              "[@jesusgollonet](https://github.com/jesusgollonet)/[**ofxHalftoner**](https://github.com/jesusgollonet/ofxHalftoner)",
+              "Dithering patterns for openframeworks",
+              ""
+            ],
+            [
+              "10",
+              "[@wagerlabs](https://github.com/wagerlabs)/[**seaforth24**](https://github.com/wagerlabs/seaforth24)",
+              "Mac OSX driver for the IntellaSys FORTHdrive device (SeaForth24 ) implementing SCSI pass-through",
+              "[:arrow_upper_right:](http://www.intellasys.net/index.php?option=com_content&task=view&id=62&Itemid=77)"
+            ],
+            [
+              "9",
+              "[@drhelius](https://github.com/drhelius)/[**Geardrive**](https://github.com/drhelius/Geardrive)",
+              "Sega Mega Drive / Genesis emulator for iOS, Mac, Raspberry Pi, Windows and Linux",
+              "[:arrow_upper_right:](http://twitter.com/drhelius)"
+            ],
+            [
+              "7",
+              "[@NCordon](https://github.com/NCordon)/[**C-indentator**](https://github.com/NCordon/C-indentator)",
+              "A simple C/C++ code indentator. UGR, Granada",
+              ""
+            ],
+            [
+              "7",
+              "[@demiurgosoft](https://github.com/demiurgosoft)/[**dont-crush-my-castle**](https://github.com/demiurgosoft/dont-crush-my-castle)",
+              "Next-gen open-source tower defense",
+              "[:arrow_upper_right:](https://dontcrushmycastle.wordpress.com/)"
+            ],
+            [
+              "6",
+              "[@drodri](https://github.com/drodri)/[**MRCore**](https://github.com/drodri/MRCore)",
+              "Mobile Robotics development toolkit, in C++",
+              ""
+            ],
+            [
+              "6",
+              "[@skyrpex](https://github.com/skyrpex)/[**psimpl**](https://github.com/skyrpex/psimpl)",
+              "Generic n-dimensional polyline simplification",
+              "[:arrow_upper_right:](http://psimpl.sourceforge.net/)"
+            ],
+            [
+              "6",
+              "[@alexandernst](https://github.com/alexandernst)/[**memory-dumper**](https://github.com/alexandernst/memory-dumper)",
+              "A tool for dumping files from processes memory",
+              ""
+            ],
+            [
+              "5",
+              "[@pauek](https://github.com/pauek)/[**ccjs**](https://github.com/pauek/ccjs)",
+              "A C++ mini-compiler in Javascript",
+              ""
+            ],
+            [
+              "4",
+              "[@albertnez](https://github.com/albertnez)/[**SFML-template**](https://github.com/albertnez/SFML-template)",
+              "Simple template for a SFML game.",
+              ""
+            ],
+            [
+              "4",
+              "[@fincs](https://github.com/fincs)/[**NitroTracker-FeOS**](https://github.com/fincs/NitroTracker-FeOS)",
+              "FeOS port of NitroTracker, a FastTracker II style tracker for the Nintendo DS",
+              ""
+            ],
+            [
+              "4",
+              "[@davidgasquez](https://github.com/davidgasquez)/[**opengl-test**](https://github.com/davidgasquez/opengl-test)",
+              ":tea: Learning OpenGL",
+              ""
+            ],
+            [
+              "4",
+              "[@pauek](https://github.com/pauek)/[**minicc**](https://github.com/pauek/minicc)",
+              "MiniC++, intérprete de C++ pedagógico",
+              ""
+            ],
+            [
+              "4",
+              "[@NCordon](https://github.com/NCordon)/[**ion-algorithm**](https://github.com/NCordon/ion-algorithm)",
+              "Real coding metaheuristic modification for the subject Metaheuristicas, UGR, Granada",
+              ""
+            ],
+            [
+              "3",
+              "[@skyrpex](https://github.com/skyrpex)/[**QxTimeLineEditor**](https://github.com/skyrpex/QxTimeLineEditor)",
+              "Simple generic timeline editor for Qt",
+              ""
+            ],
+            [
+              "3",
+              "[@alexandernst](https://github.com/alexandernst)/[**headless_browser**](https://github.com/alexandernst/headless_browser)",
+              "Headless browser based on WebKit",
+              ""
+            ],
+            [
+              "3",
+              "[@edulix](https://github.com/edulix)/[**text2screen**](https://github.com/edulix/text2screen)",
+              "Shows a text file in fullscreen and with automatic scrolling, ideal for giving a speech",
+              ""
+            ],
+            [
+              "3",
+              "[@luisivan](https://github.com/luisivan)/[**QtOctave**](https://github.com/luisivan/QtOctave)",
+              "A front-end for Octave",
+              ""
+            ],
+            [
+              "3",
+              "[@Dirbaio](https://github.com/Dirbaio)/[**Durum-Lare**](https://github.com/Dirbaio/Durum-Lare)",
+              "Our game for Ludum Dare...",
+              ""
+            ],
+            [
+              "3",
+              "[@davidgasquez](https://github.com/davidgasquez)/[**steganography**](https://github.com/davidgasquez/steganography)",
+              ":mag_right: A simple tool for text codification on PGM/PPM images",
+              ""
+            ],
+            [
+              "3",
+              "[@davidgasquez](https://github.com/davidgasquez)/[**loto**](https://github.com/davidgasquez/loto)",
+              ":game_die: Yet another Tower Defense game.",
+              ""
+            ],
+            [
+              "3",
+              "[@davidgasquez](https://github.com/davidgasquez)/[**qap**](https://github.com/davidgasquez/qap)",
+              ":briefcase: Approach to the Quadratic Assignment Problem in C++ using memetic algorithms and tabu search. ",
+              ""
+            ],
+            [
+              "3",
+              "[@drhelius](https://github.com/drhelius)/[**bstone-ios**](https://github.com/drhelius/bstone-ios)",
+              "Blake Stone: Planet Strike source port for iOS",
+              "[:arrow_upper_right:](https://twitter.com/drhelius)"
+            ],
+            [
+              "3",
+              "[@fincs](https://github.com/fincs)/[**midi2sseq**](https://github.com/fincs/midi2sseq)",
+              "MIDI to SSEQ converter",
+              ""
+            ],
+            [
+              "3",
+              "[@softwarejimenez](https://github.com/softwarejimenez)/[**practicas-Sistemas-c…**](https://github.com/softwarejimenez/practicas-Sistemas-concurrentes-y-distribuidos)",
+              "Conjunto de programas  de las practicas de  Sistemas concurrentes y distribuidos de la universidad de granada",
+              ""
+            ],
+            [
+              "2",
+              "[@davidgasquez](https://github.com/davidgasquez)/[**patrol-bot**](https://github.com/davidgasquez/patrol-bot)",
+              ":police_car: Small bot with the ability to patrol around a fixed map.",
+              ""
+            ],
+            [
+              "2",
+              "[@felixcarmona](https://github.com/felixcarmona)/[**deephp**](https://github.com/felixcarmona/deephp)",
+              "php extension that allows the php abstraction of low-level instructions (direct control with memory...)",
+              ""
+            ],
+            [
+              "2",
+              "[@jesusgollonet](https://github.com/jesusgollonet)/[**ofxCvWatershed**](https://github.com/jesusgollonet/ofxCvWatershed)",
+              "proof of concept addon for using opencv's watershed segmentation inside openframeworks",
+              ""
+            ],
+            [
+              "2",
+              "[@drhelius](https://github.com/drhelius)/[**NVMeshMender**](https://github.com/drhelius/NVMeshMender)",
+              "The nVidia NVMeshMender library is designed to prepare meshes for per-pixel lighting, by generating normals, tangents and binormals.",
+              ""
+            ],
+            [
+              "2",
+              "[@fincs](https://github.com/fincs)/[**b0rkshell**](https://github.com/fincs/b0rkshell)",
+              "Official FeOS GUI",
+              ""
+            ],
+            [
+              "2",
+              "[@felixcarmona](https://github.com/felixcarmona)/[**Winsock-Hook-Prevent…**](https://github.com/felixcarmona/Winsock-Hook-Prevention-System)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@Dirbaio](https://github.com/Dirbaio)/[**FireAttack**](https://github.com/Dirbaio/FireAttack)",
+              "A weird shooter game full of particles!",
+              ""
+            ],
+            [
+              "2",
+              "[@pauek](https://github.com/pauek)/[**nets**](https://github.com/pauek/nets)",
+              "Implementation of various complex network statistics on graphs",
+              ""
+            ],
+            [
+              "2",
+              "[@pauek](https://github.com/pauek)/[**edoo**](https://github.com/pauek/edoo)",
+              "Apunts EDOO",
+              "[:arrow_upper_right:](http://www.lsi.upc.edu/~euetit/edoo/doc/)"
+            ],
+            [
+              "2",
+              "[@pauek](https://github.com/pauek)/[**mecano-lisp**](https://github.com/pauek/mecano-lisp)",
+              "A toy language",
+              ""
+            ],
+            [
+              "2",
+              "[@divan](https://github.com/divan)/[**qechoprint**](https://github.com/divan/qechoprint)",
+              "Qt-based music identify app powered by EchoNest",
+              ""
+            ],
+            [
+              "2",
+              "[@edulix](https://github.com/edulix)/[**gsoc**](https://github.com/edulix/gsoc)",
+              "The repository in which I'll do my GSoC tests. I use this mainly to sync my two laptops",
+              ""
+            ],
+            [
+              "2",
+              "[@drodri](https://github.com/drodri)/[**opencv-getting-start…**](https://github.com/drodri/opencv-getting-started)",
+              "Two simple examples, for a quick start in any system (Win, Linux, Mac) using biicode C/C++ deps manager",
+              ""
+            ],
+            [
+              "2",
+              "[@demiurgosoft](https://github.com/demiurgosoft)/[**open-hanafuda**](https://github.com/demiurgosoft/open-hanafuda)",
+              "Game based on  classic japanese deck hanafuda to play Koi-Koi. Programmed using C++,Allegro 5 and decksim",
+              ""
+            ],
+            [
+              "2",
+              "[@David-Estevez](https://github.com/David-Estevez)/[**gecko**](https://github.com/David-Estevez/gecko)",
+              "Gesture Control via webcam",
+              ""
+            ],
+            [
+              "2",
+              "[@drodri](https://github.com/drodri)/[**opencv-biicode**](https://github.com/drodri/opencv-biicode)",
+              "Biicode hooks for opencv, both 2.4 and 3.0 beta. Simple getting started for opencv in C/C++",
               ""
             ]
           ]
