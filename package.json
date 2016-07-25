@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -1541,6 +1542,825 @@
               "2",
               "[@dciccale](https://github.com/dciccale)/[**noflash**](https://github.com/dciccale/noflash)",
               "NoFlash Chrome Extension blocks flash from the page until activated manually, or add urls to the white list to exclude sites from blocked.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2789",
+              "[@antoniolg](https://github.com/antoniolg)/[**androidmvp**](https://github.com/antoniolg/androidmvp)",
+              "MVP Android Example",
+              ""
+            ],
+            [
+              "2723",
+              "[@ManuelPeinado](https://github.com/ManuelPeinado)/[**FadingActionBar**](https://github.com/ManuelPeinado/FadingActionBar)",
+              "Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app",
+              ""
+            ],
+            [
+              "1371",
+              "[@dexafree](https://github.com/dexafree)/[**MaterialList**](https://github.com/dexafree/MaterialList)",
+              "An Android library aimed to get the beautiful CardViews that Google shows at its official design specifications",
+              ""
+            ],
+            [
+              "1251",
+              "[@antoniolg](https://github.com/antoniolg)/[**MaterialEverywhere**](https://github.com/antoniolg/MaterialEverywhere)",
+              "Showcase of the new AppCompat 21, which includes new Material Theme, working in pre-21 devices.",
+              ""
+            ],
+            [
+              "1176",
+              "[@ManuelPeinado](https://github.com/ManuelPeinado)/[**GlassActionBar**](https://github.com/ManuelPeinado/GlassActionBar)",
+              "Android - a library that adds a glass-like effect to the action bar.",
+              ""
+            ],
+            [
+              "919",
+              "[@antoniolg](https://github.com/antoniolg)/[**MaterializeYourApp**](https://github.com/antoniolg/MaterializeYourApp)",
+              "Example of a Material App for Android",
+              ""
+            ],
+            [
+              "909",
+              "[@txusballesteros](https://github.com/txusballesteros)/[**bubbles-for-android**](https://github.com/txusballesteros/bubbles-for-android)",
+              "Bubbles for Android is an Android library to provide chat heads capabilities on your apps. With a fast way to integrate with your development.",
+              ""
+            ],
+            [
+              "872",
+              "[@glomadrian](https://github.com/glomadrian)/[**RoadRunner**](https://github.com/glomadrian/RoadRunner)",
+              "Road Runner is a library for android which allow you to make your own loading animation using a SVG image",
+              ""
+            ],
+            [
+              "871",
+              "[@txusballesteros](https://github.com/txusballesteros)/[**welcome-coordinator**](https://github.com/txusballesteros/welcome-coordinator)",
+              "Welcome Coordinator for Android",
+              ""
+            ],
+            [
+              "868",
+              "[@glomadrian](https://github.com/glomadrian)/[**material-animated-sw…**](https://github.com/glomadrian/material-animated-switch)",
+              "A material Switch with icon animations and color transitions",
+              ""
+            ],
+            [
+              "840",
+              "[@ManuelPeinado](https://github.com/ManuelPeinado)/[**MultiChoiceAdapter**](https://github.com/ManuelPeinado/MultiChoiceAdapter)",
+              "Android - A ListView adapter with support for multiple choice modal selection",
+              ""
+            ],
+            [
+              "820",
+              "[@jlmd](https://github.com/jlmd)/[**AnimatedCircleLoadin…**](https://github.com/jlmd/AnimatedCircleLoadingView)",
+              "An animated circle loading view",
+              ""
+            ],
+            [
+              "802",
+              "[@glomadrian](https://github.com/glomadrian)/[**loading-balls**](https://github.com/glomadrian/loading-balls)",
+              "A highly configurable library to do loading progress with animated balls",
+              ""
+            ],
+            [
+              "749",
+              "[@alorma](https://github.com/alorma)/[**TimelineView**](https://github.com/alorma/TimelineView)",
+              "Cute timeline view for android",
+              ""
+            ],
+            [
+              "737",
+              "[@glomadrian](https://github.com/glomadrian)/[**MvpCleanArchitecture**](https://github.com/glomadrian/MvpCleanArchitecture)",
+              "A sample project using Clean architecture and MVP in Android",
+              ""
+            ],
+            [
+              "711",
+              "[@VictorAlbertos](https://github.com/VictorAlbertos)/[**RxCache**](https://github.com/VictorAlbertos/RxCache)",
+              "Reactive caching library for Android and Java",
+              ""
+            ],
+            [
+              "702",
+              "[@Sefford](https://github.com/Sefford)/[**CircularProgressDraw…**](https://github.com/Sefford/CircularProgressDrawable)",
+              "A drawable with capabilities to indicate progress.",
+              ""
+            ],
+            [
+              "701",
+              "[@txusballesteros](https://github.com/txusballesteros)/[**sliding-deck**](https://github.com/txusballesteros/sliding-deck)",
+              "SlidingDeck View for Android",
+              ""
+            ],
+            [
+              "674",
+              "[@ManuelPeinado](https://github.com/ManuelPeinado)/[**RefreshActionItem**](https://github.com/ManuelPeinado/RefreshActionItem)",
+              "Android - An action bar item which acts both as a refresh button and as a progress indicator",
+              ""
+            ],
+            [
+              "592",
+              "[@javiersantos](https://github.com/javiersantos)/[**MaterialStyledDialog…**](https://github.com/javiersantos/MaterialStyledDialogs)",
+              "A library that shows a beautiful and customizable Material-based dialog with header. API 11+ required.",
+              ""
+            ],
+            [
+              "591",
+              "[@JMPergar](https://github.com/JMPergar)/[**AwesomeText**](https://github.com/JMPergar/AwesomeText)",
+              "A tool that facilitates working with Spans on TextViews or any extension of them (EditTexts, Buttons...).",
+              ""
+            ],
+            [
+              "547",
+              "[@javiersantos](https://github.com/javiersantos)/[**PiracyChecker**](https://github.com/javiersantos/PiracyChecker)",
+              "An Android library that prevents your app from being pirated / cracked using Google Play Licensing (LVL), APK signature protection and more. API 8+ required.",
+              ""
+            ],
+            [
+              "540",
+              "[@glomadrian](https://github.com/glomadrian)/[**velocimeter-view**](https://github.com/glomadrian/velocimeter-view)",
+              "A velocimeter View for Android",
+              ""
+            ],
+            [
+              "535",
+              "[@glomadrian](https://github.com/glomadrian)/[**material-code-input**](https://github.com/glomadrian/material-code-input)",
+              "A material style input for codes",
+              ""
+            ],
+            [
+              "518",
+              "[@jlmd](https://github.com/jlmd)/[**UpcomingMoviesMVP**](https://github.com/jlmd/UpcomingMoviesMVP)",
+              "Sample project of MVP and Material Design using as repository a list of upcoming movies",
+              ""
+            ],
+            [
+              "497",
+              "[@txusballesteros](https://github.com/txusballesteros)/[**fit-chart**](https://github.com/txusballesteros/fit-chart)",
+              "Fit Chart is an Android view similar to Google Fit wheel chart.",
+              ""
+            ],
+            [
+              "463",
+              "[@glomadrian](https://github.com/glomadrian)/[**dashed-circular-prog…**](https://github.com/glomadrian/dashed-circular-progress)",
+              "A Circular progress animated where you can put any view inside",
+              ""
+            ],
+            [
+              "462",
+              "[@javiersantos](https://github.com/javiersantos)/[**AppUpdater**](https://github.com/javiersantos/AppUpdater)",
+              "A library that checks for your apps' updates on Google Play, GitHub, Amazon, F-Droid or your own server. API 8+ required.",
+              ""
+            ],
+            [
+              "417",
+              "[@antoniolg](https://github.com/antoniolg)/[**RecyclerViewExtensio…**](https://github.com/antoniolg/RecyclerViewExtensions)",
+              "A library focused on making the use of RecyclerView for Android easier",
+              ""
+            ],
+            [
+              "377",
+              "[@ManuelPeinado](https://github.com/ManuelPeinado)/[**ImageLayout**](https://github.com/ManuelPeinado/ImageLayout)",
+              "Android - A layout that arranges its children in relation to a background image",
+              ""
+            ],
+            [
+              "370",
+              "[@ManuelPeinado](https://github.com/ManuelPeinado)/[**QuickReturnHeader**](https://github.com/ManuelPeinado/QuickReturnHeader)",
+              "A ListView/ScrollView header that hides when scrolling down and reappears immediately when scrolling up, regardless of how far down the list we've gone. Like the one from the Google Keep app.",
+              ""
+            ],
+            [
+              "317",
+              "[@txusballesteros](https://github.com/txusballesteros)/[**AutosizeEditText**](https://github.com/txusballesteros/AutosizeEditText)",
+              "AutosizeEditText for Android is an extension of native EditText that offer a smooth auto scale text size.",
+              ""
+            ],
+            [
+              "317",
+              "[@javiersantos](https://github.com/javiersantos)/[**BottomDialogs**](https://github.com/javiersantos/BottomDialogs)",
+              "An Android library that shows a customizable Material-based bottom sheet. API 11+ required.",
+              ""
+            ],
+            [
+              "299",
+              "[@txusballesteros](https://github.com/txusballesteros)/[**Android-Clean-Testin…**](https://github.com/txusballesteros/Android-Clean-Testing)",
+              "Android Testing Sample Project",
+              ""
+            ],
+            [
+              "282",
+              "[@antoniolg](https://github.com/antoniolg)/[**DaggerExample**](https://github.com/antoniolg/DaggerExample)",
+              "Android project using Dagger library",
+              ""
+            ],
+            [
+              "255",
+              "[@javiersantos](https://github.com/javiersantos)/[**MLManager**](https://github.com/javiersantos/MLManager)",
+              "A modern, easy and customizable app manager for Android with Material Design",
+              "[:arrow_upper_right:](https://javiersantos.github.io/mlmanager)"
+            ],
+            [
+              "247",
+              "[@ManuelPeinado](https://github.com/ManuelPeinado)/[**NumericPageIndicator**](https://github.com/ManuelPeinado/NumericPageIndicator)",
+              "Android - A ViewPager page indicator that displays the current page number and (optionally) the page count",
+              ""
+            ],
+            [
+              "239",
+              "[@txusballesteros](https://github.com/txusballesteros)/[**snake**](https://github.com/txusballesteros/snake)",
+              "Snake View is a simple and animated linear chart for Android.",
+              ""
+            ],
+            [
+              "211",
+              "[@glomadrian](https://github.com/glomadrian)/[**Android-Material-cir…**](https://github.com/glomadrian/Android-Material-circular-button)",
+              "Animated Material circular button",
+              ""
+            ],
+            [
+              "209",
+              "[@txusballesteros](https://github.com/txusballesteros)/[**android-transformer**](https://github.com/txusballesteros/android-transformer)",
+              "An Android library to manage your data transformations between your POJO objects.",
+              ""
+            ],
+            [
+              "200",
+              "[@VictorAlbertos](https://github.com/VictorAlbertos)/[**RxSocialConnect-Andr…**](https://github.com/VictorAlbertos/RxSocialConnect-Android)",
+              "OAuth RxJava extension for Android.",
+              ""
+            ],
+            [
+              "196",
+              "[@VictorAlbertos](https://github.com/VictorAlbertos)/[**RxActivityResult**](https://github.com/VictorAlbertos/RxActivityResult)",
+              "A reactive-tiny-badass-vindictive library to break with the OnActivityResult implementation as it breaks the observables chain.",
+              ""
+            ],
+            [
+              "144",
+              "[@javiersantos](https://github.com/javiersantos)/[**WhatsAppBetaUpdater**](https://github.com/javiersantos/WhatsAppBetaUpdater)",
+              "An app to update WhatsApp to the latest beta version available on Android. Based on Material Design.",
+              ""
+            ],
+            [
+              "95",
+              "[@VictorAlbertos](https://github.com/VictorAlbertos)/[**RxGcm**](https://github.com/VictorAlbertos/RxGcm)",
+              "[DEPRECATED] RxJava extension for Android Google Cloud Messaging (aka gcm).",
+              ""
+            ],
+            [
+              "92",
+              "[@trishagee](https://github.com/trishagee)/[**sense**](https://github.com/trishagee/sense)",
+              "Demo app that subscribes to Twitter and publishes it via websockets",
+              ""
+            ],
+            [
+              "82",
+              "[@antoniolg](https://github.com/antoniolg)/[**LimeApp**](https://github.com/antoniolg/LimeApp)",
+              "Open source Application based on the tutorials written in http://www.limecreativelabs.com. The best way to quickly test tutorial result.",
+              ""
+            ],
+            [
+              "74",
+              "[@alorma](https://github.com/alorma)/[**GithubContributorsLi…**](https://github.com/alorma/GithubContributorsLib)",
+              "A library to easily show open source (Github) project contributors",
+              ""
+            ],
+            [
+              "73",
+              "[@ManuelPeinado](https://github.com/ManuelPeinado)/[**FadingActionBar-Nati…**](https://github.com/ManuelPeinado/FadingActionBar-Native)",
+              "Android - A version of FadingActionBar that works with the native action bar.",
+              ""
+            ],
+            [
+              "62",
+              "[@VictorAlbertos](https://github.com/VictorAlbertos)/[**Mockery**](https://github.com/VictorAlbertos/Mockery)",
+              "Android and Java library for mocking and testing networking layers with built-in support for Retrofit.",
+              ""
+            ],
+            [
+              "61",
+              "[@Sefford](https://github.com/Sefford)/[**kor**](https://github.com/Sefford/kor)",
+              "A clean architecture implementation",
+              ""
+            ],
+            [
+              "60",
+              "[@ManuelPeinado](https://github.com/ManuelPeinado)/[**RefreshActionItem-Na…**](https://github.com/ManuelPeinado/RefreshActionItem-Native)",
+              "Android - A version of RefreshActionItem that works with the native action bar",
+              ""
+            ],
+            [
+              "58",
+              "[@txusballesteros](https://github.com/txusballesteros)/[**mara**](https://github.com/txusballesteros/mara)",
+              "Mara is a library to provide traits or composition capabilities to your Android or Java projects.",
+              ""
+            ],
+            [
+              "53",
+              "[@javiersantos](https://github.com/javiersantos)/[**Moticons**](https://github.com/javiersantos/Moticons)",
+              "Moticons is a simple, easy and modern app to manage and use Japanese Emoticons with Material Design ",
+              "[:arrow_upper_right:](http://javiersantos.github.io/moticons)"
+            ],
+            [
+              "51",
+              "[@txusballesteros](https://github.com/txusballesteros)/[**android-bind**](https://github.com/txusballesteros/android-bind)",
+              "This library helps you on the data binds between your model entities and your application UI.",
+              ""
+            ],
+            [
+              "47",
+              "[@carlossg](https://github.com/carlossg)/[**glacier-cli**](https://github.com/carlossg/glacier-cli)",
+              "Amazon AWS Glacier command line interface",
+              ""
+            ],
+            [
+              "46",
+              "[@javiersantos](https://github.com/javiersantos)/[**AdBlockerAdvise**](https://github.com/javiersantos/AdBlockerAdvise)",
+              "Android Library that checks if there is an Ad Blocker enabled and shows a customizable dialog. API 8+ required.",
+              ""
+            ],
+            [
+              "44",
+              "[@Sloy](https://github.com/Sloy)/[**gallego**](https://github.com/Sloy/gallego)",
+              "Lightweight Optionals for Java 7",
+              ""
+            ],
+            [
+              "44",
+              "[@antoniolg](https://github.com/antoniolg)/[**BrandedLaunchScreen**](https://github.com/antoniolg/BrandedLaunchScreen)",
+              "An example on how to implement a Branded Launch Screen in Android",
+              ""
+            ],
+            [
+              "37",
+              "[@Sefford](https://github.com/Sefford)/[**BeAuthentic**](https://github.com/Sefford/BeAuthentic)",
+              "Authentication Demo repository",
+              ""
+            ],
+            [
+              "36",
+              "[@VictorAlbertos](https://github.com/VictorAlbertos)/[**RestAPIParseAuthClea…**](https://github.com/VictorAlbertos/RestAPIParseAuthCleanAndroid)",
+              "An android implementation of an authentication system based on the Parse Api using the design patters suggested by Robert C. Martin (aka Uncle Bob) on his “clean architecture”.",
+              ""
+            ],
+            [
+              "30",
+              "[@Sloy](https://github.com/Sloy)/[**okresponsefaker**](https://github.com/Sloy/okresponsefaker)",
+              "OkHttp response faker. Provide \"fire and forget\" fake responses to OkHttp through interceptors.",
+              ""
+            ],
+            [
+              "27",
+              "[@jperedadnr](https://github.com/jperedadnr)/[**Game2048FX**](https://github.com/jperedadnr/Game2048FX)",
+              "Game 2048FX v1.0.4 released for Desktop, Android and iOS",
+              ""
+            ],
+            [
+              "26",
+              "[@alorma](https://github.com/alorma)/[**capsulecorp**](https://github.com/alorma/capsulecorp)",
+              "CapsuleCorp library provides easy way to display images text and colors in a square view",
+              ""
+            ],
+            [
+              "22",
+              "[@VictorAlbertos](https://github.com/VictorAlbertos)/[**RxFcm**](https://github.com/VictorAlbertos/RxFcm)",
+              "RxJava extension for Android Firebase Cloud Messaging (aka fcm).",
+              ""
+            ],
+            [
+              "22",
+              "[@txusballesteros](https://github.com/txusballesteros)/[**PasswordEditText**](https://github.com/txusballesteros/PasswordEditText)",
+              "Reveal Password EditText for Android",
+              ""
+            ],
+            [
+              "22",
+              "[@dexafree](https://github.com/dexafree)/[**SeriesCountdown**](https://github.com/dexafree/SeriesCountdown)",
+              "SeriesCountdown is an Open Source Android application that allows you to check when will the next episode of your favorite series be available.",
+              ""
+            ],
+            [
+              "21",
+              "[@VictorAlbertos](https://github.com/VictorAlbertos)/[**Jolyglot**](https://github.com/VictorAlbertos/Jolyglot)",
+              "Agnostic Json abstraction to perform data binding operations for Android and Java.",
+              ""
+            ],
+            [
+              "20",
+              "[@VictorAlbertos](https://github.com/VictorAlbertos)/[**RxCacheSamples**](https://github.com/VictorAlbertos/RxCacheSamples)",
+              "How to use RxCache for both Android and Java projects",
+              ""
+            ],
+            [
+              "18",
+              "[@jlmd](https://github.com/jlmd)/[**SimpleNeuralNetwork**](https://github.com/jlmd/SimpleNeuralNetwork)",
+              "Simple neural network implementation in Java",
+              ""
+            ],
+            [
+              "17",
+              "[@txusballesteros](https://github.com/txusballesteros)/[**crazy-image-view**](https://github.com/txusballesteros/crazy-image-view)",
+              "CrazyImageView for Android",
+              ""
+            ],
+            [
+              "17",
+              "[@nhpatt](https://github.com/nhpatt)/[**RxInPractice**](https://github.com/nhpatt/RxInPractice)",
+              "Repository for a workshop about RxJava and RxAndroid",
+              ""
+            ],
+            [
+              "16",
+              "[@Sefford](https://github.com/Sefford)/[**brender**](https://github.com/Sefford/brender)",
+              "Implementation of a Renderer pattern for Android",
+              ""
+            ],
+            [
+              "15",
+              "[@antoniolg](https://github.com/antoniolg)/[**NavigationDrawerComp…**](https://github.com/antoniolg/NavigationDrawerCompat)",
+              "",
+              ""
+            ],
+            [
+              "15",
+              "[@ManuelPeinado](https://github.com/ManuelPeinado)/[**GoogleDirectionsClie…**](https://github.com/ManuelPeinado/GoogleDirectionsClient)",
+              "An Android client for the Google Directions API",
+              ""
+            ],
+            [
+              "14",
+              "[@antoniolg](https://github.com/antoniolg)/[**tutorials**](https://github.com/antoniolg/tutorials)",
+              "Code for tutorials on http://www.limecreativelabs.com",
+              ""
+            ],
+            [
+              "14",
+              "[@glomadrian](https://github.com/glomadrian)/[**transmutation**](https://github.com/glomadrian/transmutation)",
+              "A simple, easy and usable java model mapper",
+              ""
+            ],
+            [
+              "13",
+              "[@Sefford](https://github.com/Sefford)/[**material-in-30-minut…**](https://github.com/Sefford/material-in-30-minutes)",
+              "Sample app for Material in 30 minutes talk",
+              ""
+            ],
+            [
+              "13",
+              "[@trishagee](https://github.com/trishagee)/[**mongodb-getting-star…**](https://github.com/trishagee/mongodb-getting-started)",
+              "Some examples of how to use the MongoDB Java driver, via unit tests.",
+              ""
+            ],
+            [
+              "10",
+              "[@Sloy](https://github.com/Sloy)/[**SeviBus-2-Old**](https://github.com/Sloy/SeviBus-2-Old)",
+              "",
+              ""
+            ],
+            [
+              "10",
+              "[@glomadrian](https://github.com/glomadrian)/[**wallapop-code-test**](https://github.com/glomadrian/wallapop-code-test)",
+              "Wallapop code test for Android Developer",
+              ""
+            ],
+            [
+              "9",
+              "[@LuisJoseSanchez](https://github.com/LuisJoseSanchez)/[**aprende-java-con-eje…**](https://github.com/LuisJoseSanchez/aprende-java-con-ejercicios)",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "[@Sloy](https://github.com/Sloy)/[**Jelly-Bean-Notificat…**](https://github.com/Sloy/Jelly-Bean-Notification-Test)",
+              "Application with examples of the new kinds of notifications introduced in Android 4.1 Jelly Bean",
+              ""
+            ],
+            [
+              "9",
+              "[@antoniolg](https://github.com/antoniolg)/[**Voice-Search-Example**](https://github.com/antoniolg/Voice-Search-Example)",
+              "An quick example on how to integrate our App with Google Now by using Voice Search",
+              ""
+            ],
+            [
+              "9",
+              "[@carlossg](https://github.com/carlossg)/[**jenkins-kubernetes-p…**](https://github.com/carlossg/jenkins-kubernetes-plugin)",
+              "MOVED TO jenkinsci",
+              "[:arrow_upper_right:](https://github.com/jenkinsci/kubernetes-plugin)"
+            ],
+            [
+              "9",
+              "[@alorma](https://github.com/alorma)/[**expenses**](https://github.com/alorma/expenses)",
+              "<githubroot>App to manage your daily expenses</githubroot>",
+              ""
+            ],
+            [
+              "8",
+              "[@Sloy](https://github.com/Sloy)/[**SeviBus**](https://github.com/Sloy/SeviBus)",
+              "Source of the current version of SeviBus for Android",
+              ""
+            ],
+            [
+              "8",
+              "[@ManuelPeinado](https://github.com/ManuelPeinado)/[**TwelveRules**](https://github.com/ManuelPeinado/TwelveRules)",
+              "Android - a library that makes it easier and safe to work with SQLite databases",
+              ""
+            ],
+            [
+              "8",
+              "[@Sefford](https://github.com/Sefford)/[**fraggle**](https://github.com/Sefford/fraggle)",
+              "A wrapper for Fragment Manager that streamlines some common operations over Fragments",
+              ""
+            ],
+            [
+              "8",
+              "[@ManuelPeinado](https://github.com/ManuelPeinado)/[**LocationService**](https://github.com/ManuelPeinado/LocationService)",
+              "Android library that simplifies working with the new fused location provider",
+              ""
+            ],
+            [
+              "7",
+              "[@ManuelPeinado](https://github.com/ManuelPeinado)/[**AddressFragment**](https://github.com/ManuelPeinado/AddressFragment)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@alorma](https://github.com/alorma)/[**SharingAccounts**](https://github.com/alorma/SharingAccounts)",
+              "Example of how android share accounts",
+              ""
+            ],
+            [
+              "7",
+              "[@ManuelPeinado](https://github.com/ManuelPeinado)/[**GeocodingTask**](https://github.com/ManuelPeinado/GeocodingTask)",
+              "Classes to perform direct and reverse geocoding tasks in the background",
+              ""
+            ],
+            [
+              "6",
+              "[@Sloy](https://github.com/Sloy)/[**redbooth-android-dem…**](https://github.com/Sloy/redbooth-android-demo)",
+              "This is a simple project demonstrating the use of Redbooth's API",
+              ""
+            ],
+            [
+              "6",
+              "[@VictorAlbertos](https://github.com/VictorAlbertos)/[**RestAPIParseAuthAndr…**](https://github.com/VictorAlbertos/RestAPIParseAuthAndroid)",
+              "JSON Web Token Authentication for Android using Parse's API Rest ",
+              ""
+            ],
+            [
+              "6",
+              "[@VictorAlbertos](https://github.com/VictorAlbertos)/[**EventBus-Samples**](https://github.com/VictorAlbertos/EventBus-Samples)",
+              "A simple demonstration about how to use EventBus with Activities, Fragments and Services on Android.",
+              ""
+            ],
+            [
+              "6",
+              "[@iblancasa](https://github.com/iblancasa)/[**ComedoresUGR**](https://github.com/iblancasa/ComedoresUGR)",
+              "Aplicación Android para los comedores de la UGR",
+              ""
+            ],
+            [
+              "6",
+              "[@alorma](https://github.com/alorma)/[**GitDiffTextView**](https://github.com/alorma/GitDiffTextView)",
+              "With this android library you are able to display DIFF in a TextView.",
+              ""
+            ],
+            [
+              "6",
+              "[@ManuelPeinado](https://github.com/ManuelPeinado)/[**EasyFacebookConnect**](https://github.com/ManuelPeinado/EasyFacebookConnect)",
+              "Easy integration with Facebook for User authenticate purpose, in Android",
+              ""
+            ],
+            [
+              "6",
+              "[@glomadrian](https://github.com/glomadrian)/[**Multiple-data-source…**](https://github.com/glomadrian/Multiple-data-sources-and-caching-example)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@jperedadnr](https://github.com/jperedadnr)/[**Leap3DFX**](https://github.com/jperedadnr/Leap3DFX)",
+              "3D modelling with JavaFX (JDK8) and Leap Motion controller ",
+              ""
+            ],
+            [
+              "5",
+              "[@jperedadnr](https://github.com/jperedadnr)/[**SMSTracker**](https://github.com/jperedadnr/SMSTracker)",
+              "JavaFX for Android project to send, read and receive SMS using JavaFXPorts",
+              ""
+            ],
+            [
+              "5",
+              "[@carlossg](https://github.com/carlossg)/[**appfuse-selenium**](https://github.com/carlossg/appfuse-selenium)",
+              "Selenium test environment for Appfuse",
+              ""
+            ],
+            [
+              "5",
+              "[@glomadrian](https://github.com/glomadrian)/[**cover_finder**](https://github.com/glomadrian/cover_finder)",
+              "Search covers in various services",
+              ""
+            ],
+            [
+              "5",
+              "[@Sefford](https://github.com/Sefford)/[**Kor-Sample**](https://github.com/Sefford/Kor-Sample)",
+              "Examples for Kor Arch",
+              ""
+            ],
+            [
+              "5",
+              "[@jperedadnr](https://github.com/jperedadnr)/[**Game2048HOL**](https://github.com/jperedadnr/Game2048HOL)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@jperedadnr](https://github.com/jperedadnr)/[**HelloCharm**](https://github.com/jperedadnr/HelloCharm)",
+              "HelloWorld sample to introduce Gluon Charm capabilities",
+              ""
+            ],
+            [
+              "4",
+              "[@txusballesteros](https://github.com/txusballesteros)/[**IoC**](https://github.com/txusballesteros/IoC)",
+              "From OldSchool to IoC",
+              ""
+            ],
+            [
+              "4",
+              "[@jperedadnr](https://github.com/jperedadnr)/[**RubikFX**](https://github.com/jperedadnr/RubikFX)",
+              "A JavaFX based application for playing with a 3D model of the Rubik's Cube",
+              ""
+            ],
+            [
+              "4",
+              "[@JMPergar](https://github.com/JMPergar)/[**HexagonalEverywhere**](https://github.com/JMPergar/HexagonalEverywhere)",
+              "A simple example of implementation of Hexagonal Architecture on Android App.",
+              ""
+            ],
+            [
+              "4",
+              "[@jonan](https://github.com/jonan)/[**BugsControl**](https://github.com/jonan/BugsControl)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@ManuelPeinado](https://github.com/ManuelPeinado)/[**MinionAndroidHttp**](https://github.com/ManuelPeinado/MinionAndroidHttp)",
+              "An Asynchronous OkHttp Library for Android",
+              ""
+            ],
+            [
+              "3",
+              "[@trishagee](https://github.com/trishagee)/[**mongodb-java-tutoria…**](https://github.com/trishagee/mongodb-java-tutorial)",
+              "Tutorial materials for the new Java API for the MongoDB Java driver",
+              ""
+            ],
+            [
+              "3",
+              "[@jperedadnr](https://github.com/jperedadnr)/[**LiteRubikFX**](https://github.com/jperedadnr/LiteRubikFX)",
+              "A simple- JavaFX based application for playing with a 3D model of the Rubik's Cube by rotating  layers or the whole cube",
+              ""
+            ],
+            [
+              "3",
+              "[@Sloy](https://github.com/Sloy)/[**SeviBus-Experiments**](https://github.com/Sloy/SeviBus-Experiments)",
+              "SeviBus - version 4 (under development) - Now with Open Source! :D",
+              ""
+            ],
+            [
+              "3",
+              "[@glomadrian](https://github.com/glomadrian)/[**adrMusic**](https://github.com/glomadrian/adrMusic)",
+              "Select over more than 30 music streaming channels of rock, search cover on services and show in notifications",
+              ""
+            ],
+            [
+              "3",
+              "[@carlossg](https://github.com/carlossg)/[**jroller-export**](https://github.com/carlossg/jroller-export)",
+              "Simple code to export JRoller blog entries, for instance to migrate to Wordpress",
+              "[:arrow_upper_right:](http://blog.carlossanchez.eu/2010/10/10/moved-to-blog-carlossanchez-eu/)"
+            ],
+            [
+              "2",
+              "[@Sefford](https://github.com/Sefford)/[**fraggle-sample**](https://github.com/Sefford/fraggle-sample)",
+              "A demonstration of Fraggle capabilities",
+              ""
+            ],
+            [
+              "2",
+              "[@Sefford](https://github.com/Sefford)/[**AndroidInMotion**](https://github.com/Sefford/AndroidInMotion)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jperedadnr](https://github.com/jperedadnr)/[**NXTBeeFX**](https://github.com/jperedadnr/NXTBeeFX)",
+              "JavaFX based application for Raspberry Pi, to control remotely a Lego Mindstorm NXT via XBee",
+              ""
+            ],
+            [
+              "2",
+              "[@alorma](https://github.com/alorma)/[**RxExample**](https://github.com/alorma/RxExample)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@nhpatt](https://github.com/nhpatt)/[**hibernate**](https://github.com/nhpatt/hibernate)",
+              "Curso de Hibernate realizado en Luce desde 2013-06-13",
+              ""
+            ],
+            [
+              "2",
+              "[@Sloy](https://github.com/Sloy)/[**PhotoWidget**](https://github.com/Sloy/PhotoWidget)",
+              "Widget de fotos para Android",
+              ""
+            ],
+            [
+              "2",
+              "[@nhpatt](https://github.com/nhpatt)/[**ScreensApplication**](https://github.com/nhpatt/ScreensApplication)",
+              "This example Android app uses Liferay Screens and uses several screenlets.",
+              ""
+            ],
+            [
+              "2",
+              "[@nhpatt](https://github.com/nhpatt)/[**Checkout**](https://github.com/nhpatt/Checkout)",
+              "Lean Code Challenge by @chrismdp",
+              ""
+            ],
+            [
+              "2",
+              "[@nhpatt](https://github.com/nhpatt)/[**refactoring**](https://github.com/nhpatt/refactoring)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@trishagee](https://github.com/trishagee)/[**simple-twitter-conne…**](https://github.com/trishagee/simple-twitter-connector)",
+              "The most simple Java code I could write to connect to the Twitter sample API.",
+              ""
+            ],
+            [
+              "2",
+              "[@jperedadnr](https://github.com/jperedadnr)/[**LeapV2**](https://github.com/jperedadnr/LeapV2)",
+              "JavaFX 3D POC application with skeletal tracking model from Leap Motion v2",
+              ""
+            ],
+            [
+              "2",
+              "[@Sloy](https://github.com/Sloy)/[**TicTacDroide-Source**](https://github.com/Sloy/TicTacDroide-Source)",
+              "Source of TicTacDroide, the Android game",
+              ""
+            ],
+            [
+              "2",
+              "[@danielfernandez](https://github.com/danielfernandez)/[**ncomplo**](https://github.com/danielfernandez/ncomplo)",
+              "Pet project for keeping a league based on guessing match results in a sports championship.",
+              ""
+            ],
+            [
+              "2",
+              "[@nhpatt](https://github.com/nhpatt)/[**Curso-de-Android**](https://github.com/nhpatt/Curso-de-Android)",
+              "Ejercicios realizados para un Curso de Android impartido la semana del 26/09 - 30/09. ",
+              "[:arrow_upper_right:](nhpatt.com)"
+            ],
+            [
+              "2",
+              "[@twinone](https://github.com/twinone)/[**rubik-robot**](https://github.com/twinone/rubik-robot)",
+              "Rubik's Cube solver robot",
+              ""
+            ],
+            [
+              "2",
+              "[@javiersantos](https://github.com/javiersantos)/[**GoogleIOCountdown**](https://github.com/javiersantos/GoogleIOCountdown)",
+              "Countdown app for the next Google I/O event.",
+              ""
+            ],
+            [
+              "2",
+              "[@javiersantos](https://github.com/javiersantos)/[**FP1415**](https://github.com/javiersantos/FP1415)",
+              "Trabajo Práctico de la asignatura \"Fundamentos de Programación\" - ETSII",
+              ""
+            ],
+            [
+              "2",
+              "[@alorma](https://github.com/alorma)/[**RadioButtons_Example**](https://github.com/alorma/RadioButtons_Example)",
+              "",
               ""
             ]
           ]
