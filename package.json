@@ -62,7 +62,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -6405,6 +6406,135 @@
               "2",
               "[@niwinz](https://github.com/niwinz)/[**bytehold**](https://github.com/niwinz/bytehold)",
               "Simple backup tool written in python3, which helps not to repeat scripts.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "84",
+              "[@oscarperpinan](https://github.com/oscarperpinan)/[**spacetime-vis**](https://github.com/oscarperpinan/spacetime-vis)",
+              "Methods to display time series, spatial and space-time data using R",
+              "[:arrow_upper_right:](http://oscarperpinan.github.io/spacetime-vis/)"
+            ],
+            [
+              "65",
+              "[@manlius](https://github.com/manlius)/[**muxViz**](https://github.com/manlius/muxViz)",
+              "Analysis and Visualization of Interconnected Multilayer Networks",
+              "[:arrow_upper_right:](http://muxviz.net)"
+            ],
+            [
+              "36",
+              "[@masalmon](https://github.com/masalmon)/[**monkeylearn**](https://github.com/masalmon/monkeylearn)",
+              ":monkey: R package for text analysis with Monkeylearn :monkey:",
+              ""
+            ],
+            [
+              "22",
+              "[@oscarperpinan](https://github.com/oscarperpinan)/[**rastervis**](https://github.com/oscarperpinan/rastervis)",
+              "The raster package defines classes and methods for spatial raster data access and manipulation. The rasterVis package complements raster providing a set of methods for enhanced visualization and interaction.",
+              "[:arrow_upper_right:](oscarperpinan.github.io/rastervis)"
+            ],
+            [
+              "18",
+              "[@oscarperpinan](https://github.com/oscarperpinan)/[**meteoForecast**](https://github.com/oscarperpinan/meteoForecast)",
+              "A package to access outputs from Numerical Weather Prediction models both in raster format and as a time series for a location",
+              ""
+            ],
+            [
+              "15",
+              "[@rdiaz02](https://github.com/rdiaz02)/[**Adios_Mendeley**](https://github.com/rdiaz02/Adios_Mendeley)",
+              "Moving from Mendeley to Zotero",
+              ""
+            ],
+            [
+              "14",
+              "[@fcharte](https://github.com/fcharte)/[**ExploraVisualizaconR**](https://github.com/fcharte/ExploraVisualizaconR)",
+              "Análisis exploratorio y visualización de datos con R",
+              ""
+            ],
+            [
+              "11",
+              "[@pedroj](https://github.com/pedroj)/[**bipartite_plots**](https://github.com/pedroj/bipartite_plots)",
+              "R code for plotting bipartite networks. ",
+              ""
+            ],
+            [
+              "8",
+              "[@oscarperpinan](https://github.com/oscarperpinan)/[**solar**](https://github.com/oscarperpinan/solar)",
+              "Solar Radiation and Photovoltaic Systems with R",
+              "[:arrow_upper_right:](http://oscarperpinan.github.io/solar/)"
+            ],
+            [
+              "8",
+              "[@Pakillo](https://github.com/Pakillo)/[**template**](https://github.com/Pakillo/template)",
+              "A template for research projects structured as R packages",
+              ""
+            ],
+            [
+              "7",
+              "[@fcharte](https://github.com/fcharte)/[**mldr**](https://github.com/fcharte/mldr)",
+              "R package for analyzing and manipulating multilabel datasets",
+              ""
+            ],
+            [
+              "6",
+              "[@BrunoVilela](https://github.com/BrunoVilela)/[**letsR**](https://github.com/BrunoVilela/letsR)",
+              "Package letsR",
+              ""
+            ],
+            [
+              "5",
+              "[@fcharte](https://github.com/fcharte)/[**CursoCienciaDatosR**](https://github.com/fcharte/CursoCienciaDatosR)",
+              "Material de las sesiones de R del curso Ciencia de datos del Centro Mediterráneo (UGR)",
+              ""
+            ],
+            [
+              "4",
+              "[@rdiaz02](https://github.com/rdiaz02)/[**varSelRF**](https://github.com/rdiaz02/varSelRF)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@rdiaz02](https://github.com/rdiaz02)/[**Zotero-to-Referey**](https://github.com/rdiaz02/Zotero-to-Referey)",
+              "Convert Zotero db to use Referey",
+              ""
+            ],
+            [
+              "2",
+              "[@maritrinez](https://github.com/maritrinez)/[**fuertehack**](https://github.com/maritrinez/fuertehack)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@pedroj](https://github.com/pedroj)/[**FRUBASE**](https://github.com/pedroj/FRUBASE)",
+              "This is the page for the FRUBASE database, a huge dataset of fleshy fruit traits compiled from bibliographic references and my own work. Data are provided for more than 1000 plant species from all around the world.",
+              ""
+            ],
+            [
+              "2",
+              "[@masalmon](https://github.com/masalmon)/[**usaqmindia**](https://github.com/masalmon/usaqmindia)",
+              "Data from the U.S. Embassy and Consulate air quality monitors in India",
+              ""
+            ],
+            [
+              "2",
+              "[@sestelo](https://github.com/sestelo)/[**shiny_npregfast**](https://github.com/sestelo/shiny_npregfast)",
+              "A shiny app for the npregfast  package",
               ""
             ]
           ]
