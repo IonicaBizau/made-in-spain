@@ -60,7 +60,8 @@
           "[Lua](#lua)",
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -4873,6 +4874,753 @@
               "2",
               "[@salva](https://github.com/salva)/[**p5-Math-Vector-Real-…**](https://github.com/salva/p5-Math-Vector-Real-kdTree)",
               "kd-Trees in Perl",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1114",
+              "[@javiereguiluz](https://github.com/javiereguiluz)/[**EasyAdminBundle**](https://github.com/javiereguiluz/EasyAdminBundle)",
+              "The new (and simple) admin generator for Symfony applications.",
+              ""
+            ],
+            [
+              "378",
+              "[@raulfraile](https://github.com/raulfraile)/[**ladybug**](https://github.com/raulfraile/ladybug)",
+              "PHP 5.3+ Extensible Dumper",
+              ""
+            ],
+            [
+              "334",
+              "[@raulfraile](https://github.com/raulfraile)/[**LadybugBundle**](https://github.com/raulfraile/LadybugBundle)",
+              "Symfony2 bundle for Ladybug library, the Simple and Extensible PHP Dumper",
+              ""
+            ],
+            [
+              "310",
+              "[@javiereguiluz](https://github.com/javiereguiluz)/[**Cupon**](https://github.com/javiereguiluz/Cupon)",
+              "Aplicación de prueba para aprender a programar con Symfony2",
+              ""
+            ],
+            [
+              "261",
+              "[@kbsali](https://github.com/kbsali)/[**php-redmine-api**](https://github.com/kbsali/php-redmine-api)",
+              "A simple PHP Redmine API client, Object Oriented",
+              ""
+            ],
+            [
+              "201",
+              "[@raulfraile](https://github.com/raulfraile)/[**distill**](https://github.com/raulfraile/distill)",
+              "Smart compressed files extractor for PHP",
+              ""
+            ],
+            [
+              "141",
+              "[@ronnylt](https://github.com/ronnylt)/[**redlock-php**](https://github.com/ronnylt/redlock-php)",
+              "Redis distributed locks in PHP",
+              ""
+            ],
+            [
+              "132",
+              "[@tonydspaniard](https://github.com/tonydspaniard)/[**Yii-extensions**](https://github.com/tonydspaniard/Yii-extensions)",
+              "My small contribution to the Yii framework community",
+              ""
+            ],
+            [
+              "100",
+              "[@Maks3w](https://github.com/Maks3w)/[**FR3DLdapBundle**](https://github.com/Maks3w/FR3DLdapBundle)",
+              "This bundle integrates LDAP Authentication with any user manager (Ex: FOSUserBundle)",
+              ""
+            ],
+            [
+              "86",
+              "[@desarrolla2](https://github.com/desarrolla2)/[**Cache**](https://github.com/desarrolla2/Cache)",
+              "A simple cache library. Implements different adapters that you can use and change easily by a manager or similar.",
+              "[:arrow_upper_right:](https://github.com/desarrolla2/Cache)"
+            ],
+            [
+              "67",
+              "[@carlosbuenosvinos](https://github.com/carlosbuenosvinos)/[**opcache-dashboard**](https://github.com/carlosbuenosvinos/opcache-dashboard)",
+              "Set up properly and monitor your Zend OPcache with this dashboard that will help you checking memory, hits and status, configuring for optimal performance (warning you when cache full, validation, etc.) and reseting one or all scripts with one click.",
+              ""
+            ],
+            [
+              "67",
+              "[@tonydspaniard](https://github.com/tonydspaniard)/[**yiinitializr-advance…**](https://github.com/tonydspaniard/yiinitializr-advanced)",
+              "Yii Framework project structure boilerplate for advanced application requirements",
+              ""
+            ],
+            [
+              "58",
+              "[@josereyero](https://github.com/josereyero)/[**telegram**](https://github.com/josereyero/telegram)",
+              "PHP Wrapper and Drupal module using  Telegram CLI",
+              ""
+            ],
+            [
+              "53",
+              "[@jameswatts](https://github.com/jameswatts)/[**cake-toolkit**](https://github.com/jameswatts/cake-toolkit)",
+              "The Cake Toolkit (CTK) is a CakePHP plugin which allows you to define your View as a class, providing a powerful object-oriented factory interface to dynamically build your application's UI with configurable objects.",
+              ""
+            ],
+            [
+              "46",
+              "[@Maks3w](https://github.com/Maks3w)/[**SwaggerAssertions**](https://github.com/Maks3w/SwaggerAssertions)",
+              "Test your API requests and responses matches with your swagger definition",
+              ""
+            ],
+            [
+              "45",
+              "[@josereyero](https://github.com/josereyero)/[**i18n**](https://github.com/josereyero/i18n)",
+              "Drupal Internationalization package (Not up to date, Active development is on drupal.org)",
+              "[:arrow_upper_right:](http://drupal.org/project/i18n)"
+            ],
+            [
+              "38",
+              "[@desarrolla2](https://github.com/desarrolla2)/[**RSSClient**](https://github.com/desarrolla2/RSSClient)",
+              "Service for provide RSS client in your website",
+              ""
+            ],
+            [
+              "36",
+              "[@javiereguiluz](https://github.com/javiereguiluz)/[**EasySlugger**](https://github.com/javiereguiluz/EasySlugger)",
+              "A fast and easy to use slugger with full UTF-8 support",
+              ""
+            ],
+            [
+              "36",
+              "[@itrascastro](https://github.com/itrascastro)/[**Symfony-3-Base-Proje…**](https://github.com/itrascastro/Symfony-3-Base-Project)",
+              "Symfony 3 base project with already installed common bundles and other stuff",
+              ""
+            ],
+            [
+              "35",
+              "[@javiereguiluz](https://github.com/javiereguiluz)/[**easy-admin-demo**](https://github.com/javiereguiluz/easy-admin-demo)",
+              "A demo application to showcase EasyAdmin features",
+              ""
+            ],
+            [
+              "35",
+              "[@carlosbuenosvinos](https://github.com/carlosbuenosvinos)/[**php-geckoboard-api**](https://github.com/carlosbuenosvinos/php-geckoboard-api)",
+              "A PHP library for pushing data into Geckoboard custom widgets",
+              "[:arrow_upper_right:](http://www.geckoboard.com)"
+            ],
+            [
+              "35",
+              "[@carlosbuenosvinos](https://github.com/carlosbuenosvinos)/[**php-kata**](https://github.com/carlosbuenosvinos/php-kata)",
+              "PHP skeleton for doing coding katas (PHPUnit, mockery, phpspec and prophecy)",
+              "[:arrow_upper_right:](https://github.com/carlosbuenosvinos/php-kata)"
+            ],
+            [
+              "34",
+              "[@AD7six](https://github.com/AD7six)/[**cakephp-shadow-trans…**](https://github.com/AD7six/cakephp-shadow-translate)",
+              "A 3.x+ CakePHP plugin for efficiently managing data translations",
+              ""
+            ],
+            [
+              "33",
+              "[@Maks3w](https://github.com/Maks3w)/[**xmldsig**](https://github.com/Maks3w/xmldsig)",
+              "PHP Implementation of XML Digital Signature recomendation",
+              ""
+            ],
+            [
+              "32",
+              "[@tobiassjosten](https://github.com/tobiassjosten)/[**ResponsibleServicePr…**](https://github.com/tobiassjosten/ResponsibleServiceProvider)",
+              "",
+              ""
+            ],
+            [
+              "30",
+              "[@tobiassjosten](https://github.com/tobiassjosten)/[**FacebookServiceProvi…**](https://github.com/tobiassjosten/FacebookServiceProvider)",
+              "Extension for injecting the Facebook SDK into a Silex application",
+              ""
+            ],
+            [
+              "27",
+              "[@AD7six](https://github.com/AD7six)/[**php-cli-progress-bar**](https://github.com/AD7six/php-cli-progress-bar)",
+              "A PHP class for generating cli progress bars",
+              ""
+            ],
+            [
+              "26",
+              "[@carlosbuenosvinos](https://github.com/carlosbuenosvinos)/[**compify**](https://github.com/carlosbuenosvinos/compify)",
+              "Compify is a tool to save disk usage and bandwith in your composer vendor folder.  Maybe you haven't noticed, but if you take a look to your vendor folder after doing a \"php composer.phar install\" there are so much useless information like tests, \".travis.yml\" like files that you just don't need in production. ",
+              ""
+            ],
+            [
+              "26",
+              "[@tobiassjosten](https://github.com/tobiassjosten)/[**boris-loader**](https://github.com/tobiassjosten/boris-loader)",
+              "Loads project specific contexts into d11wtq/boris",
+              ""
+            ],
+            [
+              "26",
+              "[@jameswatts](https://github.com/jameswatts)/[**cake-jsonrpc**](https://github.com/jameswatts/cake-jsonrpc)",
+              "The Jsonrpc plugin for CakePHP provides both server and client implementations of JSON-RPC as components.",
+              ""
+            ],
+            [
+              "25",
+              "[@phproberto](https://github.com/phproberto)/[**plg_sys_mootable**](https://github.com/phproberto/plg_sys_mootable)",
+              "Joomla Plugin to Enable/Disable Mootools per menu item",
+              ""
+            ],
+            [
+              "25",
+              "[@jleyva](https://github.com/jleyva)/[**moodle-local_ltiprov…**](https://github.com/jleyva/moodle-local_ltiprovider)",
+              "This is a local plugin for making Moodle a LTI provider tool",
+              ""
+            ],
+            [
+              "23",
+              "[@tonydspaniard](https://github.com/tonydspaniard)/[**yiinitializr-interme…**](https://github.com/tonydspaniard/yiinitializr-intermediate)",
+              "Yii Framework project structure boilerplate for basic to intermediate application requirements",
+              ""
+            ],
+            [
+              "23",
+              "[@carlosbuenosvinos](https://github.com/carlosbuenosvinos)/[**php-jenkins-api**](https://github.com/carlosbuenosvinos/php-jenkins-api)",
+              "CarlosIO\\Jenkins is a Jenkins API written in PHP for PHP 5.3+. It has been born for Dashboard and extreme feedback purposes.",
+              ""
+            ],
+            [
+              "23",
+              "[@desarrolla2](https://github.com/desarrolla2)/[**BlogBundle**](https://github.com/desarrolla2/BlogBundle)",
+              "This is the most complete bundle you can find to start creating your blog, actualy this blogBundle is running on Symfony2.3",
+              "[:arrow_upper_right:](http://desarrolla2.com)"
+            ],
+            [
+              "19",
+              "[@Maks3w](https://github.com/Maks3w)/[**Psr7Assertions**](https://github.com/Maks3w/Psr7Assertions)",
+              "Test your library conformance with PSR-7",
+              ""
+            ],
+            [
+              "16",
+              "[@uno-de-piera](https://github.com/uno-de-piera)/[**angularjs-phalcon**](https://github.com/uno-de-piera/angularjs-phalcon)",
+              "Combinar angularjs y phalconphp",
+              ""
+            ],
+            [
+              "15",
+              "[@tonydspaniard](https://github.com/tonydspaniard)/[**YiiBootstrap**](https://github.com/tonydspaniard/YiiBootstrap)",
+              "This is a clone of https://bitbucket.org/Crisu83/yii-bootst… from Chris. More information at http://www.yiiframework.com/extension/bo…",
+              ""
+            ],
+            [
+              "15",
+              "[@uno-de-piera](https://github.com/uno-de-piera)/[**phalcon_cart**](https://github.com/uno-de-piera/phalcon_cart)",
+              "A shopping cart that allows multiple instances to work with PHP Phalcon",
+              ""
+            ],
+            [
+              "14",
+              "[@mcuadros](https://github.com/mcuadros)/[**php-cayley**](https://github.com/mcuadros/php-cayley)",
+              "PHP wrapper of the Google's Cayley graph database REST interface",
+              ""
+            ],
+            [
+              "14",
+              "[@phproberto](https://github.com/phproberto)/[**lib_sample**](https://github.com/phproberto/lib_sample)",
+              "Sample Joomla! Library to use as reference",
+              ""
+            ],
+            [
+              "13",
+              "[@tobiassjosten](https://github.com/tobiassjosten)/[**silex-example**](https://github.com/tobiassjosten/silex-example)",
+              "",
+              "[:arrow_upper_right:](http://silex-example.pagodabox.com/)"
+            ],
+            [
+              "13",
+              "[@itrascastro](https://github.com/itrascastro)/[**TrascastroACL**](https://github.com/itrascastro/TrascastroACL)",
+              "Easy ACL. Avoid handwriting ACL permissions in Zend Framework",
+              ""
+            ],
+            [
+              "13",
+              "[@uno-de-piera](https://github.com/uno-de-piera)/[**bootstrap-calendar**](https://github.com/uno-de-piera/bootstrap-calendar)",
+              "Implementación de bootstrap calendar con php/codeigniter",
+              ""
+            ],
+            [
+              "13",
+              "[@jameswatts](https://github.com/jameswatts)/[**cake-dependency**](https://github.com/jameswatts/cake-dependency)",
+              "The Dependency plugin for CakePHP provides a dependency injection container and service registry/locator.",
+              ""
+            ],
+            [
+              "12",
+              "[@jameswatts](https://github.com/jameswatts)/[**cake-markup-language**](https://github.com/jameswatts/cake-markup-language)",
+              "The Cake Markup Language (CakeML) is a CakePHP plugin which provides further abstraction of the View layer by replacing the procedural PHP code with an XML based markup.",
+              ""
+            ],
+            [
+              "12",
+              "[@AD7six](https://github.com/AD7six)/[**cakephp-completion**](https://github.com/AD7six/cakephp-completion)",
+              "Got tab?",
+              ""
+            ],
+            [
+              "11",
+              "[@javiereguiluz](https://github.com/javiereguiluz)/[**easybook-examples**](https://github.com/javiereguiluz/easybook-examples)",
+              "Showcase of the books and documents that you can create with easybook",
+              "[:arrow_upper_right:](http://easybook-project.org)"
+            ],
+            [
+              "11",
+              "[@carlosbuenosvinos](https://github.com/carlosbuenosvinos)/[**elige-tu-propia-aven…**](https://github.com/carlosbuenosvinos/elige-tu-propia-aventura-web)",
+              "My DDD Lab: Choose your own adventure online game",
+              ""
+            ],
+            [
+              "10",
+              "[@mcuadros](https://github.com/mcuadros)/[**currency-detector**](https://github.com/mcuadros/currency-detector)",
+              "Class to detect the currency from any string",
+              ""
+            ],
+            [
+              "10",
+              "[@kbsali](https://github.com/kbsali)/[**sf2-icu**](https://github.com/kbsali/sf2-icu)",
+              "Set of compiled icu files for Symfony2.* framework",
+              ""
+            ],
+            [
+              "10",
+              "[@desarrolla2](https://github.com/desarrolla2)/[**RSSClientBundle**](https://github.com/desarrolla2/RSSClientBundle)",
+              "Service for provide RSS client in your website.",
+              ""
+            ],
+            [
+              "9",
+              "[@uno-de-piera](https://github.com/uno-de-piera)/[**jwt-angularjs-codeig…**](https://github.com/uno-de-piera/jwt-angularjs-codeigniter)",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "[@jameswatts](https://github.com/jameswatts)/[**cake-factory**](https://github.com/jameswatts/cake-factory)",
+              "Cake is a factory for the Cake Toolkit (CTK), which provides configurable objects for the core helpers in CakePHP.",
+              ""
+            ],
+            [
+              "9",
+              "[@emilio](https://github.com/emilio)/[**php-router**](https://github.com/emilio/php-router)",
+              "Simple PHP router",
+              ""
+            ],
+            [
+              "8",
+              "[@mcuadros](https://github.com/mcuadros)/[**silex-hateoas**](https://github.com/mcuadros/silex-hateoas)",
+              "A RESTful example based on Hateoas and Silex",
+              ""
+            ],
+            [
+              "8",
+              "[@desarrolla2](https://github.com/desarrolla2)/[**PollBundle**](https://github.com/desarrolla2/PollBundle)",
+              "poll Bundle for symfony 2",
+              ""
+            ],
+            [
+              "8",
+              "[@AD7six](https://github.com/AD7six)/[**php-dsn**](https://github.com/AD7six/php-dsn)",
+              "A utility for parsing and generating service DSNs",
+              ""
+            ],
+            [
+              "8",
+              "[@raulfraile](https://github.com/raulfraile)/[**cryptosymfony**](https://github.com/raulfraile/cryptosymfony)",
+              "Simple cryptovirus for Symfony2 apps",
+              ""
+            ],
+            [
+              "7",
+              "[@phproberto](https://github.com/phproberto)/[**plg_content_showtags**](https://github.com/phproberto/plg_content_showtags)",
+              "Joomla Content Plugin to show tag list before / after articles",
+              ""
+            ],
+            [
+              "7",
+              "[@desarrolla2](https://github.com/desarrolla2)/[**talks**](https://github.com/desarrolla2/talks)",
+              "talks",
+              ""
+            ],
+            [
+              "7",
+              "[@josereyero](https://github.com/josereyero)/[**oauth_google**](https://github.com/josereyero/oauth_google)",
+              "OAuth client for Google Data API",
+              ""
+            ],
+            [
+              "7",
+              "[@josereyero](https://github.com/josereyero)/[**messaging_sendgrid**](https://github.com/josereyero/messaging_sendgrid)",
+              "Drupal Messaging wrapper for Sendgrid",
+              "[:arrow_upper_right:](http://drupal.org/project/messaging)"
+            ],
+            [
+              "7",
+              "[@itrascastro](https://github.com/itrascastro)/[**Bookmarks**](https://github.com/itrascastro/Bookmarks)",
+              "Advanced Tutorial ZF2 Application",
+              ""
+            ],
+            [
+              "7",
+              "[@javiereguiluz](https://github.com/javiereguiluz)/[**desymfony-twig**](https://github.com/javiereguiluz/desymfony-twig)",
+              "Ejemplos utilizados en la ponencia sobre Twig de la conferencia deSymfony 2012",
+              ""
+            ],
+            [
+              "6",
+              "[@raulfraile](https://github.com/raulfraile)/[**steganography_talk**](https://github.com/raulfraile/steganography_talk)",
+              "Demos and examples for the talk about Steganography with PHP",
+              ""
+            ],
+            [
+              "6",
+              "[@tobiassjosten](https://github.com/tobiassjosten)/[**sfdaycgn2011**](https://github.com/tobiassjosten/sfdaycgn2011)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@jleyva](https://github.com/jleyva)/[**moodle-local_dsubscr…**](https://github.com/jleyva/moodle-local_dsubscription)",
+              "Local plugin for allowing email subscription to discussions (threads) and not the whole forum.",
+              ""
+            ],
+            [
+              "6",
+              "[@uno-de-piera](https://github.com/uno-de-piera)/[**simplecart**](https://github.com/uno-de-piera/simplecart)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@jleyva](https://github.com/jleyva)/[**moodle-block_jmail**](https://github.com/jleyva/moodle-block_jmail)",
+              "Internal mail tool for Moodle 2",
+              ""
+            ],
+            [
+              "6",
+              "[@josereyero](https://github.com/josereyero)/[**gdata**](https://github.com/josereyero/gdata)",
+              "Google Data API",
+              ""
+            ],
+            [
+              "6",
+              "[@ronnylt](https://github.com/ronnylt)/[**LtRedisBundle**](https://github.com/ronnylt/LtRedisBundle)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@emilio](https://github.com/emilio)/[**php-cache**](https://github.com/emilio/php-cache)",
+              "Caché simple basada en archivos para PHP | Simple PHP file cache",
+              ""
+            ],
+            [
+              "6",
+              "[@carlosbuenosvinos](https://github.com/carlosbuenosvinos)/[**php-pingdom-api**](https://github.com/carlosbuenosvinos/php-pingdom-api)",
+              "CarlosIO\\Pingdom is a Pingdom API Client written in PHP with multiaccount support",
+              "[:arrow_upper_right:](http://packagist.org/packages/carlosio/pingdom)"
+            ],
+            [
+              "5",
+              "[@penyaskito](https://github.com/penyaskito)/[**drush_release**](https://github.com/penyaskito/drush_release)",
+              "Drush release.",
+              ""
+            ],
+            [
+              "5",
+              "[@tobiassjosten](https://github.com/tobiassjosten)/[**TobiassjostenTheTVDB…**](https://github.com/tobiassjosten/TobiassjostenTheTVDBBundle)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@uno-de-piera](https://github.com/uno-de-piera)/[**mvc-php**](https://github.com/uno-de-piera/mvc-php)",
+              "MVC Example with PHP",
+              ""
+            ],
+            [
+              "5",
+              "[@kbsali](https://github.com/kbsali)/[**php-gsm-api**](https://github.com/kbsali/php-gsm-api)",
+              "A simple PHP5 Object Oriented wrapper for GlobalSportsMedia (GSM) XML API",
+              ""
+            ],
+            [
+              "5",
+              "[@carlosbuenosvinos](https://github.com/carlosbuenosvinos)/[**phparchitect-hexagon…**](https://github.com/carlosbuenosvinos/phparchitect-hexagonal-architecture-article)",
+              "Hexagonal Architecture with PHP",
+              "[:arrow_upper_right:](http://www.phparch.com)"
+            ],
+            [
+              "4",
+              "[@phproberto](https://github.com/phproberto)/[**mod_phproberto_ghcar…**](https://github.com/phproberto/mod_phproberto_ghcard)",
+              "Github card module for Joomla websites",
+              ""
+            ],
+            [
+              "4",
+              "[@uno-de-piera](https://github.com/uno-de-piera)/[**shop-phalcon**](https://github.com/uno-de-piera/shop-phalcon)",
+              "Full example phalcon cart",
+              ""
+            ],
+            [
+              "4",
+              "[@jleyva](https://github.com/jleyva)/[**moodle-local_anonymo…**](https://github.com/jleyva/moodle-local_anonymousposting)",
+              "Local plugin for allowing anonymous posting in Moodle forums. ",
+              "[:arrow_upper_right:](http://docs.moodle.org/22/en/Anonymous_posting_plugin)"
+            ],
+            [
+              "4",
+              "[@raulfraile](https://github.com/raulfraile)/[**internals-desymfony2…**](https://github.com/raulfraile/internals-desymfony2012)",
+              "Demo project for Symfony2 internals talk",
+              ""
+            ],
+            [
+              "4",
+              "[@raulfraile](https://github.com/raulfraile)/[**distill-cli**](https://github.com/raulfraile/distill-cli)",
+              "Command line tool to extract files from compressed archives",
+              ""
+            ],
+            [
+              "4",
+              "[@mcuadros](https://github.com/mcuadros)/[**pimple-hack**](https://github.com/mcuadros/pimple-hack)",
+              "A Pimple version in Hack/HHVM, just for fun!",
+              ""
+            ],
+            [
+              "4",
+              "[@josereyero](https://github.com/josereyero)/[**variable**](https://github.com/josereyero/variable)",
+              "Drupal Variable module",
+              "[:arrow_upper_right:](http://drupal.org/project/variable)"
+            ],
+            [
+              "4",
+              "[@uno-de-piera](https://github.com/uno-de-piera)/[**angular-2-laravel-5**](https://github.com/uno-de-piera/angular-2-laravel-5)",
+              "Starter project with Angular 2 and Laravel 5",
+              ""
+            ],
+            [
+              "4",
+              "[@germaaan](https://github.com/germaaan)/[**PRACTICA_01**](https://github.com/germaaan/PRACTICA_01)",
+              "Practica 1 de Infraestructura Virtual 2013/2014",
+              ""
+            ],
+            [
+              "4",
+              "[@emilio](https://github.com/emilio)/[**php-easy-image-manag…**](https://github.com/emilio/php-easy-image-manager)",
+              "Simple image manager for PHP: Create, resize, save and output your images easily",
+              ""
+            ],
+            [
+              "3",
+              "[@raulfraile](https://github.com/raulfraile)/[**ladybug-installer**](https://github.com/raulfraile/ladybug-installer)",
+              "Unified installer for ladybug addons",
+              ""
+            ],
+            [
+              "3",
+              "[@kbsali](https://github.com/kbsali)/[**mpRealityAdminPlugin**](https://github.com/kbsali/mpRealityAdminPlugin)",
+              "The mpRealityAdminPlugin provides a new admin generator theme with some additions.",
+              "[:arrow_upper_right:](http://www.symfony-project.org/plugins/mpRealityAdminPlugin)"
+            ],
+            [
+              "3",
+              "[@mcuadros](https://github.com/mcuadros)/[**ansi-slides**](https://github.com/mcuadros/ansi-slides)",
+              "Slide with ANSI style!",
+              ""
+            ],
+            [
+              "3",
+              "[@raulfraile](https://github.com/raulfraile)/[**idatha**](https://github.com/raulfraile/idatha)",
+              "Data structures library for PHP",
+              ""
+            ],
+            [
+              "3",
+              "[@conejoninja](https://github.com/conejoninja)/[**antitroll-plugin**](https://github.com/conejoninja/antitroll-plugin)",
+              "Anti troll plugin for Osclass",
+              ""
+            ],
+            [
+              "3",
+              "[@raulfraile](https://github.com/raulfraile)/[**apijokes**](https://github.com/raulfraile/apijokes)",
+              "Demo project for deSymfony 2013",
+              ""
+            ],
+            [
+              "3",
+              "[@jleyva](https://github.com/jleyva)/[**moodle-report_config…**](https://github.com/jleyva/moodle-report_configreports)",
+              "Configurable reports plugin for Moodle 2.3 and onwards",
+              "[:arrow_upper_right:](http://moodle.org/plugins/view.php?plugin=block_configurable_reports)"
+            ],
+            [
+              "3",
+              "[@tobiassjosten](https://github.com/tobiassjosten)/[**sfFlattrPlugin**](https://github.com/tobiassjosten/sfFlattrPlugin)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@penyaskito](https://github.com/penyaskito)/[**Ubercart-Cart-Login-…**](https://github.com/penyaskito/Ubercart-Cart-Login-Flow)",
+              "Ubercart default cart behavior is merging the anonymous cart and the existing user cart once the user logs in.  This can be confusing for the user because his cart could have some products added long ago, and when he logs in the existing cart and the new anonymous cart are merged.  This module provides another workflow:  If the user logs in a block at the checkout page, or when the destination is set to the checkout page, the existing cart for the user is discarded, and the cart that has been created while being an anonymous user is the cart that will be checked out. In other case, we discard the anonymous card and recover the existing cart associated with this user.",
+              "[:arrow_upper_right:](http://drupal.org/project/uc_cart_login_flow)"
+            ],
+            [
+              "3",
+              "[@uno-de-piera](https://github.com/uno-de-piera)/[**multi_cart_ci**](https://github.com/uno-de-piera/multi_cart_ci)",
+              "Library for multiple cart instances in codeigniter",
+              ""
+            ],
+            [
+              "3",
+              "[@desarrolla2](https://github.com/desarrolla2)/[**Gmap**](https://github.com/desarrolla2/Gmap)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@uno-de-piera](https://github.com/uno-de-piera)/[**consultas_eloquent**](https://github.com/uno-de-piera/consultas_eloquent)",
+              "El ORM eloquent en laravel 4",
+              ""
+            ],
+            [
+              "3",
+              "[@uno-de-piera](https://github.com/uno-de-piera)/[**angular-2-codeignite…**](https://github.com/uno-de-piera/angular-2-codeigniter-3)",
+              "Combining Angular 2 and Codeigniter 3",
+              ""
+            ],
+            [
+              "3",
+              "[@desarrolla2](https://github.com/desarrolla2)/[**MailExceptionBundle**](https://github.com/desarrolla2/MailExceptionBundle)",
+              "Email you when Symfony2 Exceptions occurs with some information.",
+              ""
+            ],
+            [
+              "3",
+              "[@tonydspaniard](https://github.com/tonydspaniard)/[**Yii-ENexmo**](https://github.com/tonydspaniard/Yii-ENexmo)",
+              "Yii Framework Library to interact with Nexmo Mobile Message Provider's Restful API",
+              ""
+            ],
+            [
+              "3",
+              "[@desarrolla2](https://github.com/desarrolla2)/[**PlanetBundle**](https://github.com/desarrolla2/PlanetBundle)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@itrascastro](https://github.com/itrascastro)/[**Symfony-Classroom**](https://github.com/itrascastro/Symfony-Classroom)",
+              "Symfony Course",
+              ""
+            ],
+            [
+              "3",
+              "[@damiles](https://github.com/damiles)/[**ACMS**](https://github.com/damiles/ACMS)",
+              "Another Content Management System",
+              ""
+            ],
+            [
+              "2",
+              "[@josereyero](https://github.com/josereyero)/[**google_hybrid**](https://github.com/josereyero/google_hybrid)",
+              "Implements Google Hybrid authentication (OpenID + OAuth)",
+              ""
+            ],
+            [
+              "2",
+              "[@desarrolla2](https://github.com/desarrolla2)/[**Timer**](https://github.com/desarrolla2/Timer)",
+              "This script works as simple timer control to your app",
+              ""
+            ],
+            [
+              "2",
+              "[@desarrolla2](https://github.com/desarrolla2)/[**File**](https://github.com/desarrolla2/File)",
+              "Provide simple api to read and write files",
+              ""
+            ],
+            [
+              "2",
+              "[@uno-de-piera](https://github.com/uno-de-piera)/[**crud_phalcon**](https://github.com/uno-de-piera/crud_phalcon)",
+              "Simple crud with phalcon, bootstrap and jQuery",
+              ""
+            ],
+            [
+              "2",
+              "[@desarrolla2](https://github.com/desarrolla2)/[**Logger**](https://github.com/desarrolla2/Logger)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@uno-de-piera](https://github.com/uno-de-piera)/[**ajax_laravel**](https://github.com/uno-de-piera/ajax_laravel)",
+              "Ajax en laravel 4",
+              ""
+            ],
+            [
+              "2",
+              "[@tobiassjosten](https://github.com/tobiassjosten)/[**reactions**](https://github.com/tobiassjosten/reactions)",
+              "Drupal module to harvest reactions (blog posts, comments, tweets, etc) to content on your site",
+              "[:arrow_upper_right:](http://drupal.org/project/reactions)"
+            ],
+            [
+              "2",
+              "[@jleyva](https://github.com/jleyva)/[**moodle-mftpd**](https://github.com/jleyva/moodle-mftpd)",
+              "FTP server that exposes the Moodle file system",
+              ""
+            ],
+            [
+              "2",
+              "[@penyaskito](https://github.com/penyaskito)/[**customslider**](https://github.com/penyaskito/customslider)",
+              "THIS MODULE IS NOT READY FOR PRODUCTION (and there is no way you want to use it). It's just an example about how to make your own entities, fields and config translatable in Drupal 8. This is done step by step, so check the history of the repo for best comprehension.",
+              ""
+            ],
+            [
+              "2",
+              "[@phproberto](https://github.com/phproberto)/[**plg_system_codeprett…**](https://github.com/phproberto/plg_system_codeprettify)",
+              "Code highlighting for Joomla! based on Google Code Prettify library",
+              ""
+            ],
+            [
+              "2",
+              "[@desarrolla2](https://github.com/desarrolla2)/[**Booky**](https://github.com/desarrolla2/Booky)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@aesedepece](https://github.com/aesedepece)/[**sohopos**](https://github.com/aesedepece/sohopos)",
+              "HTML5 Point of Sale",
+              ""
+            ],
+            [
+              "2",
+              "[@desarrolla2](https://github.com/desarrolla2)/[**TwitterClient**](https://github.com/desarrolla2/TwitterClient)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@carlosbuenosvinos](https://github.com/carlosbuenosvinos)/[**php-ports-and-adapte…**](https://github.com/carlosbuenosvinos/php-ports-and-adapters-helper)",
+              "PHP package for making easy to use Hexagonal Architecture (Ports and Adapters)",
+              ""
+            ],
+            [
+              "2",
+              "[@uno-de-piera](https://github.com/uno-de-piera)/[**hmvcci3**](https://github.com/uno-de-piera/hmvcci3)",
+              "Hmvc project with codeigniter 3.",
               ""
             ]
           ]
