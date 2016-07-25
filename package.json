@@ -65,7 +65,8 @@
           "[Python](#python)",
           "[R](#r)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -7287,6 +7288,105 @@
               "6",
               "[@JSantosP](https://github.com/JSantosP)/[**lolcode-dsl**](https://github.com/JSantosP/lolcode-dsl)",
               "Activator template for Lolcode DSL. This activator aims to use Scala as a powerfull tool for embedding domain specific languages.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "40",
+              "[@aplatanado](https://github.com/aplatanado)/[**yakuake-session**](https://github.com/aplatanado/yakuake-session)",
+              "A script to create new yakuake sessions from command-line or '.desktop' files. It allows yakuake to be a better replacement of konsole.",
+              ""
+            ],
+            [
+              "11",
+              "[@jorgemoralespou](https://github.com/jorgemoralespou)/[**docker-jboss-eap**](https://github.com/jorgemoralespou/docker-jboss-eap)",
+              "Docker images for JBoss EAP",
+              ""
+            ],
+            [
+              "9",
+              "[@jorgemoralespou](https://github.com/jorgemoralespou)/[**jboss-virtual-enviro…**](https://github.com/jorgemoralespou/jboss-virtual-environments)",
+              "Vagrant machines for working with JBoss products",
+              ""
+            ],
+            [
+              "6",
+              "[@padajuan](https://github.com/padajuan)/[**ansible-demo**](https://github.com/padajuan/ansible-demo)",
+              "Ansible/Ansible-Tower Demostration with HAproxy as LB and Jboss AS7",
+              ""
+            ],
+            [
+              "6",
+              "[@fermayo](https://github.com/fermayo)/[**ssh-tunnel-daemon**](https://github.com/fermayo/ssh-tunnel-daemon)",
+              "Forwards ports to remote hosts using SSH tunnels",
+              ""
+            ],
+            [
+              "5",
+              "[@aplatanado](https://github.com/aplatanado)/[**FuseISOMenu**](https://github.com/aplatanado/FuseISOMenu)",
+              "FuseISOMenu is a simple front-end menu to \"fuseiso\", which must also be installed. It allows regular non-root users to easily mount and unmount CD/DVD ISO images of various formats. Currently supports plain ISO9660 Level 1 and 2, Rock Ridge, Joliet, zisofs. Supported image types: ISO, BIN (single track only), NRG, MDF, IMG (CCD). This is my own version of the script uploaded to http://kde-apps.org/content/show.php/Fus… by Jason Farrell <farrellj@gmail.com>",
+              ""
+            ],
+            [
+              "4",
+              "[@sjmudd](https://github.com/sjmudd)/[**postfix-rpm**](https://github.com/sjmudd/postfix-rpm)",
+              "Postfix RPMs for RedHat and Fedora distributions",
+              "[:arrow_upper_right:](http://postfix.wl0.org)"
+            ],
+            [
+              "4",
+              "[@jorgemoralespou](https://github.com/jorgemoralespou)/[**nexus-ose**](https://github.com/jorgemoralespou/nexus-ose)",
+              "OSS Sonatype Nexus 2 running on OSE3",
+              ""
+            ],
+            [
+              "4",
+              "[@jorgemoralespou](https://github.com/jorgemoralespou)/[**docker-slides**](https://github.com/jorgemoralespou/docker-slides)",
+              "Various presentations around Docker",
+              ""
+            ],
+            [
+              "4",
+              "[@psicobyte](https://github.com/psicobyte)/[**rankingfaker**](https://github.com/psicobyte/rankingfaker)",
+              "Script para ascender maliciosamente en el ranking de github",
+              ""
+            ],
+            [
+              "3",
+              "[@sjmudd](https://github.com/sjmudd)/[**webscalesql-rpm**](https://github.com/sjmudd/webscalesql-rpm)",
+              "RPM build script for WebScaleSQL",
+              ""
+            ],
+            [
+              "2",
+              "[@imobilis](https://github.com/imobilis)/[**swadInstall**](https://github.com/imobilis/swadInstall)",
+              "Setup scripts for e-Learning platform OpenSWAD",
+              "[:arrow_upper_right:](http://openswad.com)"
+            ],
+            [
+              "2",
+              "[@marioblas](https://github.com/marioblas)/[**dotfiles**](https://github.com/marioblas/dotfiles)",
+              ":computer: My macOS dotfiles",
+              ""
+            ],
+            [
+              "2",
+              "[@jorgemoralespou](https://github.com/jorgemoralespou)/[**docker-jboss-modclus…**](https://github.com/jorgemoralespou/docker-jboss-modcluster)",
+              "Dcoker image for JBoss modcluster",
               ""
             ]
           ]
