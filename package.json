@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -2362,6 +2363,351 @@
               "[@alorma](https://github.com/alorma)/[**RadioButtons_Example**](https://github.com/alorma/RadioButtons_Example)",
               "",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "153",
+              "[@pruiz](https://github.com/pruiz)/[**WkHtmlToXSharp**](https://github.com/pruiz/WkHtmlToXSharp)",
+              "C# wrapper wrapper (using P/Invoke) for the excelent Html to PDF conversion library wkhtmltopdf library.",
+              ""
+            ],
+            [
+              "139",
+              "[@mgp25](https://github.com/mgp25)/[**Chat-API-NET**](https://github.com/mgp25/Chat-API-NET)",
+              "The .NET WhatsApp library ",
+              ""
+            ],
+            [
+              "126",
+              "[@mgp25](https://github.com/mgp25)/[**WART**](https://github.com/mgp25/WART)",
+              " WhatsApp Registration Tool",
+              ""
+            ],
+            [
+              "74",
+              "[@SuperJMN](https://github.com/SuperJMN)/[**OmniXAML**](https://github.com/SuperJMN/OmniXAML)",
+              "The freakin' awesome Cross-platform XAML Framework",
+              ""
+            ],
+            [
+              "67",
+              "[@soywiz](https://github.com/soywiz)/[**cspspemu**](https://github.com/soywiz/cspspemu)",
+              "C# PSP Emulator (.NET 4.5)",
+              "[:arrow_upper_right:](http://pspemu.soywiz.com/)"
+            ],
+            [
+              "41",
+              "[@cmendible](https://github.com/cmendible)/[**netDumbster**](https://github.com/cmendible/netDumbster)",
+              "netDumbster is a .Net Fake SMTP Server clone of the popular Dumbster (http://quintanasoft.com/dumbster/)",
+              ""
+            ],
+            [
+              "33",
+              "[@pleonex](https://github.com/pleonex)/[**tinke**](https://github.com/pleonex/tinke)",
+              "Viewer and editor for files of NDS games",
+              ""
+            ],
+            [
+              "26",
+              "[@pruiz](https://github.com/pruiz)/[**LumiSoft.Net**](https://github.com/pruiz/LumiSoft.Net)",
+              "LumiSoft.Net clone repo with mainly mono (and other minor issues) bug fixes. (Original project's url: http://www.lumisoft.ee)",
+              ""
+            ],
+            [
+              "23",
+              "[@pruiz](https://github.com/pruiz)/[**Topshelf.Linux**](https://github.com/pruiz/Topshelf.Linux)",
+              "Topshelf extensions allowing compatibility with mono/linux.",
+              ""
+            ],
+            [
+              "17",
+              "[@gjulianm](https://github.com/gjulianm)/[**Ocell**](https://github.com/gjulianm/Ocell)",
+              "A Twitter Client for Windows Phone.",
+              "[:arrow_upper_right:](http://ocellapp.com)"
+            ],
+            [
+              "16",
+              "[@soywiz](https://github.com/soywiz)/[**ilcc**](https://github.com/soywiz/ilcc)",
+              "C compiler that generates .NET IL made in C#",
+              ""
+            ],
+            [
+              "15",
+              "[@cmendible](https://github.com/cmendible)/[**Hexa.Core**](https://github.com/cmendible/Hexa.Core)",
+              "Hexa.Core is HexaSystems implementation of the Domain Driven Design Architecture. Also providing a set of helper classes for ASP.Net and WCF development.",
+              ""
+            ],
+            [
+              "11",
+              "[@slluis](https://github.com/slluis)/[**cydin**](https://github.com/slluis/cydin)",
+              "Add-in repository for Mono.Addins based applications",
+              ""
+            ],
+            [
+              "11",
+              "[@rolfbjarne](https://github.com/rolfbjarne)/[**iOSRefUpdater**](https://github.com/rolfbjarne/iOSRefUpdater)",
+              "",
+              ""
+            ],
+            [
+              "11",
+              "[@SuperJMN](https://github.com/SuperJMN)/[**VisualDesigner**](https://github.com/SuperJMN/VisualDesigner)",
+              "Visual Designer",
+              ""
+            ],
+            [
+              "10",
+              "[@mcliment](https://github.com/mcliment)/[**miniprofiler-glimpse…**](https://github.com/mcliment/miniprofiler-glimpse-plugin)",
+              "A Glimpse Plugin to integrate MiniProfiler results",
+              ""
+            ],
+            [
+              "10",
+              "[@pruiz](https://github.com/pruiz)/[**AberrantSMPP**](https://github.com/pruiz/AberrantSMPP)",
+              "An SMPP client library for Mono/.Net (Based originally on RoamingSMPP, which is not maintained anymore)",
+              ""
+            ],
+            [
+              "10",
+              "[@SuperJMN](https://github.com/SuperJMN)/[**ReactiveUI-BingSearc…**](https://github.com/SuperJMN/ReactiveUI-BingSearch)",
+              "Using ReactiveUI and Reactive Extensions to serach with Bing",
+              ""
+            ],
+            [
+              "9",
+              "[@soywiz](https://github.com/soywiz)/[**csharputils**](https://github.com/soywiz/csharputils)",
+              "A big set of useful C# 4.0 utilities and extensions in a single DLL.",
+              ""
+            ],
+            [
+              "9",
+              "[@mgp25](https://github.com/mgp25)/[**WA-password-extracto…**](https://github.com/mgp25/WA-password-extractor)",
+              "Extract WhatsApp password and identity from your device [iPhone only]",
+              ""
+            ],
+            [
+              "7",
+              "[@pruiz](https://github.com/pruiz)/[**EPPlus**](https://github.com/pruiz/EPPlus)",
+              "EPPlus fork fixing mono problems.",
+              ""
+            ],
+            [
+              "7",
+              "[@pleonex](https://github.com/pleonex)/[**NitroDebugger**](https://github.com/pleonex/NitroDebugger)",
+              "Remote debugger for Nintendo DS games",
+              ""
+            ],
+            [
+              "7",
+              "[@davidjrh](https://github.com/davidjrh)/[**dnn.rediscachingprov…**](https://github.com/davidjrh/dnn.rediscachingprovider)",
+              "This caching provider allows to use a Redis cache server or cluster within DNN",
+              ""
+            ],
+            [
+              "6",
+              "[@davidjrh](https://github.com/davidjrh)/[**dnn.azureadprovider**](https://github.com/davidjrh/dnn.azureadprovider)",
+              "The DNN Azure Active Directory Provider is an Authentication provider for DNN Platform that uses Azure Active Directory OAuth2 authentication to authenticate users.",
+              ""
+            ],
+            [
+              "6",
+              "[@sgolivernet](https://github.com/sgolivernet)/[**nrtftree**](https://github.com/sgolivernet/nrtftree)",
+              ".NET class library for RTF processing",
+              ""
+            ],
+            [
+              "6",
+              "[@soywiz](https://github.com/soywiz)/[**NodeNetAsync**](https://github.com/soywiz/NodeNetAsync)",
+              "A .NET 4.5 project similar to Node.JS",
+              ""
+            ],
+            [
+              "5",
+              "[@soywiz](https://github.com/soywiz)/[**SafeILGenerator**](https://github.com/soywiz/SafeILGenerator)",
+              "Safe ILGenerator",
+              ""
+            ],
+            [
+              "5",
+              "[@rolfbjarne](https://github.com/rolfbjarne)/[**embedded-frameworks**](https://github.com/rolfbjarne/embedded-frameworks)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@cmendible](https://github.com/cmendible)/[**nFacturae**](https://github.com/cmendible/nFacturae)",
+              "nFacturae is a .Net library wich provides a set of helper classes to work with Facturae (Spains's electronic invoice format) ",
+              ""
+            ],
+            [
+              "4",
+              "[@pleonex](https://github.com/pleonex)/[**xdelta-sharp**](https://github.com/pleonex/xdelta-sharp)",
+              "XDELTA3 port to C#",
+              ""
+            ],
+            [
+              "4",
+              "[@cmendible](https://github.com/cmendible)/[**AzureBus**](https://github.com/cmendible/AzureBus)",
+              "Inspired by the simple EasyNetQ API, this library helps you get started with Microsoft Azure Service Bus or Service Bus 1.1 for Windows Server pub/sub and queues!",
+              ""
+            ],
+            [
+              "4",
+              "[@davidjrh](https://github.com/davidjrh)/[**dnn.appinsights**](https://github.com/davidjrh/dnn.appinsights)",
+              "A module to use Visual Studio Application Insights with the DNN Platform CMS",
+              ""
+            ],
+            [
+              "4",
+              "[@soywiz](https://github.com/soywiz)/[**llvm-to-msil**](https://github.com/soywiz/llvm-to-msil)",
+              "Converts LLVM Bytecode to MSIL",
+              ""
+            ],
+            [
+              "4",
+              "[@FranLsz](https://github.com/FranLsz)/[**RepositoryPatternGen…**](https://github.com/FranLsz/RepositoryPatternGenerator-VS-Extension)",
+              "Visual Studio extension to generate repository pattern code from an EF6 data model.",
+              "[:arrow_upper_right:](https://visualstudiogallery.msdn.microsoft.com/db555413-64cf-4dea-9cf4-739cd65d0ba4)"
+            ],
+            [
+              "3",
+              "[@SuperJMN](https://github.com/SuperJMN)/[**DynamicDataToyApps**](https://github.com/SuperJMN/DynamicDataToyApps)",
+              "Set of basic samples to start with Dynamic Data by Rolad Pheasant",
+              ""
+            ],
+            [
+              "3",
+              "[@rolfbjarne](https://github.com/rolfbjarne)/[**ObjCInterop-sample**](https://github.com/rolfbjarne/ObjCInterop-sample)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@mcliment](https://github.com/mcliment)/[**neo4jclient-glimpse-…**](https://github.com/mcliment/neo4jclient-glimpse-plugin)",
+              "A simple Glimpse plugin for Neo4jClient",
+              ""
+            ],
+            [
+              "3",
+              "[@slluis](https://github.com/slluis)/[**ShowInGithub**](https://github.com/slluis/ShowInGithub)",
+              "Add-in for MonoDevelop which can be used to jump to a source code line in Github",
+              ""
+            ],
+            [
+              "3",
+              "[@pleonex](https://github.com/pleonex)/[**libgame**](https://github.com/pleonex/libgame)",
+              "Library to easy open, extract and import videogame file formats",
+              ""
+            ],
+            [
+              "3",
+              "[@pleonex](https://github.com/pleonex)/[**Arduimmer**](https://github.com/pleonex/Arduimmer)",
+              "ICSP Arduino Programmer",
+              ""
+            ],
+            [
+              "3",
+              "[@soywiz](https://github.com/soywiz)/[**smrr-server**](https://github.com/soywiz/smrr-server)",
+              "Simple Massive Realtime Ranking Server made in C# (originally D)",
+              "[:arrow_upper_right:](http://code.google.com/p/smr-server/)"
+            ],
+            [
+              "2",
+              "[@SuperJMN](https://github.com/SuperJMN)/[**Glass**](https://github.com/SuperJMN/Glass)",
+              "Glass Library that covers mostly all my findings during my career that solve common problems and deserve to be shared.",
+              ""
+            ],
+            [
+              "2",
+              "[@SuperJMN](https://github.com/SuperJMN)/[**XAMLPagingControl**](https://github.com/SuperJMN/XAMLPagingControl)",
+              "A control for WPF (and other XAML-based frameworks) to provide paging and sorting for your data!",
+              ""
+            ],
+            [
+              "2",
+              "[@pruiz](https://github.com/pruiz)/[**BasicAuthDotNet**](https://github.com/pruiz/BasicAuthDotNet)",
+              "A simple HTTP Basic authentication module (IHttpModule) for ASP.NET/Mono.",
+              ""
+            ],
+            [
+              "2",
+              "[@cmendible](https://github.com/cmendible)/[**Hexa.xText**](https://github.com/cmendible/Hexa.xText)",
+              "Hexa.xText is a .Net command line tool to extract text from source files for later translation, just like the GNU xgettext does.",
+              ""
+            ],
+            [
+              "2",
+              "[@rolfbjarne](https://github.com/rolfbjarne)/[**Mono.Unit**](https://github.com/rolfbjarne/Mono.Unit)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@davidjrh](https://github.com/davidjrh)/[**dnntodolist**](https://github.com/davidjrh/dnntodolist)",
+              "A simple TodoList sample module for DNN Platform",
+              ""
+            ],
+            [
+              "2",
+              "[@mgp25](https://github.com/mgp25)/[**classesMD5-64**](https://github.com/mgp25/classesMD5-64)",
+              "Extract classes.dex from apk and returns base64 MD5 raw encoded",
+              ""
+            ],
+            [
+              "2",
+              "[@gjulianm](https://github.com/gjulianm)/[**BufferAPI**](https://github.com/gjulianm/BufferAPI)",
+              "C# API for Buffer.",
+              ""
+            ],
+            [
+              "2",
+              "[@cerberillo](https://github.com/cerberillo)/[**AdSwitcher**](https://github.com/cerberillo/AdSwitcher)",
+              "AdSwitcher for Windows Phone 7 (Silverlight or XNA)",
+              ""
+            ],
+            [
+              "2",
+              "[@mrmans0n](https://github.com/mrmans0n)/[**PerrySub**](https://github.com/mrmans0n/PerrySub)",
+              "Subtitle editor in Spanish",
+              ""
+            ],
+            [
+              "2",
+              "[@soywiz](https://github.com/soywiz)/[**nvorbis**](https://github.com/soywiz/nvorbis)",
+              "Port of the Jorbis library to decode OGG files on .NET without any dependency (compatible with silverlight, xna, xbox 360 and windows phone)",
+              ""
+            ],
+            [
+              "2",
+              "[@pablovargan](https://github.com/pablovargan)/[**winforms-ooh4ria**](https://github.com/pablovargan/winforms-ooh4ria)",
+              "Desktop application using Model-Driven-Development",
+              "[:arrow_upper_right:](https://dss-g6.assembla.com/spaces/limpiezaspalmeral)"
+            ],
+            [
+              "2",
+              "[@nesteruk](https://github.com/nesteruk)/[**Navigator**](https://github.com/nesteruk/Navigator)",
+              "Fast pop-up folder/directory navigation for Windows",
+              ""
+            ],
+            [
+              "2",
+              "[@soywiz](https://github.com/soywiz)/[**opentk**](https://github.com/soywiz/opentk)",
+              "A git fork of the project in order to be able to import it as a Git submodule.",
+              "[:arrow_upper_right:](http://www.opentk.com/)"
             ]
           ]
         }
