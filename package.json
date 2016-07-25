@@ -59,7 +59,8 @@
           "[Haskell](#haskell)",
           "[Lua](#lua)",
           "[Matlab](#matlab)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -4588,6 +4589,291 @@
               "[@koke](https://github.com/koke)/[**appstatus-iphone**](https://github.com/koke/appstatus-iphone)",
               "iPhone app status report controller",
               "[:arrow_upper_right:](http://appstatus.jorgebernal.info/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "127",
+              "[@JJ](https://github.com/JJ)/[**hoborg**](https://github.com/JJ/hoborg)",
+              "A dieselpunk novel with Spanish-created robot hobos in a balcanized America at the beginning of the XX century",
+              ""
+            ],
+            [
+              "34",
+              "[@diegok](https://github.com/diegok)/[**resque-perl**](https://github.com/diegok/resque-perl)",
+              "Perl port of the original Ruby library. It's intended to work using the same backend to share tasks and be able to manage the system using ruby's resque-server webapp. Resque is a Redis-backed library for creating background jobs, placing them on multiple queues, and processing them later.",
+              ""
+            ],
+            [
+              "20",
+              "[@salva](https://github.com/salva)/[**p5-Net-OpenSSH**](https://github.com/salva/p5-Net-OpenSSH)",
+              "Perl SSH client built on top of OpenSSH",
+              ""
+            ],
+            [
+              "12",
+              "[@clintongormley](https://github.com/clintongormley)/[**Elastic-Model**](https://github.com/clintongormley/Elastic-Model)",
+              "Use ElasticSearch as a NoSQL database in Perl",
+              ""
+            ],
+            [
+              "10",
+              "[@diegok](https://github.com/diegok)/[**Gardel**](https://github.com/diegok/Gardel)",
+              "Gardel is a very simple perl web framework that also has a hat. ( Inspired on sinatra.rb )",
+              ""
+            ],
+            [
+              "9",
+              "[@clintongormley](https://github.com/clintongormley)/[**ElasticSearch-Search…**](https://github.com/clintongormley/ElasticSearch-SearchBuilder)",
+              "A compact Perlish way to build queries and filters for ElasticSearch",
+              ""
+            ],
+            [
+              "8",
+              "[@salva](https://github.com/salva)/[**p5-AnyEvent-Pg**](https://github.com/salva/p5-AnyEvent-Pg)",
+              "Asynchronous access to PostgreSQL databases with AnyEvent",
+              ""
+            ],
+            [
+              "8",
+              "[@clintongormley](https://github.com/clintongormley)/[**ElasticSearchX-Autoc…**](https://github.com/clintongormley/ElasticSearchX-Autocomplete)",
+              "ElasticSearchX::Autocomplete is a Perl module which gives you frequency (and optionally geolocation)-sensitive autocomplete suggestions based on your data",
+              ""
+            ],
+            [
+              "7",
+              "[@salva](https://github.com/salva)/[**p5-Net-SFTP-Foreign**](https://github.com/salva/p5-Net-SFTP-Foreign)",
+              "Perl SFTP client",
+              ""
+            ],
+            [
+              "6",
+              "[@clintongormley](https://github.com/clintongormley)/[**ConfigMerge**](https://github.com/clintongormley/ConfigMerge)",
+              "Load a configuration directory tree containing YAML, JSON, XML, Perl, INI or Config::General files  ",
+              ""
+            ],
+            [
+              "6",
+              "[@ebox](https://github.com/ebox)/[**ebox**](https://github.com/ebox/ebox)",
+              "eBox platform - just testing git, visit http://trac.ebox-platform.com/wiki/Docum… for actual repository",
+              "[:arrow_upper_right:](http://ebox-platform.com/)"
+            ],
+            [
+              "5",
+              "[@diegok](https://github.com/diegok)/[**Postfix-Admin**](https://github.com/diegok/Postfix-Admin)",
+              "A drop in replacement for Postfix Admin (php) build on Catalyst.",
+              ""
+            ],
+            [
+              "5",
+              "[@clintongormley](https://github.com/clintongormley)/[**ElasticSearchX-Autoc…**](https://github.com/clintongormley/ElasticSearchX-Autocomplete-GeoNames)",
+              "Geolocation autocomplete using GeoNames data hosted in ElasticSearch",
+              ""
+            ],
+            [
+              "5",
+              "[@salva](https://github.com/salva)/[**p5-Net-OpenSSH-Gatew…**](https://github.com/salva/p5-Net-OpenSSH-Gateway)",
+              "open SSH connections through gateways and proxies",
+              ""
+            ],
+            [
+              "5",
+              "[@diegok](https://github.com/diegok)/[**Twitirc**](https://github.com/diegok/Twitirc)",
+              "IRC/twitter bot that can speak both ways",
+              ""
+            ],
+            [
+              "5",
+              "[@oslugr](https://github.com/oslugr)/[**datos-ugr**](https://github.com/oslugr/datos-ugr)",
+              "Datos publicados en opendata.ugr.es",
+              ""
+            ],
+            [
+              "4",
+              "[@salva](https://github.com/salva)/[**p5-Math-Vector-Real**](https://github.com/salva/p5-Math-Vector-Real)",
+              "manipulate real vectors of any dimension in Perl",
+              ""
+            ],
+            [
+              "4",
+              "[@JJ](https://github.com/JJ)/[**Test-Text**](https://github.com/JJ/Test-Text)",
+              "A module for testing and doing metrics on normal text. As in books or novels. ",
+              ""
+            ],
+            [
+              "4",
+              "[@JJ](https://github.com/JJ)/[**wiki2fb2**](https://github.com/JJ/wiki2fb2)",
+              "Translation of wikis to FictionBook",
+              ""
+            ],
+            [
+              "4",
+              "[@JJ](https://github.com/JJ)/[**perl-moderno**](https://github.com/JJ/perl-moderno)",
+              "Una introducción corta a Perl moderno",
+              ""
+            ],
+            [
+              "4",
+              "[@oslugr](https://github.com/oslugr)/[**yapc-eu**](https://github.com/oslugr/yapc-eu)",
+              "Proposal fof YAPC-EU 2015",
+              "[:arrow_upper_right:](http://granada.pm)"
+            ],
+            [
+              "3",
+              "[@salva](https://github.com/salva)/[**p5-Class-StateMachin…**](https://github.com/salva/p5-Class-StateMachine-Declarative)",
+              "Build Perl state machine classes declaratively",
+              ""
+            ],
+            [
+              "3",
+              "[@salva](https://github.com/salva)/[**p5-Math-Vector-Real-…**](https://github.com/salva/p5-Math-Vector-Real-Neighbors)",
+              "Find nearest neighbours for a set of vectors",
+              ""
+            ],
+            [
+              "3",
+              "[@salva](https://github.com/salva)/[**p5-Net-SSH-Any**](https://github.com/salva/p5-Net-SSH-Any)",
+              "Compatibility layer for common Perl SSH client modules",
+              ""
+            ],
+            [
+              "3",
+              "[@salva](https://github.com/salva)/[**p5-Math-Vector-Real-…**](https://github.com/salva/p5-Math-Vector-Real-Random)",
+              "Generate random real vectors",
+              ""
+            ],
+            [
+              "3",
+              "[@ebox](https://github.com/ebox)/[**anste**](https://github.com/ebox/anste)",
+              "Advanced Network Service Testing Environment (git mirror)  ",
+              "[:arrow_upper_right:](https://public.warp.es/anste)"
+            ],
+            [
+              "2",
+              "[@salva](https://github.com/salva)/[**p5-Net-OpenSSH-Compa…**](https://github.com/salva/p5-Net-OpenSSH-Compat)",
+              "Compatibility modules for Net::OpenSSH",
+              ""
+            ],
+            [
+              "2",
+              "[@JJ](https://github.com/JJ)/[**Algorithm-Evolutiona…**](https://github.com/JJ/Algorithm-Evolutionary)",
+              "Algorithm::Evolutionary, Perl module for evolutionary algorithms",
+              ""
+            ],
+            [
+              "2",
+              "[@JJ](https://github.com/JJ)/[**euro-2008**](https://github.com/JJ/euro-2008)",
+              "Passes Network in Euro 2008",
+              ""
+            ],
+            [
+              "2",
+              "[@JJ](https://github.com/JJ)/[**la-venganza-de-don-m…**](https://github.com/JJ/la-venganza-de-don-mendo)",
+              "Módulo Perl para esta parodia de tragedia",
+              ""
+            ],
+            [
+              "2",
+              "[@salva](https://github.com/salva)/[**p5-Math-Vector-Real-…**](https://github.com/salva/p5-Math-Vector-Real-Farthest)",
+              "Find the two farthest vectors in a set",
+              ""
+            ],
+            [
+              "2",
+              "[@diegok](https://github.com/diegok)/[**app.curs.barcelona.p…**](https://github.com/diegok/app.curs.barcelona.pm)",
+              "Example catalyst app for curs.perl.cat",
+              "[:arrow_upper_right:](http://curs.perl.cat)"
+            ],
+            [
+              "2",
+              "[@diegok](https://github.com/diegok)/[**WWW--Twitpic**](https://github.com/diegok/WWW--Twitpic)",
+              "A perl interface to Twitpic.com public API.",
+              ""
+            ],
+            [
+              "2",
+              "[@diegok](https://github.com/diegok)/[**dbic.curs.barcelona.…**](https://github.com/diegok/dbic.curs.barcelona.pm)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@diegok](https://github.com/diegok)/[**Business-Invoice**](https://github.com/diegok/Business-Invoice)",
+              "Perl module for invoicing",
+              ""
+            ],
+            [
+              "2",
+              "[@clintongormley](https://github.com/clintongormley)/[**AnyEvent-DateTime-Cr…**](https://github.com/clintongormley/AnyEvent-DateTime-Cron)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@salva](https://github.com/salva)/[**p5-Convex-Hull**](https://github.com/salva/p5-Convex-Hull)",
+              "Calculate convex hull of a set of points",
+              ""
+            ],
+            [
+              "2",
+              "[@clintongormley](https://github.com/clintongormley)/[**Plack-Middleware-Cer…**](https://github.com/clintongormley/Plack-Middleware-Cerberus)",
+              "Plack::Middleware to add App::Cerberus metadata to all requests",
+              ""
+            ],
+            [
+              "2",
+              "[@salva](https://github.com/salva)/[**ps-perl-y-geometria**](https://github.com/salva/ps-perl-y-geometria)",
+              "Perl, vectores, geometría, problemas, algoritmos y arte",
+              ""
+            ],
+            [
+              "2",
+              "[@clintongormley](https://github.com/clintongormley)/[**I18N-String**](https://github.com/clintongormley/I18N-String)",
+              "Delayed I18N translation of strings",
+              ""
+            ],
+            [
+              "2",
+              "[@salva](https://github.com/salva)/[**p5-Net-OpenSSH-Stati…**](https://github.com/salva/p5-Net-OpenSSH-StaticBinary)",
+              "Static builds of OpenSSH binaries for common platforms",
+              ""
+            ],
+            [
+              "2",
+              "[@clintongormley](https://github.com/clintongormley)/[**App-Cerberus-Client**](https://github.com/clintongormley/App-Cerberus-Client)",
+              "A client to speak to an App::Cerberus server",
+              ""
+            ],
+            [
+              "2",
+              "[@salva](https://github.com/salva)/[**p5-Config-Properties**](https://github.com/salva/p5-Config-Properties)",
+              "Release history of Config-Properties",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Config-Properties/)"
+            ],
+            [
+              "2",
+              "[@clintongormley](https://github.com/clintongormley)/[**App-Cerberus**](https://github.com/clintongormley/App-Cerberus)",
+              "A pluggable Perl web service to preprocess web requests. Plugins can add geo, timezone and browser metadata, and throttle request rate ",
+              ""
+            ],
+            [
+              "2",
+              "[@salva](https://github.com/salva)/[**p5-Math-Vector-Real-…**](https://github.com/salva/p5-Math-Vector-Real-kdTree)",
+              "kd-Trees in Perl",
+              ""
             ]
           ]
         }
