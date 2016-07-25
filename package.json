@@ -51,7 +51,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[ActionScript](#actionscript)"
         ]
       },
       {
@@ -3314,6 +3315,33 @@
               "[@drodri](https://github.com/drodri)/[**opencv-biicode**](https://github.com/drodri/opencv-biicode)",
               "Biicode hooks for opencv, both 2.4 and 3.0 beta. Simple getting started for opencv in C/C++",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "ActionScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "15",
+              "[@moebiuz](https://github.com/moebiuz)/[**Starling-Extension-P…**](https://github.com/moebiuz/Starling-Extension-Parallax-Layer)",
+              "Starling custom Sprite to create Parallax Scrolling layers",
+              ""
+            ],
+            [
+              "6",
+              "[@ManfredKarrer](https://github.com/ManfredKarrer)/[**nucleo.io**](https://github.com/ManfredKarrer/nucleo.io)",
+              "nucleo.io is an ActionScript / Flex Library containing a scheduler micro-framework for easily configuring tasks to be executed in sequence, parallel or based on their data dependencies.",
+              "[:arrow_upper_right:](http://nucleo.io)"
             ]
           ]
         }
