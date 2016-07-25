@@ -57,7 +57,8 @@
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
           "[Haskell](#haskell)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Matlab](#matlab)"
         ]
       },
       {
@@ -3817,6 +3818,45 @@
               "2",
               "[@kikito](https://github.com/kikito)/[**modis.lua**](https://github.com/kikito/modis.lua)",
               "Lua implementation of MongoDB query language over redis.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Matlab #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "5",
+              "[@spatUV](https://github.com/spatUV)/[**SART3Dmaster**](https://github.com/spatUV/SART3Dmaster)",
+              "Master repository for 3D Spatial Audio Reproduction Toolbox",
+              ""
+            ],
+            [
+              "5",
+              "[@4rtur1t0](https://github.com/4rtur1t0)/[**ARTE**](https://github.com/4rtur1t0/ARTE)",
+              "ARTE (A Robotics Toolbox for Education)",
+              "[:arrow_upper_right:](http://arvc.umh.es/arte)"
+            ],
+            [
+              "4",
+              "[@IPL-UV](https://github.com/IPL-UV)/[**altoolbox**](https://github.com/IPL-UV/altoolbox)",
+              "MATLAB Active Learning Toolbox for Remote Sensing",
+              ""
+            ],
+            [
+              "2",
+              "[@lucbpz](https://github.com/lucbpz)/[**DUET-MATLAB**](https://github.com/lucbpz/DUET-MATLAB)",
+              "DUET Algorithm on MATLAB. Blind Source Separation.",
               ""
             ]
           ]
