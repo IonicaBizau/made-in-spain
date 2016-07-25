@@ -49,7 +49,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[C](undefined)"
         ]
       },
       {
@@ -2748,6 +2749,231 @@
               "[@aluzardo](https://github.com/aluzardo)/[**aluzardo.github.io**](https://github.com/aluzardo/aluzardo.github.io)",
               "My porfolio and cv online",
               "[:arrow_upper_right:](https://aluzardo.github.io/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "134",
+              "[@slp](https://github.com/slp)/[**Telegram-FOSS**](https://github.com/slp/Telegram-FOSS)",
+              "Unofficial, FOSS friendly fork of the original Telegram client for Android",
+              ""
+            ],
+            [
+              "61",
+              "[@gallir](https://github.com/gallir)/[**concurrencia**](https://github.com/gallir/concurrencia)",
+              "Códigos fuente del libro \"Principios y algoritmos de concurrencia\"",
+              "[:arrow_upper_right:](https://gallir.wordpress.com/principios-de-concurrencia/)"
+            ],
+            [
+              "49",
+              "[@waninkoko](https://github.com/waninkoko)/[**wad-manager**](https://github.com/waninkoko/wad-manager)",
+              "WAD installer/uninstaller.",
+              "[:arrow_upper_right:](http://wii.waninkoko.info)"
+            ],
+            [
+              "28",
+              "[@Piker-Alpha](https://github.com/Piker-Alpha)/[**AppleIntelInfo**](https://github.com/Piker-Alpha/AppleIntelInfo)",
+              "Replacement for AppleIntelCPUPowerManagementInfo.kext",
+              ""
+            ],
+            [
+              "22",
+              "[@gallir](https://github.com/gallir)/[**SpokenPic**](https://github.com/gallir/SpokenPic)",
+              "This is the Android source code of the SpokenPic project (http://spokenpic.com).  Author: Ricardo Galli. Source code is under GPL3 (see LICENSE) Graphics are under CC-SA (see res/LICENSE)",
+              ""
+            ],
+            [
+              "17",
+              "[@waninkoko](https://github.com/waninkoko)/[**sd-usb-loader**](https://github.com/waninkoko/sd-usb-loader)",
+              "SD/USB Backup Loader for Wii.",
+              "[:arrow_upper_right:](http://wii.waninkoko.info)"
+            ],
+            [
+              "16",
+              "[@Piker-Alpha](https://github.com/Piker-Alpha)/[**LZVN**](https://github.com/Piker-Alpha/LZVN)",
+              "C-Style conversion of lzvn_decode",
+              ""
+            ],
+            [
+              "14",
+              "[@waninkoko](https://github.com/waninkoko)/[**menu-patcher**](https://github.com/waninkoko/menu-patcher)",
+              "Menu Patcher for System Menu.",
+              "[:arrow_upper_right:](http://wii.waninkoko.info)"
+            ],
+            [
+              "14",
+              "[@Piker-Alpha](https://github.com/Piker-Alpha)/[**csrstat**](https://github.com/Piker-Alpha/csrstat)",
+              "Command line tool for El Capitan to get the active SIP status",
+              ""
+            ],
+            [
+              "12",
+              "[@waninkoko](https://github.com/waninkoko)/[**firmware-downgrader**](https://github.com/waninkoko/firmware-downgrader)",
+              "Wii Firmware Downgrader.",
+              "[:arrow_upper_right:](http://wii.waninkoko.info)"
+            ],
+            [
+              "10",
+              "[@jpenalbae](https://github.com/jpenalbae)/[**hackrf_tcp**](https://github.com/jpenalbae/hackrf_tcp)",
+              "I/Q spectrum server for hackrf",
+              ""
+            ],
+            [
+              "9",
+              "[@waninkoko](https://github.com/waninkoko)/[**nand-loader**](https://github.com/waninkoko/nand-loader)",
+              "Custom NAND Loader for Wii Channels.",
+              "[:arrow_upper_right:](http://wii.waninkoko.info)"
+            ],
+            [
+              "8",
+              "[@waninkoko](https://github.com/waninkoko)/[**savegame-manager**](https://github.com/waninkoko/savegame-manager)",
+              "Savegame Manager.",
+              "[:arrow_upper_right:](http://wii.waninkoko.info)"
+            ],
+            [
+              "8",
+              "[@waninkoko](https://github.com/waninkoko)/[**multigame-loader**](https://github.com/waninkoko/multigame-loader)",
+              "Multigame disc loader for Wii.",
+              "[:arrow_upper_right:](http://wii.waninkoko.info)"
+            ],
+            [
+              "7",
+              "[@waninkoko](https://github.com/waninkoko)/[**duplicated-channel-r…**](https://github.com/waninkoko/duplicated-channel-remover)",
+              "Wii Duplicated Channel Remover.",
+              "[:arrow_upper_right:](http://wii.waninkoko.info)"
+            ],
+            [
+              "7",
+              "[@waninkoko](https://github.com/waninkoko)/[**ps3mlib**](https://github.com/waninkoko/ps3mlib)",
+              "PS3 Library for easy application development",
+              "[:arrow_upper_right:](http://www.teknoconsolas.es)"
+            ],
+            [
+              "7",
+              "[@waninkoko](https://github.com/waninkoko)/[**dip-plugin**](https://github.com/waninkoko/dip-plugin)",
+              "DIP plugin for Custom IOS",
+              ""
+            ],
+            [
+              "6",
+              "[@waninkoko](https://github.com/waninkoko)/[**sdhc-module**](https://github.com/waninkoko/sdhc-module)",
+              "SD/SDHC module for IOS",
+              "[:arrow_upper_right:](http://wii.waninkoko.info)"
+            ],
+            [
+              "6",
+              "[@slp](https://github.com/slp)/[**mkunity**](https://github.com/slp/mkunity)",
+              "OSFmk, MkLinux and The Hurd",
+              ""
+            ],
+            [
+              "5",
+              "[@waninkoko](https://github.com/waninkoko)/[**fat-module**](https://github.com/waninkoko/fat-module)",
+              "FAT module for IOS",
+              "[:arrow_upper_right:](http://teknoconsolas.es)"
+            ],
+            [
+              "5",
+              "[@waninkoko](https://github.com/waninkoko)/[**ffs-plugin**](https://github.com/waninkoko/ffs-plugin)",
+              "FFS plugin for Custom IOS",
+              ""
+            ],
+            [
+              "5",
+              "[@Piker-Alpha](https://github.com/Piker-Alpha)/[**stripSignature**](https://github.com/Piker-Alpha/stripSignature)",
+              "Tool to strip CodeSignature's from MachO binaries",
+              ""
+            ],
+            [
+              "4",
+              "[@waninkoko](https://github.com/waninkoko)/[**ehci-module**](https://github.com/waninkoko/ehci-module)",
+              "EHCI module for IOS (based on kwiirk's module)",
+              "[:arrow_upper_right:](http://wii.waninkoko.info)"
+            ],
+            [
+              "4",
+              "[@waninkoko](https://github.com/waninkoko)/[**usb-module**](https://github.com/waninkoko/usb-module)",
+              "USB module for IOS ",
+              ""
+            ],
+            [
+              "4",
+              "[@Eskuero](https://github.com/Eskuero)/[**android_device_samsu…**](https://github.com/Eskuero/android_device_samsung_golden)",
+              "Device configuration for Samsung Galaxy SIII Mini",
+              ""
+            ],
+            [
+              "4",
+              "[@Al3XKOoL](https://github.com/Al3XKOoL)/[**WR2-Kernel**](https://github.com/Al3XKOoL/WR2-Kernel)",
+              "Wiko Rainbow/MMX A120 Custom Kernel (3.4.107)",
+              "[:arrow_upper_right:](http://forum.xda-developers.com/android/general/kernel-wr-kernel-wiko-rainbow-clones-t3003920)"
+            ],
+            [
+              "3",
+              "[@Al3XKOoL](https://github.com/Al3XKOoL)/[**android_kernel_wiko_…**](https://github.com/Al3XKOoL/android_kernel_wiko_rainbow)",
+              "Wiko Rainbow Custom kernel for CM11 - WR2-Kernel based",
+              ""
+            ],
+            [
+              "3",
+              "[@rochoa](https://github.com/rochoa)/[**obdgpslogger**](https://github.com/rochoa/obdgpslogger)",
+              "OBD GPS Logger",
+              ""
+            ],
+            [
+              "3",
+              "[@waninkoko](https://github.com/waninkoko)/[**mload-module**](https://github.com/waninkoko/mload-module)",
+              "MLOAD module for IOS",
+              "[:arrow_upper_right:](http://teknoconsolas.es)"
+            ],
+            [
+              "2",
+              "[@Eskuero](https://github.com/Eskuero)/[**android_kernel_samsu…**](https://github.com/Eskuero/android_kernel_samsung_golden)",
+              "Kernel source code for Samsung Galaxy SIII Mini",
+              ""
+            ],
+            [
+              "2",
+              "[@Piker-Alpha](https://github.com/Piker-Alpha)/[**findSymbol**](https://github.com/Piker-Alpha/findSymbol)",
+              "Command line tool to get symbol offset/address/data",
+              ""
+            ],
+            [
+              "2",
+              "[@waninkoko](https://github.com/waninkoko)/[**es-plugin**](https://github.com/waninkoko/es-plugin)",
+              "ES plugin for Custom IOS ",
+              "[:arrow_upper_right:](http://www.teknoconsolas.es)"
+            ],
+            [
+              "2",
+              "[@Kra1o5](https://github.com/Kra1o5)/[**android_kernel_huawe…**](https://github.com/Kra1o5/android_kernel_huawei_msm8x25-common)",
+              "Huawei MSM8x25 common kernel tree.",
+              ""
+            ],
+            [
+              "2",
+              "[@Jesus89](https://github.com/Jesus89)/[**picorv32-c-examples**](https://github.com/Jesus89/picorv32-c-examples)",
+              "C examples for picorv32 CPU",
+              ""
+            ],
+            [
+              "2",
+              "[@waninkoko](https://github.com/waninkoko)/[**hero-kernel-2.6.35**](https://github.com/waninkoko/hero-kernel-2.6.35)",
+              "Linux kernel for the HTC Wildfire",
+              ""
             ]
           ]
         }
