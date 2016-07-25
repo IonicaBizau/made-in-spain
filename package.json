@@ -64,7 +64,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[R](#r)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -7259,6 +7260,33 @@
               "2",
               "[@micho](https://github.com/micho)/[**json-pusher**](https://github.com/micho/json-pusher)",
               "Bridge from JS to Pusherapp, to broadcast JSON payloads to and from JS",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "9",
+              "[@algd](https://github.com/algd)/[**oauth2.0-scala**](https://github.com/algd/oauth2.0-scala)",
+              "OAuth 2.0 authorization provider implementation for Akka-http",
+              ""
+            ],
+            [
+              "6",
+              "[@JSantosP](https://github.com/JSantosP)/[**lolcode-dsl**](https://github.com/JSantosP/lolcode-dsl)",
+              "Activator template for Lolcode DSL. This activator aims to use Scala as a powerfull tool for embedding domain specific languages.",
               ""
             ]
           ]
