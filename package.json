@@ -67,7 +67,8 @@
           "[Ruby](#ruby)",
           "[Scala](#scala)",
           "[Shell](#shell)",
-          "[Swift](#swift)"
+          "[Swift](#swift)",
+          "[TeX](#tex)"
         ]
       },
       {
@@ -7409,6 +7410,27 @@
               "19",
               "[@robertofrontado](https://github.com/robertofrontado)/[**RxSocialConnect-iOS**](https://github.com/robertofrontado/RxSocialConnect-iOS)",
               "OAuth RxSwift extension for iOS.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "TeX #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@oxcar103](https://github.com/oxcar103)/[**Benchmark-103**](https://github.com/oxcar103/Benchmark-103)",
+              "Práctica sobre Benchmark de Ingeniería de Servidores(IS)",
               ""
             ]
           ]
