@@ -53,7 +53,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[Clojure](#clojure)"
+          "[Clojure](#clojure)",
+          "[CoffeeScript](#coffeescript)"
         ]
       },
       {
@@ -3381,6 +3382,33 @@
               "2",
               "[@jmgimeno](https://github.com/jmgimeno)/[**y-combinator**](https://github.com/jmgimeno/y-combinator)",
               "Code of the presentation \"Y-Not? Adventures in Functional Programming\" by Jim Weirich",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CoffeeScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "12",
+              "[@alvaro-cuesta](https://github.com/alvaro-cuesta)/[**nerdobot**](https://github.com/alvaro-cuesta/nerdobot)",
+              "IRC bot for #mv.nerd built with CoffeeScript + NodeJS",
+              ""
+            ],
+            [
+              "5",
+              "[@fmartingr](https://github.com/fmartingr)/[**pjaxify**](https://github.com/fmartingr/pjaxify)",
+              "Use pjax on your links using only data tags",
               ""
             ]
           ]
