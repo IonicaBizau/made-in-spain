@@ -58,7 +58,8 @@
           "[Go](#go)",
           "[Haskell](#haskell)",
           "[Lua](#lua)",
-          "[Matlab](#matlab)"
+          "[Matlab](#matlab)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -3858,6 +3859,735 @@
               "[@lucbpz](https://github.com/lucbpz)/[**DUET-MATLAB**](https://github.com/lucbpz/DUET-MATLAB)",
               "DUET Algorithm on MATLAB. Blind Source Separation.",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "755",
+              "[@AlvaroFranco](https://github.com/AlvaroFranco)/[**AFSoundManager**](https://github.com/AlvaroFranco/AFSoundManager)",
+              "iOS audio playing (both local and streaming) and recording made easy",
+              ""
+            ],
+            [
+              "666",
+              "[@AlvaroFranco](https://github.com/AlvaroFranco)/[**AFDropdownNotificati…**](https://github.com/AlvaroFranco/AFDropdownNotification)",
+              "Dropdown notification view for iOS",
+              ""
+            ],
+            [
+              "548",
+              "[@jberlana](https://github.com/jberlana)/[**JBParallaxCell**](https://github.com/jberlana/JBParallaxCell)",
+              "This project provides a parallax effect on a `UIImageView` on a `UITAbleViewCell` when the table scrolls.",
+              ""
+            ],
+            [
+              "504",
+              "[@jberlana](https://github.com/jberlana)/[**JBKenBurns**](https://github.com/jberlana/JBKenBurns)",
+              "Ken Burns effect for iOS. The feature enables a widely used technique of embedding still photographs in motion pictures, displayed with slow zooming and panning effects, and fading transitions between frames.",
+              ""
+            ],
+            [
+              "426",
+              "[@AlvaroFranco](https://github.com/AlvaroFranco)/[**AFBlurSegue**](https://github.com/AlvaroFranco/AFBlurSegue)",
+              "Custom UIStoryboardSegue implementation for blurring the background of a modal view controller",
+              ""
+            ],
+            [
+              "410",
+              "[@gonzalezreal](https://github.com/gonzalezreal)/[**Groot**](https://github.com/gonzalezreal/Groot)",
+              "From JSON to Core Data and back.",
+              ""
+            ],
+            [
+              "350",
+              "[@tapsandswipes](https://github.com/tapsandswipes)/[**InterAppCommunicatio…**](https://github.com/tapsandswipes/InterAppCommunication)",
+              "x-callback-url made easy",
+              ""
+            ],
+            [
+              "346",
+              "[@gonzalezreal](https://github.com/gonzalezreal)/[**Vertigo**](https://github.com/gonzalezreal/Vertigo)",
+              "Simple full screen image viewer with image zoom custom view controller transition",
+              ""
+            ],
+            [
+              "333",
+              "[@jberlana](https://github.com/jberlana)/[**JBCroppableView**](https://github.com/jberlana/JBCroppableView)",
+              "JBCroppableView is a subclass of UIView built with UIKit and CoreGraphics that adds n points on an UIImageView allowing to modify them by drag & drop to trim the extra space of an image.",
+              ""
+            ],
+            [
+              "323",
+              "[@ajerez](https://github.com/ajerez)/[**AJNotificationView**](https://github.com/ajerez/AJNotificationView)",
+              "Notice component for iOS",
+              ""
+            ],
+            [
+              "274",
+              "[@alexruperez](https://github.com/alexruperez)/[**UIUserNotificationSe…**](https://github.com/alexruperez/UIUserNotificationSettings-Extension)",
+              "Helper methods that will make you much easier to handle #Interactive #Notifications.",
+              ""
+            ],
+            [
+              "247",
+              "[@alexruperez](https://github.com/alexruperez)/[**ARAutocompleteTextVi…**](https://github.com/alexruperez/ARAutocompleteTextView)",
+              "ARAutocompleteTextView is a subclass of UITextView that automatically displays text suggestions in real-time.  This is perfect for automatically suggesting the domain as a user types an email address, #hashtag or @alexruperez.",
+              "[:arrow_upper_right:](http://www.alexruperez.com/repos/21-arautocompletetextview)"
+            ],
+            [
+              "242",
+              "[@tapsandswipes](https://github.com/tapsandswipes)/[**iphone-pie-menu**](https://github.com/tapsandswipes/iphone-pie-menu)",
+              "A pie menu implementation specially designed for iPhone and iPod touch",
+              "[:arrow_upper_right:](http://www.tapsandswipes.com/frameworks/touchpie/)"
+            ],
+            [
+              "208",
+              "[@AlvaroFranco](https://github.com/AlvaroFranco)/[**AFPopupView**](https://github.com/AlvaroFranco/AFPopupView)",
+              "A simple to use and functional popup view for iOS",
+              ""
+            ],
+            [
+              "193",
+              "[@AlvaroFranco](https://github.com/AlvaroFranco)/[**AFSQLManager**](https://github.com/AlvaroFranco/AFSQLManager)",
+              "SQL and SQLite manager for iOS",
+              ""
+            ],
+            [
+              "188",
+              "[@izqui](https://github.com/izqui)/[**SHSidebarController**](https://github.com/izqui/SHSidebarController)",
+              "Sidebar with folding effect for iOS",
+              ""
+            ],
+            [
+              "185",
+              "[@luisrecuenco](https://github.com/luisrecuenco)/[**LRScrollingSidebarCo…**](https://github.com/luisrecuenco/LRScrollingSidebarController)",
+              "A scrolling based sidebar controller",
+              ""
+            ],
+            [
+              "146",
+              "[@gblancogarcia](https://github.com/gblancogarcia)/[**GBInfiniteScrollView**](https://github.com/gblancogarcia/GBInfiniteScrollView)",
+              "GBInfiniteScrollView class provides an endlessly scroll view organized in pages. It is a subclass of UIScrollView, which allows users to scroll infinitely in the horizontal direction. GBInfiniteScrollView also provides automatic scrolling feature.",
+              ""
+            ],
+            [
+              "145",
+              "[@alexruperez](https://github.com/alexruperez)/[**UILabel-AutomaticWri…**](https://github.com/alexruperez/UILabel-AutomaticWriting)",
+              "UILabel category with automatic writing (type out) animation.",
+              ""
+            ],
+            [
+              "143",
+              "[@luisrecuenco](https://github.com/luisrecuenco)/[**LRImageManager**](https://github.com/luisrecuenco/LRImageManager)",
+              "Objective-C simple image manager with memory and disk cache support",
+              ""
+            ],
+            [
+              "133",
+              "[@tapsandswipes](https://github.com/tapsandswipes)/[**ACVRangeSelector**](https://github.com/tapsandswipes/ACVRangeSelector)",
+              "",
+              ""
+            ],
+            [
+              "103",
+              "[@jberlana](https://github.com/jberlana)/[**JBWhatsAppActivity**](https://github.com/jberlana/JBWhatsAppActivity)",
+              "JBWhatsAppActivity is a UIActivity subclass that provides an “Share in WhatsApp\" action to a UIActivityViewController.",
+              ""
+            ],
+            [
+              "101",
+              "[@endSly](https://github.com/endSly)/[**Log4Cocoa**](https://github.com/endSly/Log4Cocoa)",
+              "Log4Cocoa is a Log4j port for iOS and Mac OS X",
+              "[:arrow_upper_right:](http://endika.net/blog)"
+            ],
+            [
+              "90",
+              "[@AlvaroFranco](https://github.com/AlvaroFranco)/[**AFWeather**](https://github.com/AlvaroFranco/AFWeather)",
+              "Getting the weather forecast never has been so easy",
+              ""
+            ],
+            [
+              "88",
+              "[@endSly](https://github.com/endSly)/[**GSIndeterminateProgr…**](https://github.com/endSly/GSIndeterminateProgressBar)",
+              "iOS control that acts like indeterminate progress bar",
+              ""
+            ],
+            [
+              "88",
+              "[@gonzalezreal](https://github.com/gonzalezreal)/[**ReadingList**](https://github.com/gonzalezreal/ReadingList)",
+              "An example on using the Mantle Modeling Framework with Overcoat AFNetworking extension.",
+              ""
+            ],
+            [
+              "82",
+              "[@AlvaroFranco](https://github.com/AlvaroFranco)/[**AFFeedsReader**](https://github.com/AlvaroFranco/AFFeedsReader)",
+              "Simple feed reader and parser example project for iOS",
+              ""
+            ],
+            [
+              "80",
+              "[@alexruperez](https://github.com/alexruperez)/[**ARHomeScreenShortcut…**](https://github.com/alexruperez/ARHomeScreenShortcuts)",
+              "Installs home screen shortcuts to features of your app.",
+              ""
+            ],
+            [
+              "80",
+              "[@manucorporat](https://github.com/manucorporat)/[**AWTextureFilter**](https://github.com/manucorporat/AWTextureFilter)",
+              "Apply a gaussian blur filter to your textures in cocos2D",
+              "[:arrow_upper_right:](http://forzefield.com)"
+            ],
+            [
+              "71",
+              "[@DigitalLeaves](https://github.com/DigitalLeaves)/[**ParallaxBackground**](https://github.com/DigitalLeaves/ParallaxBackground)",
+              "Parallax Background in SpriteKit made simple.",
+              ""
+            ],
+            [
+              "66",
+              "[@jcesarmobile](https://github.com/jcesarmobile)/[**PhonegapOCRPlugin**](https://github.com/jcesarmobile/PhonegapOCRPlugin)",
+              "ocr plugin for phonegap using tesseract",
+              ""
+            ],
+            [
+              "65",
+              "[@luisrecuenco](https://github.com/luisrecuenco)/[**LRNotificationObserv…**](https://github.com/luisrecuenco/LRNotificationObserver)",
+              "A smarter, simpler and better way to use NSNotificationCenter with RAII",
+              ""
+            ],
+            [
+              "64",
+              "[@patoroco](https://github.com/patoroco)/[**UIViewController-Blo…**](https://github.com/patoroco/UIViewController-BlockSegue)",
+              "Category which allows to use a block to prepare segue instead of ugly -prepareForSegue method",
+              ""
+            ],
+            [
+              "59",
+              "[@manucorporat](https://github.com/manucorporat)/[**CCNotifications**](https://github.com/manucorporat/CCNotifications)",
+              "Notifications system in OpenGl for cocos2d",
+              "[:arrow_upper_right:](http://forzefield.com)"
+            ],
+            [
+              "57",
+              "[@alexruperez](https://github.com/alexruperez)/[**ARSafariActivity**](https://github.com/alexruperez/ARSafariActivity)",
+              "A UIActivity subclass that opens URLs in Safari",
+              "[:arrow_upper_right:](http://www.alexruperez.com/repos/23-arsafariactivity)"
+            ],
+            [
+              "56",
+              "[@djromero](https://github.com/djromero)/[**PopoverMenulet**](https://github.com/djromero/PopoverMenulet)",
+              "Mac test app with status bar menulet and an attached popover using NSPopOver class.",
+              ""
+            ],
+            [
+              "55",
+              "[@tapsandswipes](https://github.com/tapsandswipes)/[**iphone-accelerometer…**](https://github.com/tapsandswipes/iphone-accelerometer-actions)",
+              "Add support for device gestures to any application",
+              "[:arrow_upper_right:](http://www.tapsandswipes.com/frameworks/accelerometeractions/)"
+            ],
+            [
+              "51",
+              "[@j4n0](https://github.com/j4n0)/[**callout**](https://github.com/j4n0/callout)",
+              "MKAnnotation callout with a custom XIB",
+              ""
+            ],
+            [
+              "50",
+              "[@alexruperez](https://github.com/alexruperez)/[**NSDate-Extension**](https://github.com/alexruperez/NSDate-Extension)",
+              "Use NSDate-Extension to handle NSDate objects easily. Syntactic sugar. #DSL Style",
+              "[:arrow_upper_right:](alexruperez.com/repos/40-nsdate-extension)"
+            ],
+            [
+              "49",
+              "[@alexruperez](https://github.com/alexruperez)/[**FSNetworkingSearchCo…**](https://github.com/alexruperez/FSNetworkingSearchController)",
+              "Search controller with suggest completion using Foursquare API following Instagram design.",
+              ""
+            ],
+            [
+              "48",
+              "[@alexruperez](https://github.com/alexruperez)/[**ARDetector**](https://github.com/alexruperez/ARDetector)",
+              "CIDetector, AVCaptureVideoDataOutput and AVCaptureMetadataOutput categories. With face, rectangle, QR Code and TEXT CIDetector and blocks for AVCaptureOutput handling.",
+              ""
+            ],
+            [
+              "47",
+              "[@lupidan](https://github.com/lupidan)/[**UIKeyboardCoView**](https://github.com/lupidan/UIKeyboardCoView)",
+              "A UIView to appear along the iOS default keyboard",
+              ""
+            ],
+            [
+              "47",
+              "[@ajerez](https://github.com/ajerez)/[**AJProgressPanel**](https://github.com/ajerez/AJProgressPanel)",
+              "Animated progress panel",
+              ""
+            ],
+            [
+              "40",
+              "[@alexruperez](https://github.com/alexruperez)/[**ARWebServerActivity**](https://github.com/alexruperez/ARWebServerActivity)",
+              "A UIActivity subclass that share files via GCDWebServer with Twitter Bootstrap UI.",
+              "[:arrow_upper_right:](http://www.alexruperez.com/repos/34-arwebserveractivity)"
+            ],
+            [
+              "37",
+              "[@AlvaroFranco](https://github.com/AlvaroFranco)/[**AFWunderlist**](https://github.com/AlvaroFranco/AFWunderlist)",
+              "A Wunderlist API wrapper for Objective-C",
+              ""
+            ],
+            [
+              "34",
+              "[@luisrecuenco](https://github.com/luisrecuenco)/[**LRRepositoryPattern**](https://github.com/luisrecuenco/LRRepositoryPattern)",
+              "An iOS example app based on the repository pattern and Typhoon DI framework",
+              ""
+            ],
+            [
+              "34",
+              "[@alexruperez](https://github.com/alexruperez)/[**ARObjectCollectionVi…**](https://github.com/alexruperez/ARObjectCollectionViewController)",
+              "UIViewController that can present a JSON NSString, JSON NSData, JSON URL, XML NSData, XML URL, RSS NSData, RSS URL, NSDictionary, NSArray, NSSet, UIImage EXIF Metadata...",
+              "[:arrow_upper_right:](http://www.alexruperez.com/repos/25-arobjectcollectionviewcontroller)"
+            ],
+            [
+              "33",
+              "[@jberlana](https://github.com/jberlana)/[**JBCountdownLabel**](https://github.com/jberlana/JBCountdownLabel)",
+              "A simple UILabel subclass that displays a countdown.",
+              ""
+            ],
+            [
+              "31",
+              "[@alexruperez](https://github.com/alexruperez)/[**PFLinkedInUtils**](https://github.com/alexruperez/PFLinkedInUtils)",
+              "The #PFLinkedInUtils class provides utility functions for working with #LinkedIn in a #Parse application.",
+              ""
+            ],
+            [
+              "30",
+              "[@alexruperez](https://github.com/alexruperez)/[**ARSpeechActivity**](https://github.com/alexruperez/ARSpeechActivity)",
+              "ARSpeechActivity is a UIActivity subclass that uses AVSpeechUtterance to read aloud the shared NSString",
+              "[:arrow_upper_right:](http://www.alexruperez.com/repos/24-arspeechactivity)"
+            ],
+            [
+              "28",
+              "[@drodriguez](https://github.com/drodriguez)/[**globradio**](https://github.com/drodriguez/globradio)",
+              "iPhone MP3/Shoutcast radio client code",
+              ""
+            ],
+            [
+              "26",
+              "[@alexruperez](https://github.com/alexruperez)/[**ARAutocompleteSearch…**](https://github.com/alexruperez/ARAutocompleteSearchBar)",
+              "ARAutocompleteSearchBar is a subclass of UISearchBar that automatically displays text suggestions in real-time.",
+              ""
+            ],
+            [
+              "26",
+              "[@patoroco](https://github.com/patoroco)/[**UIView-JMFrame**](https://github.com/patoroco/UIView-JMFrame)",
+              "UIView category to help the handling of view frames.",
+              ""
+            ],
+            [
+              "26",
+              "[@j4n0](https://github.com/j4n0)/[**AR**](https://github.com/j4n0/AR)",
+              "trivial augmented reality (GPS based)",
+              ""
+            ],
+            [
+              "24",
+              "[@luisrecuenco](https://github.com/luisrecuenco)/[**LRVariadicPerformSel…**](https://github.com/luisrecuenco/LRVariadicPerformSelector)",
+              "Simple NSObject category to perform selectors with variadic arguments",
+              ""
+            ],
+            [
+              "23",
+              "[@luisrecuenco](https://github.com/luisrecuenco)/[**LRTVDBAPIClient**](https://github.com/luisrecuenco/LRTVDBAPIClient)",
+              "Objective-C wrapper for TheTVDB",
+              ""
+            ],
+            [
+              "22",
+              "[@DigitalLeaves](https://github.com/DigitalLeaves)/[**SocialLoginForiOS**](https://github.com/DigitalLeaves/SocialLoginForiOS)",
+              "A Social Login Framework for iOS with frontend and backend (in Slim) to integrate Social Login OAuth authentication in your own RESTful API.",
+              ""
+            ],
+            [
+              "22",
+              "[@alexruperez](https://github.com/alexruperez)/[**ARAlertController**](https://github.com/alexruperez/ARAlertController)",
+              "UIAlertController compatible iOS >= 5.0",
+              ""
+            ],
+            [
+              "21",
+              "[@drodriguez](https://github.com/drodriguez)/[**reversegeocoding**](https://github.com/drodriguez/reversegeocoding)",
+              "Offline reverse geocoding library and scripts for the iPhone.",
+              ""
+            ],
+            [
+              "19",
+              "[@gonzalezreal](https://github.com/gonzalezreal)/[**Gig**](https://github.com/gonzalezreal/Gig)",
+              "A great Twitter API client for Objective-C",
+              ""
+            ],
+            [
+              "18",
+              "[@endSly](https://github.com/endSly)/[**NullObjects**](https://github.com/endSly/NullObjects)",
+              "A library for building Null Objects in Objective-C. (Inspired in avdi's naught)",
+              ""
+            ],
+            [
+              "18",
+              "[@gonzalezreal](https://github.com/gonzalezreal)/[**TGRDataSource**](https://github.com/gonzalezreal/TGRDataSource)",
+              "Convenience UITableView and UICollectionView data sources",
+              ""
+            ],
+            [
+              "17",
+              "[@jcesarmobile](https://github.com/jcesarmobile)/[**IDFVPlugin**](https://github.com/jcesarmobile/IDFVPlugin)",
+              "Identifier For Vendor Plugin",
+              ""
+            ],
+            [
+              "16",
+              "[@patoroco](https://github.com/patoroco)/[**Modaly**](https://github.com/patoroco/Modaly)",
+              "Configure size of modal panels from storyboard with a custom segue",
+              ""
+            ],
+            [
+              "15",
+              "[@j4n0](https://github.com/j4n0)/[**jobsket**](https://github.com/j4n0/jobsket)",
+              "Jobsket Mobile is a Jobsket client for your iPhone.",
+              "[:arrow_upper_right:](http://www.jobsket.com/)"
+            ],
+            [
+              "15",
+              "[@gblancogarcia](https://github.com/gblancogarcia)/[**GBGradientView**](https://github.com/gblancogarcia/GBGradientView)",
+              "GBGradientView class provides an animated gradient view.",
+              ""
+            ],
+            [
+              "15",
+              "[@patoroco](https://github.com/patoroco)/[**Loctite**](https://github.com/patoroco/Loctite)",
+              "Connect different storyboards without write code, all from Interface Builder",
+              ""
+            ],
+            [
+              "12",
+              "[@jcesarmobile](https://github.com/jcesarmobile)/[**FilePicker-Phonegap-…**](https://github.com/jcesarmobile/FilePicker-Phonegap-iOS-Plugin)",
+              "This plugin makes possible to pick files from iCloud or other document providers",
+              ""
+            ],
+            [
+              "12",
+              "[@AlvaroFranco](https://github.com/AlvaroFranco)/[**AFScrollView**](https://github.com/AlvaroFranco/AFScrollView)",
+              "A lightweight UIScrollView block-driven subclass for easily create multiple pages with embeeded UIViews in Objective-C",
+              ""
+            ],
+            [
+              "12",
+              "[@gblancogarcia](https://github.com/gblancogarcia)/[**GBBlurView**](https://github.com/gblancogarcia/GBBlurView)",
+              "The GBBlurView class takes advantage of the new iOS 7 snapshot API to create a blur view. It is based on Apple sample code from “Implementing Engaging UI on iOS” WWDC 2013 session.",
+              ""
+            ],
+            [
+              "11",
+              "[@jcesarmobile](https://github.com/jcesarmobile)/[**GameCenterOnlinePlug…**](https://github.com/jcesarmobile/GameCenterOnlinePlugin)",
+              "Phonegap iOS plugin for online gaming using Game Center",
+              ""
+            ],
+            [
+              "11",
+              "[@AlvaroFranco](https://github.com/AlvaroFranco)/[**AFSpritz**](https://github.com/AlvaroFranco/AFSpritz)",
+              "A complete, lightweight Spritz SDK for iOS",
+              ""
+            ],
+            [
+              "11",
+              "[@gradha](https://github.com/gradha)/[**ELHASO-iOS-snippets**](https://github.com/gradha/ELHASO-iOS-snippets)",
+              "Electric Hands Software iOS code snippets",
+              "[:arrow_upper_right:](http://www.elhaso.es/)"
+            ],
+            [
+              "11",
+              "[@alexruperez](https://github.com/alexruperez)/[**iOS-Coding-Best-Prac…**](https://github.com/alexruperez/iOS-Coding-Best-Practices)",
+              "iOS Coding Best Practices",
+              "[:arrow_upper_right:](http://alexruperez.com/ios-coding-best-practices)"
+            ],
+            [
+              "10",
+              "[@jcesarmobile](https://github.com/jcesarmobile)/[**my-phonegap-plugins**](https://github.com/jcesarmobile/my-phonegap-plugins)",
+              "here I will upload all the phonegap plugins I develop",
+              ""
+            ],
+            [
+              "10",
+              "[@izqui](https://github.com/izqui)/[**ADNPebbleApp**](https://github.com/izqui/ADNPebbleApp)",
+              "A small app.net client for the Pebble",
+              ""
+            ],
+            [
+              "10",
+              "[@alexruperez](https://github.com/alexruperez)/[**ARFacebookShareKitAc…**](https://github.com/alexruperez/ARFacebookShareKitActivity)",
+              "Launch FBSDKShareKit from UIActivityViewController instead of the default Facebook share sheet.",
+              ""
+            ],
+            [
+              "10",
+              "[@luisrecuenco](https://github.com/luisrecuenco)/[**LROptional**](https://github.com/luisrecuenco/LROptional)",
+              "A simple NSObject category to simplify sending optional messages to objects",
+              ""
+            ],
+            [
+              "9",
+              "[@jcesarmobile](https://github.com/jcesarmobile)/[**faceDetect**](https://github.com/jcesarmobile/faceDetect)",
+              "phonegap plugin to detect faces on pictures",
+              ""
+            ],
+            [
+              "8",
+              "[@djromero](https://github.com/djromero)/[**iDiff**](https://github.com/djromero/iDiff)",
+              "Minimal image difference command line tool using \"Google Toolbox for Mac\". For Mac OSX.",
+              ""
+            ],
+            [
+              "8",
+              "[@alexruperez](https://github.com/alexruperez)/[**NSDictionary-Verifie…**](https://github.com/alexruperez/NSDictionary-Verified)",
+              "NSDictionary+Verified checks NSNull (aka kCFNull) objects and it changes to nil",
+              ""
+            ],
+            [
+              "8",
+              "[@drodriguez](https://github.com/drodriguez)/[**DRTPFObjectDynamicPr…**](https://github.com/drodriguez/DRTPFObjectDynamicProperties)",
+              "Easy Parse PFObject subclassing with automagic property implementations.",
+              ""
+            ],
+            [
+              "7",
+              "[@koke](https://github.com/koke)/[**inoise**](https://github.com/koke/inoise)",
+              "Audio generation experiments for iPhone and iPad",
+              "[:arrow_upper_right:](http://github.com/koke/inoise)"
+            ],
+            [
+              "7",
+              "[@manucorporat](https://github.com/manucorporat)/[**obme-ios**](https://github.com/manucorporat/obme-ios)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@izqui](https://github.com/izqui)/[**iPadSfera-iOS-Tutori…**](https://github.com/izqui/iPadSfera-iOS-Tutoriales)",
+              "http://www.ipadsfera.com/category/tutori…",
+              ""
+            ],
+            [
+              "7",
+              "[@izqui](https://github.com/izqui)/[**TheList-iOS**](https://github.com/izqui/TheList-iOS)",
+              "iOS Client for The List (http://thelist.io)",
+              ""
+            ],
+            [
+              "6",
+              "[@j4n0](https://github.com/j4n0)/[**trie-suggest**](https://github.com/j4n0/trie-suggest)",
+              "Ternary Search Trie + 125,000 english words.",
+              ""
+            ],
+            [
+              "6",
+              "[@j4n0](https://github.com/j4n0)/[**mapkit-clusters**](https://github.com/j4n0/mapkit-clusters)",
+              "Clustering for MKAnnotationView.",
+              ""
+            ],
+            [
+              "5",
+              "[@patoroco](https://github.com/patoroco)/[**Codemotion-2014-Mult…**](https://github.com/patoroco/Codemotion-2014-Multipeer-Connectivity)",
+              "Examples from my presentation at Codemotion 2014 about Multipeer Connectivity",
+              "[:arrow_upper_right:](https://speakerdeck.com/patoroco/synchronizing-without-internet-multipeer-connectivity-ios)"
+            ],
+            [
+              "5",
+              "[@gonzalezreal](https://github.com/gonzalezreal)/[**ComicSearch**](https://github.com/gonzalezreal/ComicSearch)",
+              "iOS Superpowers Training Source Code",
+              ""
+            ],
+            [
+              "5",
+              "[@j4n0](https://github.com/j4n0)/[**xcode4**](https://github.com/j4n0/xcode4)",
+              "My templates and color scheme for XCode 4.",
+              ""
+            ],
+            [
+              "5",
+              "[@j4n0](https://github.com/j4n0)/[**table-pull2refresh**](https://github.com/j4n0/table-pull2refresh)",
+              "Table with pull to refresh and folding.",
+              ""
+            ],
+            [
+              "5",
+              "[@j4n0](https://github.com/j4n0)/[**table-stretchedRotat…**](https://github.com/j4n0/table-stretchedRotation)",
+              "Stretched Rotation technique from WWDC 2012 Session 240 - Polishing Your Interface Rotations",
+              ""
+            ],
+            [
+              "4",
+              "[@patoroco](https://github.com/patoroco)/[**react-native-worksho…**](https://github.com/patoroco/react-native-workshop)",
+              "Demos to start to play with React Native",
+              ""
+            ],
+            [
+              "4",
+              "[@izqui](https://github.com/izqui)/[**MagicRemoteHelper**](https://github.com/izqui/MagicRemoteHelper)",
+              "Mac companion app for MagicRemote",
+              "[:arrow_upper_right:](magicremote.co)"
+            ],
+            [
+              "4",
+              "[@koke](https://github.com/koke)/[**NSURL-Guess**](https://github.com/koke/NSURL-Guess)",
+              "Autocorrect common typos in urls",
+              ""
+            ],
+            [
+              "4",
+              "[@alexruperez](https://github.com/alexruperez)/[**ARButtonBlock**](https://github.com/alexruperez/ARButtonBlock)",
+              "UIButton subclass with touchUpInside as block helper.",
+              "[:arrow_upper_right:](http://www.alexruperez.com/repos/29-arbuttonblock)"
+            ],
+            [
+              "4",
+              "[@AlvaroFranco](https://github.com/AlvaroFranco)/[**NSDoge**](https://github.com/AlvaroFranco/NSDoge)",
+              "NSDoge turns a simply and tasteless array into a doge-ready array",
+              ""
+            ],
+            [
+              "4",
+              "[@endSly](https://github.com/endSly)/[**NavigationTabBar**](https://github.com/endSly/NavigationTabBar)",
+              "UINavigationBar clone that shows scrolling tabs",
+              ""
+            ],
+            [
+              "4",
+              "[@izqui](https://github.com/izqui)/[**ArduinoiOSIntegratio…**](https://github.com/izqui/ArduinoiOSIntegration)",
+              "Controlling a LED intensity from an iOS app",
+              ""
+            ],
+            [
+              "4",
+              "[@josealobato](https://github.com/josealobato)/[**FoldingTabs**](https://github.com/josealobato/FoldingTabs)",
+              "Folding Tabs",
+              ""
+            ],
+            [
+              "3",
+              "[@drodriguez](https://github.com/drodriguez)/[**CodingDojoJun2011**](https://github.com/drodriguez/CodingDojoJun2011)",
+              "Coding Dojo done by the members of NSCoderNight Madrid on June 2011",
+              ""
+            ],
+            [
+              "3",
+              "[@tapsandswipes](https://github.com/tapsandswipes)/[**SmartPageControl**](https://github.com/tapsandswipes/SmartPageControl)",
+              "UIPageControl with smart functionality",
+              ""
+            ],
+            [
+              "3",
+              "[@fillito](https://github.com/fillito)/[**SystemSoundsDemo**](https://github.com/fillito/SystemSoundsDemo)",
+              "This is just a demo of how to use iOS AudioServices API to play a system sound",
+              ""
+            ],
+            [
+              "3",
+              "[@gblancogarcia](https://github.com/gblancogarcia)/[**GBMetadataFetcher**](https://github.com/gblancogarcia/GBMetadataFetcher)",
+              "GBMetadataFetcher library provides an API to retrieve TV Series metadata from Internet sources.",
+              ""
+            ],
+            [
+              "3",
+              "[@DigitalLeaves](https://github.com/DigitalLeaves)/[**SocialManagersForMac**](https://github.com/DigitalLeaves/SocialManagersForMac)",
+              "Social Managers for Mac is an attempt to build a collection of Social Managers for Mac including iOS7 like post dialogs. For those who want more control over the sharing funcionality of Mac than the one provided by the NSSharingServicePicker class, including iOS7 like dialogs for sharing for a more modern look in your apps.",
+              ""
+            ],
+            [
+              "3",
+              "[@DigitalLeaves](https://github.com/DigitalLeaves)/[**NearbyFlickrPhotos**](https://github.com/DigitalLeaves/NearbyFlickrPhotos)",
+              "iOS App that retrieve Flickr photos near the user, showing them on a map and allowing the user to navigate through the map",
+              ""
+            ],
+            [
+              "3",
+              "[@endSly](https://github.com/endSly)/[**TenzingCore**](https://github.com/endSly/TenzingCore)",
+              "Some utilities for iOS.",
+              ""
+            ],
+            [
+              "3",
+              "[@alexruperez](https://github.com/alexruperez)/[**ImageFromWebView**](https://github.com/alexruperez/ImageFromWebView)",
+              "Captures an image of a UIWebView, makes an UIImage, shows on an UIImageView and saves it into the gallery.",
+              "[:arrow_upper_right:](http://www.alexruperez.com/repos/22-imagefromwebview)"
+            ],
+            [
+              "2",
+              "[@gonzalezreal](https://github.com/gonzalezreal)/[**TwitterTimeline**](https://github.com/gonzalezreal/TwitterTimeline)",
+              "Source code for my article 'Implementando una timeline de Twitter con Core Data'",
+              ""
+            ],
+            [
+              "2",
+              "[@koke](https://github.com/koke)/[**wp3mock**](https://github.com/koke/wp3mock)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@lupidan](https://github.com/lupidan)/[**UILazyImageView**](https://github.com/lupidan/UILazyImageView)",
+              "A simple override of the normal UIImageView to load and image asynchronously with a progress bar",
+              ""
+            ],
+            [
+              "2",
+              "[@gradha](https://github.com/gradha)/[**EHReachability**](https://github.com/gradha/EHReachability)",
+              "Apple's reachability class",
+              ""
+            ],
+            [
+              "2",
+              "[@djromero](https://github.com/djromero)/[**recall**](https://github.com/djromero/recall)",
+              "Don't loose your line of thought while sleeping.",
+              ""
+            ],
+            [
+              "2",
+              "[@DigitalLeaves](https://github.com/DigitalLeaves)/[**NSURLEquality**](https://github.com/DigitalLeaves/NSURLEquality)",
+              "Useful categories to deal with NSURL comparison, equality and equivalency between files and web resources",
+              ""
+            ],
+            [
+              "2",
+              "[@carltongibson](https://github.com/carltongibson)/[**CouchDBX-Redux**](https://github.com/carltongibson/CouchDBX-Redux)",
+              "Work in progress repo for resurrection of CouchDBX — A Mac OS X wrapper for CouchDBX",
+              ""
+            ],
+            [
+              "2",
+              "[@j4n0](https://github.com/j4n0)/[**sketch**](https://github.com/j4n0/sketch)",
+              "Stupid sketch app for Quora answer http://www.quora.com/Objective-C-program…",
+              ""
+            ],
+            [
+              "2",
+              "[@alexruperez](https://github.com/alexruperez)/[**Fyber-Mobile-SDK**](https://github.com/alexruperez/Fyber-Mobile-SDK)",
+              "Fyber's Mobile SDK. Fyber (formerly SponsorPay) is a leading advertising technology company that empowers app developers to execute smart ad monetization strategies across all connected devices through a unified mobile supply side platform.",
+              "[:arrow_upper_right:](http://www.fyber.com)"
+            ],
+            [
+              "2",
+              "[@koke](https://github.com/koke)/[**appstatus-iphone**](https://github.com/koke/appstatus-iphone)",
+              "iPhone app status report controller",
+              "[:arrow_upper_right:](http://appstatus.jorgebernal.info/)"
             ]
           ]
         }
