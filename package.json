@@ -55,7 +55,8 @@
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Haskell](#haskell)"
         ]
       },
       {
@@ -3450,6 +3451,153 @@
               "[@ernestoalejo](https://github.com/ernestoalejo)/[**validations**](https://github.com/ernestoalejo/validations)",
               "Go validations",
               "[:arrow_upper_right:](https://github.com/ernestoalejo/validations)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Haskell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "17",
+              "[@samplecount](https://github.com/samplecount)/[**shake-language-c**](https://github.com/samplecount/shake-language-c)",
+              "Cross-compilation framework based on the Shake Haskell library.",
+              "[:arrow_upper_right:](https://github.com/samplecount/shake-language-c#shake-language-c)"
+            ],
+            [
+              "17",
+              "[@pepeiborra](https://github.com/pepeiborra)/[**control-monad-except…**](https://github.com/pepeiborra/control-monad-exception)",
+              "Explicitly Typed exceptions as a library",
+              "[:arrow_upper_right:](http://pepeiborra.github.com/control-monad-exception/)"
+            ],
+            [
+              "7",
+              "[@pepeiborra](https://github.com/pepeiborra)/[**monadloc**](https://github.com/pepeiborra/monadloc)",
+              "A class for monads which can keep a stack trace",
+              "[:arrow_upper_right:](http://github.com/pepeiborra/monadloc)"
+            ],
+            [
+              "6",
+              "[@zhensydow](https://github.com/zhensydow)/[**ptrader**](https://github.com/zhensydow/ptrader)",
+              "Personal Trader Toolbox",
+              ""
+            ],
+            [
+              "5",
+              "[@meteogrid](https://github.com/meteogrid)/[**sigym4-geometry-pers…**](https://github.com/meteogrid/sigym4-geometry-persistent)",
+              "Interoperatibility with postgis geometry columns for persistent-postgresql",
+              ""
+            ],
+            [
+              "5",
+              "[@samplecount](https://github.com/samplecount)/[**shake-cabal-build**](https://github.com/samplecount/shake-cabal-build)",
+              "Script for running Shake build systems using the Cabal infrastructure (deprecated)",
+              ""
+            ],
+            [
+              "5",
+              "[@pepeiborra](https://github.com/pepeiborra)/[**control-monad-free**](https://github.com/pepeiborra/control-monad-free)",
+              "Free monads and monad transformers",
+              ""
+            ],
+            [
+              "4",
+              "[@pepeiborra](https://github.com/pepeiborra)/[**term**](https://github.com/pepeiborra/term)",
+              "Term Rewriting Systems",
+              ""
+            ],
+            [
+              "4",
+              "[@pepeiborra](https://github.com/pepeiborra)/[**control-monad-failur…**](https://github.com/pepeiborra/control-monad-failure)",
+              "A class of monads which can fail with an error",
+              "[:arrow_upper_right:](http://github.com/pepeiborra/control-monad-failure)"
+            ],
+            [
+              "4",
+              "[@pepeiborra](https://github.com/pepeiborra)/[**prolog**](https://github.com/pepeiborra/prolog)",
+              "Prolog parser, pretty printer and evaluator in Haskell",
+              ""
+            ],
+            [
+              "3",
+              "[@zhensydow](https://github.com/zhensydow)/[**zdcpu16**](https://github.com/zhensydow/zdcpu16)",
+              "Zhen DCPU-16 emulator",
+              ""
+            ],
+            [
+              "3",
+              "[@pepeiborra](https://github.com/pepeiborra)/[**safe-failure**](https://github.com/pepeiborra/safe-failure)",
+              "Fork of Neil Mitchell's Safe library, modified to fail in a MonadFailure monad",
+              "[:arrow_upper_right:](http://www-users.cs.york.ac.uk/~ndm/safe/)"
+            ],
+            [
+              "3",
+              "[@pepeiborra](https://github.com/pepeiborra)/[**trs**](https://github.com/pepeiborra/trs)",
+              "A library for working with Term Rewriting Systems",
+              "[:arrow_upper_right:](http://safe-tools.dsic.upv.es/mediawiki/index.php/Jose_Iborra)"
+            ],
+            [
+              "3",
+              "[@pepeiborra](https://github.com/pepeiborra)/[**narradar**](https://github.com/pepeiborra/narradar)",
+              "An automatic prover of termination of logic programs and narrowing",
+              "[:arrow_upper_right:](http://safe-tools.dsic.upv.es/narradar)"
+            ],
+            [
+              "3",
+              "[@pepeiborra](https://github.com/pepeiborra)/[**prolog-tools**](https://github.com/pepeiborra/prolog-tools)",
+              "Some small tools, including a simple sharing analysis",
+              "[:arrow_upper_right:](http://safe-tools.dsic.upv.es/mediawiki/index.php/Jose_Iborra)"
+            ],
+            [
+              "3",
+              "[@pepeiborra](https://github.com/pepeiborra)/[**trsparser**](https://github.com/pepeiborra/trsparser)",
+              "A parser for the TPDB format for describing TRSs",
+              "[:arrow_upper_right:](http://safe-tools.dsic.upv.es/mediawiki/index.php/Jose_Iborra)"
+            ],
+            [
+              "2",
+              "[@pepeiborra](https://github.com/pepeiborra)/[**yices**](https://github.com/pepeiborra/yices)",
+              "fork of Ki Yung Ahn's yices Haskell package",
+              ""
+            ],
+            [
+              "2",
+              "[@pepeiborra](https://github.com/pepeiborra)/[**muterm-framework**](https://github.com/pepeiborra/muterm-framework)",
+              "A kernel for a Dependency Pairs termination tool",
+              ""
+            ],
+            [
+              "2",
+              "[@pepeiborra](https://github.com/pepeiborra)/[**monadloc-pp**](https://github.com/pepeiborra/monadloc-pp)",
+              "A preprocessor for the monadloc package",
+              ""
+            ],
+            [
+              "2",
+              "[@pepeiborra](https://github.com/pepeiborra)/[**alacarte**](https://github.com/pepeiborra/alacarte)",
+              "An implementation of Wouter Swierstra \"Data Types a la Carte\" open types, with some custom instances for the injection type class",
+              "[:arrow_upper_right:](http://safe-tools.dsic.upv.es/mediawiki/index.php/Jose_Iborra)"
+            ],
+            [
+              "2",
+              "[@Capelare](https://github.com/Capelare)/[**ejercicios-haskell**](https://github.com/Capelare/ejercicios-haskell)",
+              "Ejercicios en Haskell para la asignatura Programación Declarativa.",
+              ""
+            ],
+            [
+              "2",
+              "[@pepeiborra](https://github.com/pepeiborra)/[**fetchrules**](https://github.com/pepeiborra/fetchrules)",
+              "Utilities for automatic parsing and conversion of TRSs in several formats",
+              "[:arrow_upper_right:](http://safe-tools.dsic.upv.es/mediawiki/index.php/Jose_Iborra)"
             ]
           ]
         }
