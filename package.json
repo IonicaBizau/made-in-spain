@@ -61,7 +61,8 @@
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -5621,6 +5622,789 @@
               "2",
               "[@uno-de-piera](https://github.com/uno-de-piera)/[**hmvcci3**](https://github.com/uno-de-piera/hmvcci3)",
               "Hmvc project with codeigniter 3.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2442",
+              "[@maraujop](https://github.com/maraujop)/[**django-crispy-forms**](https://github.com/maraujop/django-crispy-forms)",
+              "The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.",
+              "[:arrow_upper_right:](http://django-crispy-forms.rtfd.org)"
+            ],
+            [
+              "622",
+              "[@niwinz](https://github.com/niwinz)/[**django-redis**](https://github.com/niwinz/django-redis)",
+              "Full featured redis cache backend for Django.",
+              "[:arrow_upper_right:](http://niwinz.github.io/django-redis/latest/)"
+            ],
+            [
+              "221",
+              "[@niwinz](https://github.com/niwinz)/[**django-jinja**](https://github.com/niwinz/django-jinja)",
+              "Simple and nonobstructive jinja2 integration with Django.",
+              "[:arrow_upper_right:](http://niwinz.github.io/django-jinja/latest/)"
+            ],
+            [
+              "208",
+              "[@niwinz](https://github.com/niwinz)/[**django-sse**](https://github.com/niwinz/django-sse)",
+              "HTML5 Server-Sent Events integration for Django ",
+              ""
+            ],
+            [
+              "196",
+              "[@maraujop](https://github.com/maraujop)/[**requests-oauth**](https://github.com/maraujop/requests-oauth)",
+              "Python's Requests OAuth (Open Authentication) plugin",
+              ""
+            ],
+            [
+              "188",
+              "[@MarioVilas](https://github.com/MarioVilas)/[**google**](https://github.com/MarioVilas/google)",
+              "Google search from Python.",
+              ""
+            ],
+            [
+              "160",
+              "[@jaimegildesagredo](https://github.com/jaimegildesagredo)/[**booby**](https://github.com/jaimegildesagredo/booby)",
+              "Data modeling and validation Python library",
+              "[:arrow_upper_right:](https://booby.readthedocs.org)"
+            ],
+            [
+              "147",
+              "[@maraujop](https://github.com/maraujop)/[**django-rules**](https://github.com/maraujop/django-rules)",
+              "Flexible and scalable Django authorization backend for unified per object permission management",
+              "[:arrow_upper_right:](django-rules)"
+            ],
+            [
+              "126",
+              "[@niwinz](https://github.com/niwinz)/[**djorm-pgarray**](https://github.com/niwinz/djorm-pgarray)",
+              "PostgreSQL array field for Django.",
+              "[:arrow_upper_right:](http://niwinz.github.io/djorm-pgarray/)"
+            ],
+            [
+              "108",
+              "[@jaimegildesagredo](https://github.com/jaimegildesagredo)/[**finch**](https://github.com/jaimegildesagredo/finch)",
+              "Asynchronous RESTful API consumer for Python",
+              ""
+            ],
+            [
+              "89",
+              "[@maraujop](https://github.com/maraujop)/[**requests-oauth2**](https://github.com/maraujop/requests-oauth2)",
+              "Python's Requests OAuth2 (Open Authentication) plugin",
+              ""
+            ],
+            [
+              "68",
+              "[@fjavieralba](https://github.com/fjavieralba)/[**basic_sentiment_anal…**](https://github.com/fjavieralba/basic_sentiment_analysis)",
+              "Code of the blog post: http://fjavieralba.com/basic-sentiment-a…",
+              ""
+            ],
+            [
+              "66",
+              "[@anler](https://github.com/anler)/[**progressbar**](https://github.com/anler/progressbar)",
+              "An utility module to represent progress in the form of a progress bar.",
+              ""
+            ],
+            [
+              "63",
+              "[@MarioVilas](https://github.com/MarioVilas)/[**winappdbg**](https://github.com/MarioVilas/winappdbg)",
+              "WinAppDbg Debugger",
+              ""
+            ],
+            [
+              "55",
+              "[@niwinz](https://github.com/niwinz)/[**djorm-ext-expression…**](https://github.com/niwinz/djorm-ext-expressions)",
+              "Expressions module of django orm extensions package (collection of third party plugins build in one unified package)",
+              "[:arrow_upper_right:](http://www.niwi.be/2012/10/07/sqlexpressions-and-functions-with-django/)"
+            ],
+            [
+              "52",
+              "[@niwinz](https://github.com/niwinz)/[**sse**](https://github.com/niwinz/sse)",
+              "Server Sent Events protocol implemetation on python2/3",
+              ""
+            ],
+            [
+              "51",
+              "[@jaimegildesagredo](https://github.com/jaimegildesagredo)/[**expects**](https://github.com/jaimegildesagredo/expects)",
+              "Expects is an expressive and extensible TDD/BDD assertion library for Python.",
+              "[:arrow_upper_right:](https://expects.readthedocs.io)"
+            ],
+            [
+              "46",
+              "[@niwinz](https://github.com/niwinz)/[**djangorestframework-…**](https://github.com/niwinz/djangorestframework-composed-permissions)",
+              "A simple way to define complex permissions for django-rest-framework",
+              ""
+            ],
+            [
+              "46",
+              "[@superalex](https://github.com/superalex)/[**py-wetransfer**](https://github.com/superalex/py-wetransfer)",
+              "Python script for downloading wetransfer files (https://www.wetransfer.com/) in command line mode",
+              ""
+            ],
+            [
+              "33",
+              "[@leplatrem](https://github.com/leplatrem)/[**django-leaflet-geojs…**](https://github.com/leplatrem/django-leaflet-geojson)",
+              "",
+              ""
+            ],
+            [
+              "28",
+              "[@niwinz](https://github.com/niwinz)/[**djorm-ext-core**](https://github.com/niwinz/djorm-ext-core)",
+              "Core module of django orm extensions package. (Collection of third party plugins build in one unified package)",
+              ""
+            ],
+            [
+              "27",
+              "[@niwinz](https://github.com/niwinz)/[**cobrascript**](https://github.com/niwinz/cobrascript)",
+              "Python syntax translator to Javascript.",
+              ""
+            ],
+            [
+              "27",
+              "[@joedicastro](https://github.com/joedicastro)/[**lftp-mirror**](https://github.com/joedicastro/lftp-mirror)",
+              "It's a python script that allow us to synchronize a directory on a remote server with a local directory via FTP in both directions.",
+              ""
+            ],
+            [
+              "24",
+              "[@jespino](https://github.com/jespino)/[**django-lot**](https://github.com/jespino/django-lot)",
+              "Django Login over Token",
+              ""
+            ],
+            [
+              "24",
+              "[@niwinz](https://github.com/niwinz)/[**django-greenqueue**](https://github.com/niwinz/django-greenqueue)",
+              "Asynchronous task task/job queue based on distributed message passing.",
+              ""
+            ],
+            [
+              "22",
+              "[@joedicastro](https://github.com/joedicastro)/[**python-recipes**](https://github.com/joedicastro/python-recipes)",
+              "A set of various classes, modules, templates... like a bunch of recipes or ingredients to cook bigger python apps. ",
+              ""
+            ],
+            [
+              "22",
+              "[@laughedelic](https://github.com/laughedelic)/[**LoadFileToRepl**](https://github.com/laughedelic/LoadFileToRepl)",
+              "Provides a convenient command to load current source file into SublimeREPL",
+              "[:arrow_upper_right:](https://packagecontrol.io/packages/Load%20file%20to%20REPL)"
+            ],
+            [
+              "19",
+              "[@niwinz](https://github.com/niwinz)/[**tornado-webtools**](https://github.com/niwinz/tornado-webtools)",
+              "Microframework for python 3 based on tornado, jinja2 and sqlalchemy.",
+              ""
+            ],
+            [
+              "19",
+              "[@joedicastro](https://github.com/joedicastro)/[**img4web**](https://github.com/joedicastro/img4web)",
+              "This Script optimizes .jpg and .png images for the web.  This follows the \"Yahoo Best Practices for Speeding Up Your Web Site\" about optimize images.  http://developer.yahoo.com/performance/r…",
+              ""
+            ],
+            [
+              "18",
+              "[@fjavieralba](https://github.com/fjavieralba)/[**scraper**](https://github.com/fjavieralba/scraper)",
+              "Configurable Python Web Scraper",
+              ""
+            ],
+            [
+              "15",
+              "[@niwinz](https://github.com/niwinz)/[**django-sites**](https://github.com/niwinz/django-sites)",
+              "Alternative implementation of django \"sites\" framework based on settings instead of models.",
+              "[:arrow_upper_right:](http://niwinz.github.io/django-sites/latest/)"
+            ],
+            [
+              "15",
+              "[@joedicastro](https://github.com/joedicastro)/[**ted-talks-download**](https://github.com/joedicastro/ted-talks-download)",
+              "A pair of scripts to download videos and subtitles for the TED Talks (http://www.ted.com)",
+              ""
+            ],
+            [
+              "15",
+              "[@niwinz](https://github.com/niwinz)/[**djorm-ext-pgjson**](https://github.com/niwinz/djorm-ext-pgjson)",
+              "PostgreSQL native json field support for Django.",
+              ""
+            ],
+            [
+              "14",
+              "[@jespino](https://github.com/jespino)/[**restsh**](https://github.com/jespino/restsh)",
+              "A client for test and access to REST services",
+              ""
+            ],
+            [
+              "13",
+              "[@MarioVilas](https://github.com/MarioVilas)/[**vuln_tools**](https://github.com/MarioVilas/vuln_tools)",
+              "Tools to work with vulnerability standards.",
+              ""
+            ],
+            [
+              "12",
+              "[@leplatrem](https://github.com/leplatrem)/[**django-sizefield**](https://github.com/leplatrem/django-sizefield)",
+              "A model field to store a file size, whose edition and display shows units (KB, MB, ...)",
+              ""
+            ],
+            [
+              "12",
+              "[@anler](https://github.com/anler)/[**django-dev-commands**](https://github.com/anler/django-dev-commands)",
+              "Useful commands for developing Django applications.",
+              "[:arrow_upper_right:](http://ikame.github.io/django-dev-commands)"
+            ],
+            [
+              "12",
+              "[@anler](https://github.com/anler)/[**working-with-unix-pr…**](https://github.com/anler/working-with-unix-processes-book-examples)",
+              "Examples and source code from the book Working with Unix processes",
+              "[:arrow_upper_right:](http://pragprog.com/book/jsunix/working-with-unix-processes)"
+            ],
+            [
+              "12",
+              "[@niwinz](https://github.com/niwinz)/[**djorm-ext-pgbytea**](https://github.com/niwinz/djorm-ext-pgbytea)",
+              "Django extension for postgresql bytea field and other usefull toos for dealing with binary data.",
+              ""
+            ],
+            [
+              "12",
+              "[@Obijuan](https://github.com/Obijuan)/[**simplez-fpga**](https://github.com/Obijuan/simplez-fpga)",
+              "Verilog implementation of the educational \"Simplez\" processor",
+              ""
+            ],
+            [
+              "12",
+              "[@javierhonduco](https://github.com/javierhonduco)/[**pghero**](https://github.com/javierhonduco/pghero)",
+              "pghero python port",
+              ""
+            ],
+            [
+              "12",
+              "[@anler](https://github.com/anler)/[**django-test-client-e…**](https://github.com/anler/django-test-client-extensions)",
+              "Extensions to Django's built-in test client.",
+              ""
+            ],
+            [
+              "11",
+              "[@niwinz](https://github.com/niwinz)/[**pgbouncer-ng**](https://github.com/niwinz/pgbouncer-ng)",
+              "Simple connection pool for postgresql, written in python.",
+              ""
+            ],
+            [
+              "11",
+              "[@joedicastro](https://github.com/joedicastro)/[**code_eval**](https://github.com/joedicastro/code_eval)",
+              "This is my attempt to solve some problems of this project, http://codeeval.com, using the python language. The target is to solve as many as I can, and keep the time consumed by each script below 10 seconds.",
+              ""
+            ],
+            [
+              "11",
+              "[@leplatrem](https://github.com/leplatrem)/[**florun**](https://github.com/leplatrem/florun)",
+              "An editor for flow based programming ! ",
+              ""
+            ],
+            [
+              "10",
+              "[@vmayoral](https://github.com/vmayoral)/[**basic_reinforcement_…**](https://github.com/vmayoral/basic_reinforcement_learning)",
+              "An introduction series to Reinforcement Learning (RL) with comprehensive step-by-step tutorials.",
+              ""
+            ],
+            [
+              "10",
+              "[@anler](https://github.com/anler)/[**django-blackhole**](https://github.com/anler/django-blackhole)",
+              "Django application that let's you work in your templates apart from having or not the corresponding views created",
+              ""
+            ],
+            [
+              "10",
+              "[@jespino](https://github.com/jespino)/[**anillo**](https://github.com/jespino/anillo)",
+              "Ring/compojure like nanoframework build on top of werkzoug",
+              ""
+            ],
+            [
+              "10",
+              "[@leplatrem](https://github.com/leplatrem)/[**folder-theater**](https://github.com/leplatrem/folder-theater)",
+              "Generates a fancy Web page from a folder with movies files. ",
+              ""
+            ],
+            [
+              "9",
+              "[@Obijuan](https://github.com/Obijuan)/[**friki**](https://github.com/Obijuan/friki)",
+              "Freecad, RobotIcs and KInematics Library",
+              ""
+            ],
+            [
+              "9",
+              "[@jespino](https://github.com/jespino)/[**django-tint**](https://github.com/jespino/django-tint)",
+              "Django Transparent Image Neat Transformer (Based on mirumee/django-images)",
+              ""
+            ],
+            [
+              "9",
+              "[@Obijuan](https://github.com/Obijuan)/[**pyooml**](https://github.com/Obijuan/pyooml)",
+              "Python Object Oriented Mechanics library (OOML). Use python as a mechanical description language",
+              ""
+            ],
+            [
+              "9",
+              "[@laughedelic](https://github.com/laughedelic)/[**sublime-idris**](https://github.com/laughedelic/sublime-idris)",
+              "Sublime Text plugin for Idris language. MOVED TO @idris-hackers",
+              "[:arrow_upper_right:](https://github.com/idris-hackers/idris-sublime)"
+            ],
+            [
+              "9",
+              "[@yagop](https://github.com/yagop)/[**AGClient**](https://github.com/yagop/AGClient)",
+              "UC3M Moodle (AulaGlobal) from console",
+              ""
+            ],
+            [
+              "8",
+              "[@jespino](https://github.com/jespino)/[**django-sr**](https://github.com/jespino/django-sr)",
+              "Django settings resolver",
+              ""
+            ],
+            [
+              "8",
+              "[@maraujop](https://github.com/maraujop)/[**TracMercurialChanges…**](https://github.com/maraujop/TracMercurialChangesetPlugin)",
+              "Trac plugin that inserts Mercurial repository information into Trac's database, thus integrating Mercurial and Trac to a fuller extend than the default Trac support. It enables ticket search, ticket changelogs, etc. Compatible with TracMercurial plugin",
+              "[:arrow_upper_right:](TracMercurialChangesetPlugin)"
+            ],
+            [
+              "8",
+              "[@niwinz](https://github.com/niwinz)/[**pyssh-ctypes**](https://github.com/niwinz/pyssh-ctypes)",
+              "Is a python, object oriented wrapper for libssh build with ctypes.",
+              "[:arrow_upper_right:](https://py-libssh-ctypes.readthedocs.org/en/latest/)"
+            ],
+            [
+              "8",
+              "[@niwinz](https://github.com/niwinz)/[**niwi-web**](https://github.com/niwinz/niwi-web)",
+              "Source code of www.niwi.be",
+              "[:arrow_upper_right:](http://www.niwi.be)"
+            ],
+            [
+              "8",
+              "[@jespino](https://github.com/jespino)/[**cpython-very-bad-thi…**](https://github.com/jespino/cpython-very-bad-things)",
+              "A set of python script to do very bad things to the cpython interpreter.",
+              ""
+            ],
+            [
+              "7",
+              "[@jespino](https://github.com/jespino)/[**django-rest-framewor…**](https://github.com/jespino/django-rest-framework-apidoc)",
+              "API documentation system for django-rest-framework",
+              ""
+            ],
+            [
+              "7",
+              "[@javierhonduco](https://github.com/javierhonduco)/[**tvvenn**](https://github.com/javierhonduco/tvvenn)",
+              "Set operations – on twitter.",
+              ""
+            ],
+            [
+              "7",
+              "[@niwinz](https://github.com/niwinz)/[**django-ws**](https://github.com/niwinz/django-ws)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@niwinz](https://github.com/niwinz)/[**djorm-ext-pguuid**](https://github.com/niwinz/djorm-ext-pguuid)",
+              "PostgreSQL native uuid field support for Django.",
+              ""
+            ],
+            [
+              "7",
+              "[@niwinz](https://github.com/niwinz)/[**django-rawinclude**](https://github.com/niwinz/django-rawinclude)",
+              "Small module for django that gives the ease of loading templates in raw. This really is useful for embedding javascript templates with sintaxys similar to django.",
+              ""
+            ],
+            [
+              "7",
+              "[@MarioVilas](https://github.com/MarioVilas)/[**cve_wordpress**](https://github.com/MarioVilas/cve_wordpress)",
+              "A tool to enumerate CVEs to check based on the WordPress version.",
+              ""
+            ],
+            [
+              "7",
+              "[@jaimegildesagredo](https://github.com/jaimegildesagredo)/[**cormoran**](https://github.com/jaimegildesagredo/cormoran)",
+              "A fast and lightweight persistence framework",
+              ""
+            ],
+            [
+              "7",
+              "[@anler](https://github.com/anler)/[**Rockefeller**](https://github.com/anler/Rockefeller)",
+              "Library for dealing with money and currency conversion in Python",
+              "[:arrow_upper_right:](http://anler.github.com/Rockefeller/)"
+            ],
+            [
+              "6",
+              "[@fjavieralba](https://github.com/fjavieralba)/[**ruleparser**](https://github.com/fjavieralba/ruleparser)",
+              "Python Rule Parser. Allows to apply rules to tagged text. Results are NLTK Trees",
+              ""
+            ],
+            [
+              "6",
+              "[@jaimegildesagredo](https://github.com/jaimegildesagredo)/[**doublex-expects**](https://github.com/jaimegildesagredo/doublex-expects)",
+              "Doublex-expects is an Expects matchers library for Doublex test doubles assertions.",
+              "[:arrow_upper_right:](https://pypi.python.org/pypi/doublex-expects)"
+            ],
+            [
+              "6",
+              "[@jespino](https://github.com/jespino)/[**vim-rebtags**](https://github.com/jespino/vim-rebtags)",
+              "Vim plugin for rebuild tags files with ctags",
+              ""
+            ],
+            [
+              "5",
+              "[@jaimegildesagredo](https://github.com/jaimegildesagredo)/[**server-expects**](https://github.com/jaimegildesagredo/server-expects)",
+              "Serverspec-like Expects matchers library",
+              ""
+            ],
+            [
+              "5",
+              "[@mayhem](https://github.com/mayhem)/[**coverart_redirect**](https://github.com/mayhem/coverart_redirect)",
+              "URL redirect service for the coverartarchive.org",
+              "[:arrow_upper_right:](coverartarchive.org)"
+            ],
+            [
+              "5",
+              "[@piranna](https://github.com/piranna)/[**AntiORM**](https://github.com/piranna/AntiORM)",
+              "SQL-to-function mapping",
+              ""
+            ],
+            [
+              "5",
+              "[@niwinz](https://github.com/niwinz)/[**djorm-ext-pggeom**](https://github.com/niwinz/djorm-ext-pggeom)",
+              "PostgreSQL native geometric types and fields  extension for Django.",
+              ""
+            ],
+            [
+              "5",
+              "[@jespino](https://github.com/jespino)/[**cdbookmarks**](https://github.com/jespino/cdbookmarks)",
+              "Bookmars for Linux Shell",
+              ""
+            ],
+            [
+              "5",
+              "[@anler](https://github.com/anler)/[**App-Engine-runserver…**](https://github.com/anler/App-Engine-runserver.py)",
+              "Safe defaults for working with google's app engine dev_appserver.py script.",
+              ""
+            ],
+            [
+              "5",
+              "[@maraujop](https://github.com/maraujop)/[**django-MultiWidgetLa…**](https://github.com/maraujop/django-MultiWidgetLayout)",
+              "An enhanced class based on MultiWidget that lets you easily control the rendering using a layout",
+              ""
+            ],
+            [
+              "4",
+              "[@MarioVilas](https://github.com/MarioVilas)/[**url_shortener_utils**](https://github.com/MarioVilas/url_shortener_utils)",
+              "Having fun with URL shorteners",
+              ""
+            ],
+            [
+              "4",
+              "[@MarioVilas](https://github.com/MarioVilas)/[**rtsp-fuzzer**](https://github.com/MarioVilas/rtsp-fuzzer)",
+              "An RTSP proxy I wrote in 2007, to be used in fuzzers.",
+              ""
+            ],
+            [
+              "4",
+              "[@vmayoral](https://github.com/vmayoral)/[**bb_altimeter**](https://github.com/vmayoral/bb_altimeter)",
+              "ROS package for the BeagleBone that publishes the altimeter MPL3115A2 values to a Topic",
+              ""
+            ],
+            [
+              "4",
+              "[@leplatrem](https://github.com/leplatrem)/[**nose-mocha-reporter**](https://github.com/leplatrem/nose-mocha-reporter)",
+              "Nose plugin to mimic default Mocha tests reporter",
+              ""
+            ],
+            [
+              "4",
+              "[@borillo](https://github.com/borillo)/[**unittest-env-skel**](https://github.com/borillo/unittest-env-skel)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@niwinz](https://github.com/niwinz)/[**needlestack**](https://github.com/niwinz/needlestack)",
+              "Experiment for make more low-level and python3 compatible modular search for Django (like haystack but with other philosophy)",
+              ""
+            ],
+            [
+              "4",
+              "[@anler](https://github.com/anler)/[**automaton**](https://github.com/anler/automaton)",
+              "Generator  of state machines that accept the same language of a given regular expression using derivatives method.",
+              ""
+            ],
+            [
+              "4",
+              "[@MarioVilas](https://github.com/MarioVilas)/[**network_tools**](https://github.com/MarioVilas/network_tools)",
+              "Collection of miscellaneous utilities and libraries written in Python, mostly centered around scripting Web services from Python.",
+              ""
+            ],
+            [
+              "4",
+              "[@niwinz](https://github.com/niwinz)/[**django-dbconf**](https://github.com/niwinz/django-dbconf)",
+              "Simple helper for store some configuration to database and efficient access to this settings.",
+              ""
+            ],
+            [
+              "3",
+              "[@fjavieralba](https://github.com/fjavieralba)/[**rst_gist**](https://github.com/fjavieralba/rst_gist)",
+              "rst directive to embed github gist snippets",
+              ""
+            ],
+            [
+              "3",
+              "[@anler](https://github.com/anler)/[**HTML-Ipsum-Alfred-pl…**](https://github.com/anler/HTML-Ipsum-Alfred-plugin)",
+              "Dummy text generator plugin for Alfred app.",
+              ""
+            ],
+            [
+              "3",
+              "[@joedicastro](https://github.com/joedicastro)/[**i8kfans**](https://github.com/joedicastro/i8kfans)",
+              "Adjust the fans speed in various Dell  laptops (with a nvidia graphics card) to maintain the right temperatures. This affect both fans, the cpu and the gpu fan.",
+              ""
+            ],
+            [
+              "3",
+              "[@MarioVilas](https://github.com/MarioVilas)/[**forensic_tools**](https://github.com/MarioVilas/forensic_tools)",
+              "\"Forensic\" in this case is just a fancy word for \"file parsers\". Sounds a hell of a lot better, you know.",
+              ""
+            ],
+            [
+              "3",
+              "[@MarioVilas](https://github.com/MarioVilas)/[**vtrace-mirror**](https://github.com/MarioVilas/vtrace-mirror)",
+              "Automatically exported from code.google.com/p/vtrace-mirror",
+              ""
+            ],
+            [
+              "3",
+              "[@MarioVilas](https://github.com/MarioVilas)/[**shellgen**](https://github.com/MarioVilas/shellgen)",
+              "ShellGen - Backed up from http://inguma.eu/project/shellgen",
+              ""
+            ],
+            [
+              "3",
+              "[@mvader](https://github.com/mvader)/[**PyFiMPP**](https://github.com/mvader/PyFiMPP)",
+              "Transpiler to python for the pony programming language FiM++. More info: http://www.equestriadaily.com/2012/10/ed…",
+              ""
+            ],
+            [
+              "3",
+              "[@jaimegildesagredo](https://github.com/jaimegildesagredo)/[**cormoran-rest**](https://github.com/jaimegildesagredo/cormoran-rest)",
+              "Example project to show how to build a REST API with Tornado and Cormoran",
+              ""
+            ],
+            [
+              "3",
+              "[@jaimegildesagredo](https://github.com/jaimegildesagredo)/[**tornado-expects**](https://github.com/jaimegildesagredo/tornado-expects)",
+              "Expects matchers for Tornado request and response objects",
+              ""
+            ],
+            [
+              "3",
+              "[@leplatrem](https://github.com/leplatrem)/[**kinto-telegram-wall**](https://github.com/leplatrem/kinto-telegram-wall)",
+              "Publish on a wall from a Telegram bot",
+              "[:arrow_upper_right:](http://leplatrem.github.io/kinto-telegram-wall/)"
+            ],
+            [
+              "3",
+              "[@Obijuan](https://github.com/Obijuan)/[**tutorial-openscad**](https://github.com/Obijuan/tutorial-openscad)",
+              "Ejemplos usados en los tutoriales de openscad",
+              ""
+            ],
+            [
+              "3",
+              "[@javierhonduco](https://github.com/javierhonduco)/[**emoji-ml**](https://github.com/javierhonduco/emoji-ml)",
+              "emoji + machine learning = awesomeness",
+              ""
+            ],
+            [
+              "3",
+              "[@niwinz](https://github.com/niwinz)/[**django-jsgettext**](https://github.com/niwinz/django-jsgettext)",
+              "Improvement for a javascript gettext support in Django",
+              ""
+            ],
+            [
+              "3",
+              "[@javierhonduco](https://github.com/javierhonduco)/[**sptfy-tools**](https://github.com/javierhonduco/sptfy-tools)",
+              "spotify hacks",
+              ""
+            ],
+            [
+              "3",
+              "[@niwinz](https://github.com/niwinz)/[**django-logstream**](https://github.com/niwinz/django-logstream)",
+              "Multiprocess log collector for python/django-logging",
+              "[:arrow_upper_right:](http://www.niwi.be/post/project-django-logstream/)"
+            ],
+            [
+              "3",
+              "[@jespino](https://github.com/jespino)/[**python-master-key**](https://github.com/jespino/python-master-key)",
+              "The python master key to open classes",
+              ""
+            ],
+            [
+              "3",
+              "[@anler](https://github.com/anler)/[**simple-wsgi-applicat…**](https://github.com/anler/simple-wsgi-application-layout)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@niwinz](https://github.com/niwinz)/[**djcities**](https://github.com/niwinz/djcities)",
+              "A full database of contry/state/city/timezone for django.",
+              ""
+            ],
+            [
+              "2",
+              "[@piranna](https://github.com/piranna)/[**PirannaFS**](https://github.com/piranna/PirannaFS)",
+              "Modular and extensible general purpose filesystem using a SQLite database to manage metadata.",
+              "[:arrow_upper_right:](pirannafs.blogspot.com)"
+            ],
+            [
+              "2",
+              "[@anler](https://github.com/anler)/[**mdblog**](https://github.com/anler/mdblog)",
+              "Super simple static-blog generator",
+              ""
+            ],
+            [
+              "2",
+              "[@abdonrd](https://github.com/abdonrd)/[**appengine-flask-temp…**](https://github.com/abdonrd/appengine-flask-template)",
+              "A template for use Flask (a Python microframework) on Google App Engine.",
+              ""
+            ],
+            [
+              "2",
+              "[@anler](https://github.com/anler)/[**Django-mysql-utils**](https://github.com/anler/Django-mysql-utils)",
+              "Some tweaks to improve speed in MySQL databases.",
+              ""
+            ],
+            [
+              "2",
+              "[@joedicastro](https://github.com/joedicastro)/[**Project-Euler**](https://github.com/joedicastro/Project-Euler)",
+              "This is my attempt to solve some problems of this project, http://projecteuler.net, using the python language. The target is to solve as many as I can, and keep the time consumed by each script below 30 second at a minimum and preferably below 10s.",
+              ""
+            ],
+            [
+              "2",
+              "[@vmayoral](https://github.com/vmayoral)/[**bb_sharp_ir**](https://github.com/vmayoral/bb_sharp_ir)",
+              "BeagleBone Shark IR sensors ROS Package",
+              ""
+            ],
+            [
+              "2",
+              "[@anler](https://github.com/anler)/[**Fancy-Unittest**](https://github.com/anler/Fancy-Unittest)",
+              "Extension of python's built-in unittest module to colorize test output",
+              ""
+            ],
+            [
+              "2",
+              "[@leplatrem](https://github.com/leplatrem)/[**django-geojson-field**](https://github.com/leplatrem/django-geojson-field)",
+              "Django GeoJSON fields with Leaflet",
+              ""
+            ],
+            [
+              "2",
+              "[@Obijuan](https://github.com/Obijuan)/[**RoboDraw**](https://github.com/Obijuan/RoboDraw)",
+              "Printable small scara robot for drawing",
+              ""
+            ],
+            [
+              "2",
+              "[@jespino](https://github.com/jespino)/[**inkscape-export-laye…**](https://github.com/jespino/inkscape-export-layers)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jespino](https://github.com/jespino)/[**photoplexor**](https://github.com/jespino/photoplexor)",
+              "Photo procesing distributed system",
+              ""
+            ],
+            [
+              "2",
+              "[@mvader](https://github.com/mvader)/[**follow_list**](https://github.com/mvader/follow_list)",
+              "Follow all users in a twitter list.",
+              ""
+            ],
+            [
+              "2",
+              "[@jespino](https://github.com/jespino)/[**pydstorages**](https://github.com/jespino/pydstorages)",
+              "Python generic filesystem storage abstraction (Extracted from django)",
+              ""
+            ],
+            [
+              "2",
+              "[@mvader](https://github.com/mvader)/[**tumblrpic**](https://github.com/mvader/tumblrpic)",
+              "Retrieve all the pictures of a tumblr directly from your command line!",
+              ""
+            ],
+            [
+              "2",
+              "[@jespino](https://github.com/jespino)/[**jonathan**](https://github.com/jespino/jonathan)",
+              "Simple video server for local networks using web browser as clients",
+              ""
+            ],
+            [
+              "2",
+              "[@jespino](https://github.com/jespino)/[**camtones**](https://github.com/jespino/camtones)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jespino](https://github.com/jespino)/[**GalaxduS**](https://github.com/jespino/GalaxduS)",
+              "Space Conquest Strategy Game",
+              ""
+            ],
+            [
+              "2",
+              "[@joedicastro](https://github.com/joedicastro)/[**my-rawdog-planet**](https://github.com/joedicastro/my-rawdog-planet)",
+              "It is a customized rawdog to create a bilingual planet (Spanish & English) with news feeds in their respective languages. Both languages are updated at the same time. ",
+              ""
+            ],
+            [
+              "2",
+              "[@niwinz](https://github.com/niwinz)/[**py-s3put**](https://github.com/niwinz/py-s3put)",
+              "Scp like, amazon s3 backup tool.",
+              "[:arrow_upper_right:](http://readthedocs.org/docs/py-s3put/)"
+            ],
+            [
+              "2",
+              "[@jespino](https://github.com/jespino)/[**sampledata**](https://github.com/jespino/sampledata)",
+              "Sample Data generator for Python",
+              "[:arrow_upper_right:](https://sampledata.readthedocs.org/en/latest/)"
+            ],
+            [
+              "2",
+              "[@niwinz](https://github.com/niwinz)/[**py-geventserver**](https://github.com/niwinz/py-geventserver)",
+              "Script for launch any wsgi or django application over gevent wsgi server.",
+              "[:arrow_upper_right:](http://readthedocs.org/docs/py-geventserver/en/latest/)"
+            ],
+            [
+              "2",
+              "[@mayhem](https://github.com/mayhem)/[**statler-waldorf**](https://github.com/mayhem/statler-waldorf)",
+              "Grumpy meeting announcer for MusicBrainz.",
+              ""
+            ],
+            [
+              "2",
+              "[@maraujop](https://github.com/maraujop)/[**django-registration**](https://github.com/maraujop/django-registration)",
+              "My personal fork of django-registration 0.8 alpha by James Bennett. Some hacks I've done to it. Read commits if you are curious.",
+              ""
+            ],
+            [
+              "2",
+              "[@niwinz](https://github.com/niwinz)/[**bytehold**](https://github.com/niwinz/bytehold)",
+              "Simple backup tool written in python3, which helps not to repeat scripts.",
               ""
             ]
           ]
