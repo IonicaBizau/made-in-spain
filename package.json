@@ -52,7 +52,8 @@
           "[CSS](#css)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[ActionScript](#actionscript)"
+          "[ActionScript](#actionscript)",
+          "[Clojure](#clojure)"
         ]
       },
       {
@@ -3342,6 +3343,45 @@
               "[@ManfredKarrer](https://github.com/ManfredKarrer)/[**nucleo.io**](https://github.com/ManfredKarrer/nucleo.io)",
               "nucleo.io is an ActionScript / Flex Library containing a scheduler micro-framework for easily configuring tasks to be executed in sequence, parallel or based on their data dependencies.",
               "[:arrow_upper_right:](http://nucleo.io)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Clojure #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "75",
+              "[@jmgimeno](https://github.com/jmgimeno)/[**okasaki-clojure**](https://github.com/jmgimeno/okasaki-clojure)",
+              "Clojure implementation of some data structures described in Okasaki's book",
+              ""
+            ],
+            [
+              "4",
+              "[@jmgimeno](https://github.com/jmgimeno)/[**clojure-pong**](https://github.com/jmgimeno/clojure-pong)",
+              "The game of Pong in Clojure",
+              ""
+            ],
+            [
+              "3",
+              "[@jmgimeno](https://github.com/jmgimeno)/[**om-snake**](https://github.com/jmgimeno/om-snake)",
+              "The game of Snake using om.",
+              ""
+            ],
+            [
+              "2",
+              "[@jmgimeno](https://github.com/jmgimeno)/[**y-combinator**](https://github.com/jmgimeno/y-combinator)",
+              "Code of the presentation \"Y-Not? Adventures in Functional Programming\" by Jim Weirich",
+              ""
             ]
           ]
         }
