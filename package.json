@@ -54,7 +54,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
-          "[CoffeeScript](#coffeescript)"
+          "[CoffeeScript](#coffeescript)",
+          "[Go](#go)"
         ]
       },
       {
@@ -3410,6 +3411,45 @@
               "[@fmartingr](https://github.com/fmartingr)/[**pjaxify**](https://github.com/fmartingr/pjaxify)",
               "Use pjax on your links using only data tags",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@zgiber](https://github.com/zgiber)/[**gears**](https://github.com/zgiber/gears)",
+              "Context aware, chainable, composable minimal http middleware. ",
+              ""
+            ],
+            [
+              "2",
+              "[@ernestoalejo](https://github.com/ernestoalejo)/[**cb**](https://github.com/ernestoalejo/cb)",
+              "Client Builder",
+              ""
+            ],
+            [
+              "2",
+              "[@ernestoalejo](https://github.com/ernestoalejo)/[**nff**](https://github.com/ernestoalejo/nff)",
+              "404 Not Found finder (NFF)",
+              ""
+            ],
+            [
+              "2",
+              "[@ernestoalejo](https://github.com/ernestoalejo)/[**validations**](https://github.com/ernestoalejo/validations)",
+              "Go validations",
+              "[:arrow_upper_right:](https://github.com/ernestoalejo/validations)"
             ]
           ]
         }
