@@ -30,6 +30,7 @@
  - [Shell](#shell)
  - [Swift](#swift)
  - [TeX](#tex)
+
 ### JavaScript #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
