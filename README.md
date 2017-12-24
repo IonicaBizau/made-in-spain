@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -34,6 +35,7 @@
  - [TeX](#tex)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 6726 | [@erikras](https://github.com/erikras)/[**react-redux-universa…**](https://github.com/erikras/react-redux-universal-hot-example) | A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform |
@@ -283,7 +285,9 @@
 2 | [@ajsb85](https://github.com/ajsb85)/[**instantbird-protocol…**](https://github.com/ajsb85/instantbird-protocol-p18x) | Assists to setup a chat account for ZTE Data Cards with P18X Web UI. | [:arrow_upper_right:](http://addons.instantbird.org/addon/372)
 2 | [@ajsb85](https://github.com/ajsb85)/[**mozilla-addon-suscer…**](https://github.com/ajsb85/mozilla-addon-suscerte) | SUSCERTE Root Certificate Importer | [:arrow_upper_right:](https://addons.mozilla.org/en-US/firefox/addon/suscerte-root-certificate/)
 2 | [@dciccale](https://github.com/dciccale)/[**noflash**](https://github.com/dciccale/noflash) | NoFlash Chrome Extension blocks flash from the page until activated manually, or add urls to the white list to exclude sites from blocked. |
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2789 | [@antoniolg](https://github.com/antoniolg)/[**androidmvp**](https://github.com/antoniolg/androidmvp) | MVP Android Example |
@@ -420,7 +424,9 @@
 2 | [@javiersantos](https://github.com/javiersantos)/[**GoogleIOCountdown**](https://github.com/javiersantos/GoogleIOCountdown) | Countdown app for the next Google I/O event. |
 2 | [@javiersantos](https://github.com/javiersantos)/[**FP1415**](https://github.com/javiersantos/FP1415) | Trabajo Práctico de la asignatura "Fundamentos de Programación" - ETSII |
 2 | [@alorma](https://github.com/alorma)/[**RadioButtons_Example**](https://github.com/alorma/RadioButtons_Example) |  |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 153 | [@pruiz](https://github.com/pruiz)/[**WkHtmlToXSharp**](https://github.com/pruiz/WkHtmlToXSharp) | C# wrapper wrapper (using P/Invoke) for the excelent Html to PDF conversion library wkhtmltopdf library. |
@@ -478,14 +484,18 @@
 2 | [@pablovargan](https://github.com/pablovargan)/[**winforms-ooh4ria**](https://github.com/pablovargan/winforms-ooh4ria) | Desktop application using Model-Driven-Development | [:arrow_upper_right:](https://dss-g6.assembla.com/spaces/limpiezaspalmeral)
 2 | [@nesteruk](https://github.com/nesteruk)/[**Navigator**](https://github.com/nesteruk/Navigator) | Fast pop-up folder/directory navigation for Windows |
 2 | [@soywiz](https://github.com/soywiz)/[**opentk**](https://github.com/soywiz/opentk) | A git fork of the project in order to be able to import it as a Git submodule. | [:arrow_upper_right:](http://www.opentk.com/)
+
 ### CSS #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 13 | [@marcoscv-work](https://github.com/marcoscv-work)/[**experimental-liferay…**](https://github.com/marcoscv-work/experimental-liferay-themes) | Free Liferay themes |
 7 | [@marcoscv-work](https://github.com/marcoscv-work)/[**Liferay-6.2-with-Boo…**](https://github.com/marcoscv-work/Liferay-6.2-with-Bootstrap-3.x-theme) |  |
 3 | [@marcoscv-work](https://github.com/marcoscv-work)/[**atomic-design-theme**](https://github.com/marcoscv-work/atomic-design-theme) |  |
 2 | [@aluzardo](https://github.com/aluzardo)/[**aluzardo.github.io**](https://github.com/aluzardo/aluzardo.github.io) | My porfolio and cv online | [:arrow_upper_right:](https://aluzardo.github.io/)
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 134 | [@slp](https://github.com/slp)/[**Telegram-FOSS**](https://github.com/slp/Telegram-FOSS) | Unofficial, FOSS friendly fork of the original Telegram client for Android |
@@ -523,7 +533,9 @@
 2 | [@Kra1o5](https://github.com/Kra1o5)/[**android_kernel_huawe…**](https://github.com/Kra1o5/android_kernel_huawei_msm8x25-common) | Huawei MSM8x25 common kernel tree. |
 2 | [@Jesus89](https://github.com/Jesus89)/[**picorv32-c-examples**](https://github.com/Jesus89/picorv32-c-examples) | C examples for picorv32 CPU |
 2 | [@waninkoko](https://github.com/waninkoko)/[**hero-kernel-2.6.35**](https://github.com/waninkoko/hero-kernel-2.6.35) | Linux kernel for the HTC Wildfire |
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 378 | [@raulmur](https://github.com/raulmur)/[**ORB_SLAM2**](https://github.com/raulmur/ORB_SLAM2) | Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities |
@@ -580,31 +592,41 @@
 2 | [@demiurgosoft](https://github.com/demiurgosoft)/[**open-hanafuda**](https://github.com/demiurgosoft/open-hanafuda) | Game based on  classic japanese deck hanafuda to play Koi-Koi. Programmed using C++,Allegro 5 and decksim |
 2 | [@David-Estevez](https://github.com/David-Estevez)/[**gecko**](https://github.com/David-Estevez/gecko) | Gesture Control via webcam |
 2 | [@drodri](https://github.com/drodri)/[**opencv-biicode**](https://github.com/drodri/opencv-biicode) | Biicode hooks for opencv, both 2.4 and 3.0 beta. Simple getting started for opencv in C/C++ |
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 15 | [@moebiuz](https://github.com/moebiuz)/[**Starling-Extension-P…**](https://github.com/moebiuz/Starling-Extension-Parallax-Layer) | Starling custom Sprite to create Parallax Scrolling layers |
 6 | [@ManfredKarrer](https://github.com/ManfredKarrer)/[**nucleo.io**](https://github.com/ManfredKarrer/nucleo.io) | nucleo.io is an ActionScript / Flex Library containing a scheduler micro-framework for easily configuring tasks to be executed in sequence, parallel or based on their data dependencies. | [:arrow_upper_right:](http://nucleo.io)
+
 ### Clojure #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 75 | [@jmgimeno](https://github.com/jmgimeno)/[**okasaki-clojure**](https://github.com/jmgimeno/okasaki-clojure) | Clojure implementation of some data structures described in Okasaki's book |
 4 | [@jmgimeno](https://github.com/jmgimeno)/[**clojure-pong**](https://github.com/jmgimeno/clojure-pong) | The game of Pong in Clojure |
 3 | [@jmgimeno](https://github.com/jmgimeno)/[**om-snake**](https://github.com/jmgimeno/om-snake) | The game of Snake using om. |
 2 | [@jmgimeno](https://github.com/jmgimeno)/[**y-combinator**](https://github.com/jmgimeno/y-combinator) | Code of the presentation "Y-Not? Adventures in Functional Programming" by Jim Weirich |
+
 ### CoffeeScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 12 | [@alvaro-cuesta](https://github.com/alvaro-cuesta)/[**nerdobot**](https://github.com/alvaro-cuesta/nerdobot) | IRC bot for #mv.nerd built with CoffeeScript + NodeJS |
 5 | [@fmartingr](https://github.com/fmartingr)/[**pjaxify**](https://github.com/fmartingr/pjaxify) | Use pjax on your links using only data tags |
+
 ### Go #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@zgiber](https://github.com/zgiber)/[**gears**](https://github.com/zgiber/gears) | Context aware, chainable, composable minimal http middleware.  |
 2 | [@ernestoalejo](https://github.com/ernestoalejo)/[**cb**](https://github.com/ernestoalejo/cb) | Client Builder |
 2 | [@ernestoalejo](https://github.com/ernestoalejo)/[**nff**](https://github.com/ernestoalejo/nff) | 404 Not Found finder (NFF) |
 2 | [@ernestoalejo](https://github.com/ernestoalejo)/[**validations**](https://github.com/ernestoalejo/validations) | Go validations | [:arrow_upper_right:](https://github.com/ernestoalejo/validations)
+
 ### Haskell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 17 | [@samplecount](https://github.com/samplecount)/[**shake-language-c**](https://github.com/samplecount/shake-language-c) | Cross-compilation framework based on the Shake Haskell library. | [:arrow_upper_right:](https://github.com/samplecount/shake-language-c#shake-language-c)
@@ -629,7 +651,9 @@
 2 | [@pepeiborra](https://github.com/pepeiborra)/[**alacarte**](https://github.com/pepeiborra/alacarte) | An implementation of Wouter Swierstra "Data Types a la Carte" open types, with some custom instances for the injection type class | [:arrow_upper_right:](http://safe-tools.dsic.upv.es/mediawiki/index.php/Jose_Iborra)
 2 | [@Capelare](https://github.com/Capelare)/[**ejercicios-haskell**](https://github.com/Capelare/ejercicios-haskell) | Ejercicios en Haskell para la asignatura Programación Declarativa. |
 2 | [@pepeiborra](https://github.com/pepeiborra)/[**fetchrules**](https://github.com/pepeiborra/fetchrules) | Utilities for automatic parsing and conversion of TRSs in several formats | [:arrow_upper_right:](http://safe-tools.dsic.upv.es/mediawiki/index.php/Jose_Iborra)
+
 ### Lua #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 702 | [@kikito](https://github.com/kikito)/[**middleclass**](https://github.com/kikito/middleclass) | Object-orientation for Lua | [:arrow_upper_right:](https://github.com/kikito/middleclass)
@@ -666,14 +690,18 @@
 3 | [@eipporko](https://github.com/eipporko)/[**ShootEmAll**](https://github.com/eipporko/ShootEmAll) | Prototype for löve 2d 0.10.0 | [:arrow_upper_right:](http://eipporko.github.io/ShootEmAll)
 2 | [@Diarandor](https://github.com/Diarandor)/[**repository**](https://github.com/Diarandor/repository) |  |
 2 | [@kikito](https://github.com/kikito)/[**modis.lua**](https://github.com/kikito/modis.lua) | Lua implementation of MongoDB query language over redis. |
+
 ### Matlab #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 5 | [@spatUV](https://github.com/spatUV)/[**SART3Dmaster**](https://github.com/spatUV/SART3Dmaster) | Master repository for 3D Spatial Audio Reproduction Toolbox |
 5 | [@4rtur1t0](https://github.com/4rtur1t0)/[**ARTE**](https://github.com/4rtur1t0/ARTE) | ARTE (A Robotics Toolbox for Education) | [:arrow_upper_right:](http://arvc.umh.es/arte)
 4 | [@IPL-UV](https://github.com/IPL-UV)/[**altoolbox**](https://github.com/IPL-UV/altoolbox) | MATLAB Active Learning Toolbox for Remote Sensing |
 2 | [@lucbpz](https://github.com/lucbpz)/[**DUET-MATLAB**](https://github.com/lucbpz/DUET-MATLAB) | DUET Algorithm on MATLAB. Blind Source Separation. |
+
 ### Objective-C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 755 | [@AlvaroFranco](https://github.com/AlvaroFranco)/[**AFSoundManager**](https://github.com/AlvaroFranco/AFSoundManager) | iOS audio playing (both local and streaming) and recording made easy |
@@ -795,7 +823,9 @@
 2 | [@j4n0](https://github.com/j4n0)/[**sketch**](https://github.com/j4n0/sketch) | Stupid sketch app for Quora answer http://www.quora.com/Objective-C-program… |
 2 | [@alexruperez](https://github.com/alexruperez)/[**Fyber-Mobile-SDK**](https://github.com/alexruperez/Fyber-Mobile-SDK) | Fyber's Mobile SDK. Fyber (formerly SponsorPay) is a leading advertising technology company that empowers app developers to execute smart ad monetization strategies across all connected devices through a unified mobile supply side platform. | [:arrow_upper_right:](http://www.fyber.com)
 2 | [@koke](https://github.com/koke)/[**appstatus-iphone**](https://github.com/koke/appstatus-iphone) | iPhone app status report controller | [:arrow_upper_right:](http://appstatus.jorgebernal.info/)
+
 ### Perl #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 127 | [@JJ](https://github.com/JJ)/[**hoborg**](https://github.com/JJ/hoborg) | A dieselpunk novel with Spanish-created robot hobos in a balcanized America at the beginning of the XX century |
@@ -843,7 +873,9 @@
 2 | [@salva](https://github.com/salva)/[**p5-Config-Properties**](https://github.com/salva/p5-Config-Properties) | Release history of Config-Properties | [:arrow_upper_right:](http://search.cpan.org/dist/Config-Properties/)
 2 | [@clintongormley](https://github.com/clintongormley)/[**App-Cerberus**](https://github.com/clintongormley/App-Cerberus) | A pluggable Perl web service to preprocess web requests. Plugins can add geo, timezone and browser metadata, and throttle request rate  |
 2 | [@salva](https://github.com/salva)/[**p5-Math-Vector-Real-…**](https://github.com/salva/p5-Math-Vector-Real-kdTree) | kd-Trees in Perl |
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1114 | [@javiereguiluz](https://github.com/javiereguiluz)/[**EasyAdminBundle**](https://github.com/javiereguiluz/EasyAdminBundle) | The new (and simple) admin generator for Symfony applications. |
@@ -968,7 +1000,9 @@
 2 | [@desarrolla2](https://github.com/desarrolla2)/[**TwitterClient**](https://github.com/desarrolla2/TwitterClient) |  |
 2 | [@carlosbuenosvinos](https://github.com/carlosbuenosvinos)/[**php-ports-and-adapte…**](https://github.com/carlosbuenosvinos/php-ports-and-adapters-helper) | PHP package for making easy to use Hexagonal Architecture (Ports and Adapters) |
 2 | [@uno-de-piera](https://github.com/uno-de-piera)/[**hmvcci3**](https://github.com/uno-de-piera/hmvcci3) | Hmvc project with codeigniter 3. |
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2442 | [@maraujop](https://github.com/maraujop)/[**django-crispy-forms**](https://github.com/maraujop/django-crispy-forms) | The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML. | [:arrow_upper_right:](http://django-crispy-forms.rtfd.org)
@@ -1099,7 +1133,9 @@
 2 | [@mayhem](https://github.com/mayhem)/[**statler-waldorf**](https://github.com/mayhem/statler-waldorf) | Grumpy meeting announcer for MusicBrainz. |
 2 | [@maraujop](https://github.com/maraujop)/[**django-registration**](https://github.com/maraujop/django-registration) | My personal fork of django-registration 0.8 alpha by James Bennett. Some hacks I've done to it. Read commits if you are curious. |
 2 | [@niwinz](https://github.com/niwinz)/[**bytehold**](https://github.com/niwinz/bytehold) | Simple backup tool written in python3, which helps not to repeat scripts. |
+
 ### R #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 84 | [@oscarperpinan](https://github.com/oscarperpinan)/[**spacetime-vis**](https://github.com/oscarperpinan/spacetime-vis) | Methods to display time series, spatial and space-time data using R | [:arrow_upper_right:](http://oscarperpinan.github.io/spacetime-vis/)
@@ -1121,7 +1157,9 @@
 2 | [@pedroj](https://github.com/pedroj)/[**FRUBASE**](https://github.com/pedroj/FRUBASE) | This is the page for the FRUBASE database, a huge dataset of fleshy fruit traits compiled from bibliographic references and my own work. Data are provided for more than 1000 plant species from all around the world. |
 2 | [@masalmon](https://github.com/masalmon)/[**usaqmindia**](https://github.com/masalmon/usaqmindia) | Data from the U.S. Embassy and Consulate air quality monitors in India |
 2 | [@sestelo](https://github.com/sestelo)/[**shiny_npregfast**](https://github.com/sestelo/shiny_npregfast) | A shiny app for the npregfast  package |
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1730 | [@scambra](https://github.com/scambra)/[**devise_invitable**](https://github.com/scambra/devise_invitable) | An invitation strategy for devise |
@@ -1242,12 +1280,16 @@
 2 | [@jsierles](https://github.com/jsierles)/[**asterisk-cookbook**](https://github.com/jsierles/asterisk-cookbook) | A Chef cookbook for creating an Asterisk server |
 2 | [@rubiojr](https://github.com/rubiojr)/[**diskid**](https://github.com/rubiojr/diskid) |  |
 2 | [@micho](https://github.com/micho)/[**json-pusher**](https://github.com/micho/json-pusher) | Bridge from JS to Pusherapp, to broadcast JSON payloads to and from JS |
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 9 | [@algd](https://github.com/algd)/[**oauth2.0-scala**](https://github.com/algd/oauth2.0-scala) | OAuth 2.0 authorization provider implementation for Akka-http |
 6 | [@JSantosP](https://github.com/JSantosP)/[**lolcode-dsl**](https://github.com/JSantosP/lolcode-dsl) | Activator template for Lolcode DSL. This activator aims to use Scala as a powerfull tool for embedding domain specific languages. |
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 40 | [@aplatanado](https://github.com/aplatanado)/[**yakuake-session**](https://github.com/aplatanado/yakuake-session) | A script to create new yakuake sessions from command-line or '.desktop' files. It allows yakuake to be a better replacement of konsole. |
@@ -1264,14 +1306,19 @@
 2 | [@imobilis](https://github.com/imobilis)/[**swadInstall**](https://github.com/imobilis/swadInstall) | Setup scripts for e-Learning platform OpenSWAD | [:arrow_upper_right:](http://openswad.com)
 2 | [@marioblas](https://github.com/marioblas)/[**dotfiles**](https://github.com/marioblas/dotfiles) | :computer: My macOS dotfiles |
 2 | [@jorgemoralespou](https://github.com/jorgemoralespou)/[**docker-jboss-modclus…**](https://github.com/jorgemoralespou/docker-jboss-modcluster) | Dcoker image for JBoss modcluster |
+
 ### Swift #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 19 | [@robertofrontado](https://github.com/robertofrontado)/[**RxSocialConnect-iOS**](https://github.com/robertofrontado/RxSocialConnect-iOS) | OAuth RxSwift extension for iOS. |
+
 ### TeX #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@oxcar103](https://github.com/oxcar103)/[**Benchmark-103**](https://github.com/oxcar103/Benchmark-103) | Práctica sobre Benchmark de Ingeniería de Servidores(IS) |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
